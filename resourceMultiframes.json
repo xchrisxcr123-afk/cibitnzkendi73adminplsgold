@@ -1,0 +1,180 @@
+{
+	"id": "IMAGES",
+	"items": [
+		{
+			"name": "galaxian_m0",
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+        {
+			"name": "tictactoe_m0",
+			"fps": 20,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 64
+		},
+        {
+			"name": "iceflurry_m0",
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+        {
+			"name": "lightningstorm_m0",
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+        {
+			"name": "matrix_m0",
+			"fps": 18,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 10
+		},
+        {
+			"name": "glow_m0",
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+        {
+			"name": "galaxy_m0",
+			"fps": 10,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 18
+		},
+        {
+			"name": "iceflurry_m0",
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+        {
+			"name": "cryo_m0",
+			"fps": 32,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 256
+		},
+        {
+			"name": "turbo_m0",
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 128
+		},
+        {
+			"name": "besthelper_m0",
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+        {
+			"name": "flame2_m0",
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+        {
+			"name": "champion_m0",
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 256
+		},
+        {
+			"name": "tesseractcamo_m0",
+			"fps": 32,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 256
+		},
+		{
+			"name": "firstkiss_m0",
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "fallleaves_m0",
+			"fps": 24,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 64
+		},
+		{
+			"name": "adversity_m0",
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "electricsheep_m0",
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "electrohive_m0",
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "glamcroc_m0",
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "blacksea_m0",
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "synesthesia_m0",
+			"fps": 20,
+			"frame_heigth": 256,
+			"frame_width": 256,
+			"num_frames": 64
+		},
+		{
+			"name": "smokescreen_m0",
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "monochrome_m0",
+			"fps": 30,
+			"frame_heigth": 1,
+			"frame_width": 1,
+			"num_frames": 1000
+		},
+		{
+			"name": "integratedcircuit_m0",
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		}
+	]
+}
