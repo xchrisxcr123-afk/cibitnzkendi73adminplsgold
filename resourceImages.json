@@ -4860,6 +4860,10 @@
 			"src": "effects/prem.png"
 		},
 		{
+			"name": "premium_previewcontainer",
+			"src": "container/premium.png"
+		},
+		{
 			"name": "twins_m0_explosionTexture",
 			"src": "turret/twins/m0/explosion.png"
 		},
@@ -5648,6 +5652,26 @@
 			"src": "inventory/mine/inventory_mine.png"
 		},
 		{
+			"name": "health_m0_previewcontainer",
+			"src": "container/repair.png"
+		},
+		{
+			"name": "armor_m0_previewcontainer",
+			"src": "container/armor.png"
+		},
+		{
+			"name": "double_damage_m0_previewcontainer",
+			"src": "container/damage.png"
+		},
+		{
+			"name": "n2o_m0_previewcontainer",
+			"src": "container/speed.png"
+		},
+		{
+			"name": "mine_m0_previewcontainer",
+			"src": "container/mine.png"
+		},
+		{
 			"name": "blueMineTexture",
 			"src": "mines/mine_blue.jpg"
 		},
@@ -5678,6 +5702,14 @@
 		{
 			"name": "crystalls",
 			"src": "effects/crys.png"
+		},
+		{
+			"name": "crystalls_previewcontainer",
+			"src": "container/smallcry.png"
+		},
+		{
+			"name": "crystalls_big_previewcontainer",
+			"src": "container/bigcry.png"
 		},
 		{
 			"name": "up_score_start_m0_preview",
