@@ -391,7 +391,7 @@
 		},
 		{
 			"name": "bonus_box_prize",
-			"src": "bonus/boxes/prizebox/box.jpg"
+			"src": "bonus/boxes/prizebox/box.jpg?v1"
 		},
 		{
 			"name": "bonus_box_spin",
