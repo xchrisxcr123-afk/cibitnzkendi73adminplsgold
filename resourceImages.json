@@ -6942,6 +6942,10 @@
 		{
 			"name": "map_hw_sandbox_preview",
 			"src": "maps/map_hw_sandbox_preview.png"
+		},
+		{
+			"name": "shot_striker_explosion_default",
+			"src": "jgr/shot_striker_explosion_default/image.png"
 		}
 	]
 }

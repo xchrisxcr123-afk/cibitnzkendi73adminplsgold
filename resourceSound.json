@@ -296,6 +296,38 @@
 	  {
 		"name": "unstoppable",
 		"src": "jgr/unstoppable.mp3"
+	  },
+	  {
+		"name": "sound_striker_aim_1",
+		"src": "rocketlauncher/sound_striker_aim_1/sound.mp3"
+	  },
+	  {
+		"name": "sound_striker_aim_2",
+		"src": "rocketlauncher/sound_striker_aim_2/sound.mp3"
+	  },
+	  {
+		"name": "sound_striker_aim_3",
+		"src": "rocketlauncher/sound_striker_aim_3/sound.mp3"
+	  },
+	  {
+		"name": "sound_striker_hit_1",
+		"src": "rocketlauncher/sound_striker_hit_1/sound.mp3"
+	  },
+	  {
+		"name": "sound_striker_hit_2",
+		"src": "rocketlauncher/sound_striker_hit_2/sound.mp3"
+	  },
+	  {
+		"name": "sound_striker_rocket_flight",
+		"src": "rocketlauncher/sound_striker_rocket_flight/sound.mp3"
+	  },
+	  {
+		"name": "sound_striker_shot_1",
+		"src": "rocketlauncher/sound_striker_shot_1/sound.mp3"
+	  },
+	  {
+		"name": "sound_striker_shot_2",
+		"src": "rocketlauncher/sound_striker_shot_2/sound.mp3"
 	  }
 	  
 	]
