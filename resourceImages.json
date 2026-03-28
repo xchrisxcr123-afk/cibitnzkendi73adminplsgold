@@ -6957,7 +6957,7 @@
 		},
 		{
 			"name": "shot_striker_rocket_trail_fire",
-			"src": "jgr/shot_striker_rocket_trail_fire/image.png"
+			"src": "jgr/shot_striker_rocket_trail_fire/image.png?v1"
 		}
 	]
 }
