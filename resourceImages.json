@@ -6950,6 +6950,14 @@
 		{
 			"name": "shot_striker_standard_mark",
 			"src": "jgr/shot_striker_standard_mark/image.png"
+		},
+		{
+			"name": "shot_striker_rocket_trail_smoke",
+			"src": "jgr/shot_striker_rocket_trail_smoke/image.png"
+		},
+		{
+			"name": "shot_striker_rocket_trail_fire",
+			"src": "jgr/shot_striker_rocket_trail_fire/image.png"
 		}
 	]
 }
