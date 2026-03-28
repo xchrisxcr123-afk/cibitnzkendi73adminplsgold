@@ -6946,6 +6946,10 @@
 		{
 			"name": "shot_striker_explosion_default",
 			"src": "jgr/shot_striker_explosion_default/image.png"
+		},
+		{
+			"name": "shot_striker_standard_mark",
+			"src": "jgr/shot_striker_standard_mark/image.png"
 		}
 	]
 }
