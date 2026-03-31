@@ -2493,11 +2493,11 @@
 		},
 		{
 			"name": "holiday_m0",
-			"src": "colormaps/holiday/image.jpg"
+			"src": "colormaps/holiday/image_apr.jpg"
 		},
 		{
 			"name": "holiday_m0_preview",
-			"src": "colormaps/holiday/preview.png"
+			"src": "colormaps/holiday/preview_apr.png"
 		},
 		{
 			"name": "red_m0",

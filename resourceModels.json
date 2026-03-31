@@ -283,7 +283,7 @@
         },
         {
             "name": "terminator_m0",
-            "src": "turret/terminator/m0/turret.3ds"
+            "src": "turret/terminator/m0/object.3ds?V1"
         },
         {
             "name": "terminator_m1",
