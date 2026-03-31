@@ -2493,7 +2493,7 @@
 		},
 		{
 			"name": "holiday_m0",
-			"src": "colormaps/holiday/image_apr.jpg"
+			"src": "colormaps/holiday/image_apr.jpg?v1"
 		},
 		{
 			"name": "holiday_m0_preview",
