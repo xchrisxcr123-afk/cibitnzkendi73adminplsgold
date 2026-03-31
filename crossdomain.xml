@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE cross-domain-policy SYSTEM "http://www.adobe.com/xml/dtds/cross-domain-policy.dtd">
+<cross-domain-policy>
+  <site-control permitted-cross-domain-policies="all"/>
+  <!-- HTTP loader (e.g. Flash Player / projector on port 2082) -->
+  <allow-access-from domain="cdn.cybertankz.online" to-ports="*" secure="false"/>
+  <!-- HTTPS loader, if you ever host the SWF over TLS on the same host -->
+  <allow-access-from domain="cdn.cybertankz.online" to-ports="*" secure="true"/>
+  <!-- Optional: other subdomains; remove if you want least privilege -->
+  <allow-access-from domain="*.cybertankz.online" to-ports="*" secure="false"/>
+  <allow-access-from domain="*.cybertankz.online" to-ports="*" secure="true"/>
+</cross-domain-policy>
