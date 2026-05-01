@@ -38,6 +38,10 @@
             "src": "hull/vikingxt/m0/hull.3ds?v1"
         },
         {
+            "name": "viking_lc",
+            "src": "hull/vikinglc/m0/hull.3ds?v1"
+        },
+        {
             "name": "viking_dc",
             "src": "hull/vikingdc/m0/hull.3ds?v1"
         },
@@ -100,6 +104,10 @@
         {
             "name": "thunder_xt",
             "src": "turret/thunder_xt/m0/turret.3ds"
+        },
+        {
+            "name": "thunder_lc",
+            "src": "turret/thunder_lc/m0/turret.3ds"
         },
         {
             "name": "thunder_m0",

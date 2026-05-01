@@ -852,6 +852,18 @@
 			"src": "turret/thunder_xt/m0/preview.png"
 		},
 		{
+			"name": "thunder_lc_lightmap",
+			"src": "turret/thunder_lc/m0/lightmap.jpg"
+		},
+		{
+			"name": "thunder_lc_details",
+			"src": "turret/thunder_lc/m0/details.png"
+		},
+		{
+			"name": "thunder_lc_preview",
+			"src": "turret/thunder_lc/m0/preview.png"
+		},
+		{
 			"name": "thunder_m0_lightmap",
 			"src": "turret/thunder/m0/lightmap.jpg"
 		},
@@ -1856,6 +1868,18 @@
 			"src": "hull/vikingxt/m0/preview.png"
 		},
 		{
+			"name": "viking_lc_details",
+			"src": "hull/vikinglc/m0/details.png?v1"
+		},
+		{
+			"name": "viking_lc_lightmap",
+			"src": "hull/vikinglc/m0/lightmap.jpg?v1"
+		},
+		{
+			"name": "viking_lc_preview",
+			"src": "hull/vikinglc/m0/preview.png"
+		},
+		{
 			"name": "juggernaut_m0_details",
 			"src": "hull/juggernaut/m0/details.png?v1"
 		},
@@ -2493,11 +2517,11 @@
 		},
 		{
 			"name": "holiday_m0",
-			"src": "colormaps/holiday/image_apr.jpg?v1"
+			"src": "colormaps/holiday/image_def.jpg?v1"
 		},
 		{
 			"name": "holiday_m0_preview",
-			"src": "colormaps/holiday/preview_apr.png"
+			"src": "colormaps/holiday/preview_def.png"
 		},
 		{
 			"name": "red_m0",
