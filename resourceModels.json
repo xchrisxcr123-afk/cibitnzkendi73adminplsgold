@@ -338,6 +338,10 @@
             "src": "turret/snowman/m0/turret.3ds"
         },
         {
+            "name": "snowman_xt",
+            "src": "turret/snowman/xt/turret.3ds"
+        },
+        {
             "name": "wasp_m0",
             "src": "hull/wasp/m0/hull.3ds?v1"
         },

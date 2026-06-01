@@ -1680,6 +1680,30 @@
 			"src": "turret/snowman/m0/snow.png"
 		},
 		{
+			"name": "snowman_xt_details",
+			"src": "turret/snowman/xt/details.jpg"
+		},
+		{
+			"name": "snowman_xt_lightmap",
+			"src": "turret/snowman/xt/lighmap.jpg"
+		},
+		{
+			"name": "snowman_xt_preview",
+			"src": "turret/snowman/xt/preview.png"
+		},
+		{
+			"name": "snowman_xt_fire",
+			"src": "turret/snowman/xt/fire.png"
+		},
+		{
+			"name": "snowman_xt_shot",
+			"src": "turret/snowman/xt/shot.png"
+		},
+		{
+			"name": "snowman_xt_snow",
+			"src": "turret/snowman/xt/snow.png"
+		},
+		{
 			"name": "wasp_m0_lightmap",
 			"src": "hull/wasp/m0/lightmap.jpg?v1"
 		},
