@@ -1681,7 +1681,7 @@
 		},
 		{
 			"name": "snowman_xt_details",
-			"src": "turret/snowman/xt/details.png"
+			"src": "turret/snowman/xt/details.png?v2"
 		},
 		{
 			"name": "snowman_xt_lightmap",
