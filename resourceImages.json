@@ -1681,11 +1681,11 @@
 		},
 		{
 			"name": "snowman_xt_details",
-			"src": "turret/snowman/xt/details.png?v1"
+			"src": "turret/snowman/xt/details.png"
 		},
 		{
 			"name": "snowman_xt_lightmap",
-			"src": "turret/snowman/xt/lighmap.jpg?v1"
+			"src": "turret/snowman/xt/lighmap.jpg"
 		},
 		{
 			"name": "snowman_xt_preview",
