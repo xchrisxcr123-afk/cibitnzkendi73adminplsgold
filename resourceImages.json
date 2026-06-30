@@ -1108,6 +1108,22 @@
 			"src": "turret/smoky_xt/details.png?v1"
 		},
 		{
+			"name": "smoky_lc_preview",
+			"src": "turret/smoky_lc/preview.png?v1"
+		},
+		{
+			"name": "smoky_lc_lightmap",
+			"src": "turret/smoky_lc/lightmap.jpg?v1"
+		},
+		{
+			"name": "smoky_lc_details",
+			"src": "turret/smoky_lc/details.png?v1"
+		},
+		{
+			"name": "smoky_lc_preview",
+			"src": "turret/smoky_lc/preview.png?v1"
+		},
+		{
 			"name": "flamethrower_m0_lightmap",
 			"src": "turret/flamethrower/m0/lightmap.jpg?v1"
 		},
@@ -1928,6 +1944,18 @@
 			"src": "hull/waspxt/m0/preview.png"
 		},
 		{
+			"name": "wasp_lc_lightmap",
+			"src": "hull/wasplc/m0/lightmap.jpg?v1"
+		},
+		{
+			"name": "wasp_lc_details",
+			"src": "hull/wasplc/m0/details.png?v1"
+		},
+		{
+			"name": "wasp_lc_preview",
+			"src": "hull/wasplc/m0/preview.png"
+		},
+		{
 			"name": "hunter_xt_lightmap",
 			"src": "hull/hunterxt/m0/lightmap.jpg?v1"
 		},
@@ -2413,6 +2441,38 @@
 		{
 			"name": "scarierthings_m0_preview",
 			"src": "colormaps/scarierthings/preview.png"
+		},
+		{
+			"name": "honor_m0",
+			"src": "colormaps/honor/image.png"
+		},
+		{
+			"name": "honor_m0_preview",
+			"src": "colormaps/honor/preview.png"
+		},
+		{
+			"name": "greenquads_m0",
+			"src": "colormaps/greenquads/image.png"
+		},
+		{
+			"name": "greenquads_m0_preview",
+			"src": "colormaps/greenquads/preview.png"
+		},
+		{
+			"name": "greenzircon_m0",
+			"src": "colormaps/greenzircon/image.png"
+		},
+		{
+			"name": "greenzircon_m0_preview",
+			"src": "colormaps/greenzircon/preview.png"
+		},
+		{
+			"name": "groovyneon_m0",
+			"src": "colormaps/groovyneon/image.png"
+		},
+		{
+			"name": "groovyneon_m0_preview",
+			"src": "colormaps/groovyneon/preview.png"
 		},
 		{
 			"name": "fallleaves_m0",
@@ -5704,6 +5764,10 @@
 			"src": "container/repair.png"
 		},
 		{
+			"name": "gold_m0_previewcontainer",
+			"src": "container/gold.png"
+		},
+		{
 			"name": "armor_m0_previewcontainer",
 			"src": "container/armor.png"
 		},
@@ -5714,6 +5778,10 @@
 		{
 			"name": "n2o_m0_previewcontainer",
 			"src": "container/speed.png"
+		},
+		{
+			"name": "mine_m0_previewcontainer",
+			"src": "container/mine.png"
 		},
 		{
 			"name": "mine_m0_previewcontainer",

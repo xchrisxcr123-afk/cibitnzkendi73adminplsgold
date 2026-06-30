@@ -86,6 +86,10 @@
             "src": "hull/waspxt/m0/hull.3ds?v1"
         },
         {
+            "name": "wasp_lc",
+            "src": "hull/wasplc/m0/hull.3ds?v1"
+        },
+        {
             "name": "wasp_dc",
             "src": "hull/waspdc/m0/hull.3ds?v1"
         },
@@ -168,6 +172,10 @@
         {
             "name": "smoky_lcxt",
             "src": "turret/smoky_xt/turret.3ds"
+        },
+        {
+            "name": "smoky_lc",
+            "src": "turret/smoky_lc/turret.3ds"
         },
         {
             "name": "twins_xt",

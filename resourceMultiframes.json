@@ -175,6 +175,34 @@
 			"frame_heigth": 128,
 			"frame_width": 128,
 			"num_frames": 64
+		},
+		{
+			"name": "honor_m0",
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "groovyneon_m0",
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "greenzircon_m0",
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "greenquads_m0",
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
 		}
 	]
 }
