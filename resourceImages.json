@@ -382,14 +382,6 @@
 			"src": "maps/map_test_preview.jpg"
 		},
 		{
-			"name": "bonus_box_lightmap",
-			"src": "bonus/boxes/details/lightmap.jpg?v1"
-		},
-		{
-			"name": "bonus_box_details",
-			"src": "bonus/boxes/details/details.png?v1"
-		},
-		{
 			"name": "bonus_box_prize",
 			"src": "bonus/boxes/prizebox/box.jpg?v1"
 		},
@@ -1080,10 +1072,6 @@
 			"src": "turret/smoky/m3/details.png?v1"
 		},
 		{
-			"name": "smoky_m3_preview",
-			"src": "turret/smoky/m3/preview.png?v1"
-		},
-		{
 			"name": "smoky_xt_preview",
 			"src": "turret/smokyxt/m3/preview.png?v1"
 		},
@@ -1118,10 +1106,6 @@
 		{
 			"name": "smoky_lc_details",
 			"src": "turret/smoky_lc/details.png?v1"
-		},
-		{
-			"name": "smoky_lc_preview",
-			"src": "turret/smoky_lc/preview.png?v1"
 		},
 		{
 			"name": "flamethrower_m0_lightmap",
@@ -2280,7 +2264,12 @@
 		},
 		{
 			"name": "silver_m0",
-			"src": "colormaps/silver/image.jpg"
+			"src": "colormaps/silver/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 256
 		},
 		{
 			"name": "silver_m0_preview",
@@ -2384,8 +2373,8 @@
 			"src": "colormaps/runes/image.jpg",
 			"multiframe": true,
 			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
+			"frame_heigth": 64,
+			"frame_width": 64,
 			"num_frames": 64
 		},
 		{
@@ -2444,7 +2433,12 @@
 		},
 		{
 			"name": "honor_m0",
-			"src": "colormaps/honor/image.png"
+			"src": "colormaps/honor/image.png",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
 		},
 		{
 			"name": "honor_m0_preview",
@@ -2452,7 +2446,12 @@
 		},
 		{
 			"name": "greenquads_m0",
-			"src": "colormaps/greenquads/image.png"
+			"src": "colormaps/greenquads/image.png",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
 		},
 		{
 			"name": "greenquads_m0_preview",
@@ -2460,7 +2459,12 @@
 		},
 		{
 			"name": "greenzircon_m0",
-			"src": "colormaps/greenzircon/image.png"
+			"src": "colormaps/greenzircon/image.png",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
 		},
 		{
 			"name": "greenzircon_m0_preview",
@@ -2468,7 +2472,12 @@
 		},
 		{
 			"name": "groovyneon_m0",
-			"src": "colormaps/groovyneon/image.png"
+			"src": "colormaps/groovyneon/image.png",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
 		},
 		{
 			"name": "groovyneon_m0_preview",
@@ -2478,7 +2487,7 @@
 			"name": "fallleaves_m0",
 			"src": "colormaps/fallleaves/image.jpg",
 			"multiframe": true,
-			"fps": 24,
+			"fps": 22,
 			"frame_heigth": 64,
 			"frame_width": 64,
 			"num_frames": 64
@@ -2529,7 +2538,12 @@
 		},
 		{
 			"name": "turbo_m0",
-			"src": "colormaps/turbo/image.jpg"
+			"src": "colormaps/turbo/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 128
 		},
 		{
 			"name": "turbo_m0_preview",
@@ -2537,7 +2551,12 @@
 		},
 		{
 			"name": "glow_m0",
-			"src": "colormaps/glow/image.jpg"
+			"src": "colormaps/glow/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
 		},
 		{
 			"name": "glow_m0_preview",
@@ -2545,7 +2564,12 @@
 		},
 		{
 			"name": "cryo_m0",
-			"src": "colormaps/cryo/image.jpg"
+			"src": "colormaps/cryo/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 256
 		},
 		{
 			"name": "cryo_m0_preview",
@@ -2592,20 +2616,17 @@
 			"src": "colormaps/bears/preview.png"
 		},
 		{
-			"name": "glow_m0",
-			"src": "colormaps/glow/image.jpg"
-		},
-		{
-			"name": "glow_m0_preview",
-			"src": "colormaps/glow/preview.png"
-		},
-		{
 			"name": "holiday_m0",
-			"src": "colormaps/holiday/image_def.jpg?v1"
+			"src": "colormaps/holiday/image.jpg",
+			"multiframe": true,
+			"fps": 3,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 6
 		},
 		{
 			"name": "holiday_m0_preview",
-			"src": "colormaps/holiday/preview_def.png"
+			"src": "colormaps/holiday/preview.png"
 		},
 		{
 			"name": "red_m0",
@@ -2929,7 +2950,12 @@
 		},
 		{
 			"name": "surf_m0",
-			"src": "colormaps/surf/image.jpg"
+			"src": "colormaps/surf/image.jpg",
+			"multiframe": true,
+			"fps": 48,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 256
 		},
 		{
 			"name": "surf_m0_preview",
@@ -3097,7 +3123,12 @@
 		},
 		{
 			"name": "besthelper_m0",
-			"src": "colormaps/besthelper/image.jpg"
+			"src": "colormaps/besthelper/image.jpg",
+			"multiframe": true,
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
 		},
 		{
 			"name": "besthelper_m0_preview",
@@ -3121,7 +3152,12 @@
 		},
 		{
 			"name": "champion_m0",
-			"src": "colormaps/champion/image.jpg"
+			"src": "colormaps/champion/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 256
 		},
 		{
 			"name": "champion_m0_preview",
@@ -3358,7 +3394,12 @@
 		},
 		{
 			"name": "flame2_m0",
-			"src": "colormaps/flame2/image.jpg"
+			"src": "colormaps/flame2/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
 		},
 		{
 			"name": "flame2_m0_preview",
@@ -3865,7 +3906,7 @@
 			"name": "alienreg_m0",
 			"src": "colormaps/alienreg/image.jpg",
 			"multiframe": true,
-			"fps": 32,
+			"fps": 24,
 			"frame_heigth": 128,
 			"frame_width": 128,
 			"num_frames": 64
@@ -3891,16 +3932,16 @@
 			"name": "flow_m0",
 			"src": "colormaps/flow/image.jpg",
 			"multiframe": true,
-			"fps": 25,
-			"frame_heigth": 250,
-			"frame_width": 250,
+			"fps": 16,
+			"frame_heigth": 256,
+			"frame_width": 256,
 			"num_frames": 16
 		},
 		{
 			"name": "nightmare_m0",
 			"src": "colormaps/nightmare/image.jpg",
 			"multiframe": true,
-			"fps": 25,
+			"fps": 20,
 			"frame_heigth": 64,
 			"frame_width": 64,
 			"num_frames": 25
@@ -3913,10 +3954,10 @@
 			"name": "spectr_m0",
 			"src": "colormaps/spectr/image.jpg",
 			"multiframe": true,
-			"fps": 25,
+			"fps": 15,
 			"frame_heigth": 1,
-			"frame_width": 2,
-			"num_frames": 500
+			"frame_width": 1,
+			"num_frames": 1000
 		},
 		{
 			"name": "spectr_m0_preview",
@@ -3999,14 +4040,6 @@
 		{
 			"name": "garland_m0_preview",
 			"src": "colormaps/garland/preview.png"
-		},
-		{
-			"name": "flame_m0",
-			"src": "colormaps/flame/image.jpg"
-		},
-		{
-			"name": "flame_m0_preview",
-			"src": "colormaps/flame/preview.png"
 		},
 		{
 			"name": "uley_m0",
@@ -4209,7 +4242,7 @@
 			"name": "witch_m0",
 			"src": "colormaps/witch/image.jpg",
 			"multiframe": true,
-			"fps": 25,
+			"fps": 30,
 			"frame_heigth": 125,
 			"frame_width": 125,
 			"num_frames": 89
@@ -4380,10 +4413,6 @@
 			"src": "maps/map_boombox_new_preview.jpg"
 		},
 		{
-			"name": "map_bridges_preview",
-			"src": "maps/map_bridges_preview.jpg"
-		},
-		{
 			"name": "map_combe_preview",
 			"src": "maps/map_combe_preview.jpg"
 		},
@@ -4422,14 +4451,6 @@
 		{
 			"name": "map_kungur_preview",
 			"src": "maps/map_kungur_preview.jpg"
-		},
-		{
-			"name": "map_madness_preview",
-			"src": "maps/map_madness_preview.jpg"
-		},
-		{
-			"name": "map_madness_space_preview",
-			"src": "maps/space_preview.jpg"
 		},
 		{
 			"name": "map_magadan_preview",
@@ -4500,10 +4521,6 @@
 			"src": "maps/map_mine_preview.jpg"
 		},
 		{
-			"name": "map_iran_preview",
-			"src": "maps/map_iran_preview.jpg"
-		},
-		{
 			"name": "map_crossroad_preview",
 			"src": "maps/map_crossroad_preview.jpg"
 		},
@@ -4552,10 +4569,6 @@
 			"src": "maps/space_preview.jpg?1"
 		},
 		{
-			"name": "map_silence_moon_preview",
-			"src": "maps/map_silence_space_preview.jpg?1"
-		},
-		{
 			"name": "map_skylarks_preview",
 			"src": "maps/map_skylarks_preview.jpg"
 		},
@@ -4582,14 +4595,6 @@
 		{
 			"name": "map_zone_preview",
 			"src": "maps/map_zone_preview.jpg"
-		},
-		{
-			"name": "map_silence_2_preview",
-			"src": "maps/map_silence_2_preview.jpg"
-		},
-		{
-			"name": "map_silence_space_preview",
-			"src": "maps/map_silence_space_preview.jpg"
 		},
 		{
 			"name": "map_dualiti_preview",
@@ -5736,10 +5741,6 @@
 			"src": "turret/shaft/shoteffects/violet/shaft_shot.png"
 		},
 		{
-			"name": "map_silence_3_preview",
-			"src": "maps/map_silence_3_preview.jpg"
-		},
-		{
 			"name": "health_m0_preview",
 			"src": "inventory/health/inventory_health.png"
 		},
@@ -5778,10 +5779,6 @@
 		{
 			"name": "n2o_m0_previewcontainer",
 			"src": "container/speed.png"
-		},
-		{
-			"name": "mine_m0_previewcontainer",
-			"src": "container/mine.png"
 		},
 		{
 			"name": "mine_m0_previewcontainer",
@@ -6173,7 +6170,12 @@
 		},
 		{
 			"name": "galaxian_m0",
-			"src": "colormaps/galaxian/image.jpg"
+			"src": "colormaps/galaxian/image.jpg",
+			"multiframe": true,
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
 		},
 		{
 			"name": "galaxian_m0_preview",
@@ -6181,7 +6183,12 @@
 		},
 		{
 			"name": "tictactoe_m0",
-			"src": "colormaps/tictactoe/image.jpg"
+			"src": "colormaps/tictactoe/image.jpg",
+			"multiframe": true,
+			"fps": 20,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 64
 		},
 		{
 			"name": "tictactoe_m0_preview",
@@ -6189,7 +6196,12 @@
 		},
 		{
 			"name": "iceflurry_m0",
-			"src": "colormaps/iceflurry/image.jpg"
+			"src": "colormaps/iceflurry/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
 		},
 		{
 			"name": "iceflurry_m0_preview",
@@ -6197,7 +6209,12 @@
 		},
 		{
 			"name": "lightningstorm_m0",
-			"src": "colormaps/lightningstorm/image.jpg"
+			"src": "colormaps/lightningstorm/image.jpg",
+			"multiframe": true,
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
 		},
 		{
 			"name": "lightningstorm_m0_preview",
@@ -6205,7 +6222,12 @@
 		},
 		{
 			"name": "matrix_m0",
-			"src": "colormaps/matrix/image.jpg"
+			"src": "colormaps/matrix/image.jpg",
+			"multiframe": true,
+			"fps": 18,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 10
 		},
 		{
 			"name": "matrix_m0_preview",
@@ -6461,10 +6483,6 @@
 		},
 		{
 			"name": "lord_m0_preview",
-			"src": "resistance/demon/m0/preview.png"
-		},
-		{
-			"name": "demon_m0_preview",
 			"src": "resistance/demon/m0/preview.png"
 		},
 		{
@@ -6878,10 +6896,6 @@
 		{
 			"name": "Blizzard_m0_preview",
 			"src": "kits/m1/Blizzard.png"
-		},
-		{
-			"name": "Brick_m0_preview",
-			"src": "kits/m0/Brick.png"
 		},
 		{
 			"name": "Buffalo_m0_preview",
@@ -7514,6 +7528,1462 @@
 		{
 			"name": "red_urban_m0_preview",
 			"src": "colormaps/red_urban/preview.png"
+		},
+		{
+			"name": "active_viewer_m0",
+			"src": "colormaps/active_viewer/image.jpg",
+			"multiframe": true,
+			"fps": 15,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "active_viewer_m0_preview",
+			"src": "colormaps/active_viewer/preview.png"
+		},
+		{
+			"name": "alien_abduction_m0",
+			"src": "colormaps/alien_abduction/image.jpg",
+			"multiframe": true,
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "alien_abduction_m0_preview",
+			"src": "colormaps/alien_abduction/preview.png"
+		},
+		{
+			"name": "alien_nebula_m0",
+			"src": "colormaps/alien_nebula/image.jpg",
+			"multiframe": true,
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "alien_nebula_m0_preview",
+			"src": "colormaps/alien_nebula/preview.png"
+		},
+		{
+			"name": "alien_skin_m0",
+			"src": "colormaps/alien_skin/image.jpg",
+			"multiframe": true,
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "alien_skin_m0_preview",
+			"src": "colormaps/alien_skin/preview.png"
+		},
+		{
+			"name": "alloy_m0",
+			"src": "colormaps/alloy/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "alloy_m0_preview",
+			"src": "colormaps/alloy/preview.png"
+		},
+		{
+			"name": "atmospheric_conditions_m0",
+			"src": "colormaps/atmospheric_conditions/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "atmospheric_conditions_m0_preview",
+			"src": "colormaps/atmospheric_conditions/preview.png"
+		},
+		{
+			"name": "badger_badger_m0",
+			"src": "colormaps/badger_badger/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "badger_badger_m0_preview",
+			"src": "colormaps/badger_badger/preview.png"
+		},
+		{
+			"name": "barbed_wire_m0",
+			"src": "colormaps/barbed_wire/image.jpg",
+			"multiframe": true,
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 16
+		},
+		{
+			"name": "barbed_wire_m0_preview",
+			"src": "colormaps/barbed_wire/preview.png"
+		},
+		{
+			"name": "beating_hearts_m0",
+			"src": "colormaps/beating_hearts/image.jpg",
+			"multiframe": true,
+			"fps": 8,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 6
+		},
+		{
+			"name": "beating_hearts_m0_preview",
+			"src": "colormaps/beating_hearts/preview.png"
+		},
+		{
+			"name": "beholder_m0",
+			"src": "colormaps/beholder/image.jpg",
+			"multiframe": true,
+			"fps": 12,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 48
+		},
+		{
+			"name": "beholder_m0_preview",
+			"src": "colormaps/beholder/preview.png"
+		},
+		{
+			"name": "black_ruby_m0",
+			"src": "colormaps/black_ruby/image.jpg",
+			"multiframe": true,
+			"fps": 18,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "black_ruby_m0_preview",
+			"src": "colormaps/black_ruby/preview.png"
+		},
+		{
+			"name": "blue_lilac_m0",
+			"src": "colormaps/blue_lilac/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "blue_lilac_m0_preview",
+			"src": "colormaps/blue_lilac/preview.png"
+		},
+		{
+			"name": "bronze_m0",
+			"src": "colormaps/bronze/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 256
+		},
+		{
+			"name": "bronze_m0_preview",
+			"src": "colormaps/bronze/preview.png"
+		},
+		{
+			"name": "bronze_colors_m0",
+			"src": "colormaps/bronze_colors/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "bronze_colors_m0_preview",
+			"src": "colormaps/bronze_colors/preview.png"
+		},
+		{
+			"name": "bubble_gum_m0",
+			"src": "colormaps/bubble_gum/image.jpg",
+			"multiframe": true,
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "bubble_gum_m0_preview",
+			"src": "colormaps/bubble_gum/preview.png"
+		},
+		{
+			"name": "bunny_m0",
+			"src": "colormaps/bunny/image.jpg",
+			"multiframe": true,
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "bunny_m0_preview",
+			"src": "colormaps/bunny/preview.png"
+		},
+		{
+			"name": "burst_of_light_m0",
+			"src": "colormaps/burst_of_light/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "burst_of_light_m0_preview",
+			"src": "colormaps/burst_of_light/preview.png"
+		},
+		{
+			"name": "busted_m0",
+			"src": "colormaps/busted/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "busted_m0_preview",
+			"src": "colormaps/busted/preview.png"
+		},
+		{
+			"name": "campfire_m0",
+			"src": "colormaps/campfire/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "campfire_m0_preview",
+			"src": "colormaps/campfire/preview.png"
+		},
+		{
+			"name": "canyon_hero_m0",
+			"src": "colormaps/canyon_hero/image.jpg",
+			"multiframe": true,
+			"fps": 16,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 16
+		},
+		{
+			"name": "canyon_hero_m0_preview",
+			"src": "colormaps/canyon_hero/preview.png"
+		},
+		{
+			"name": "carbon_stars_m0",
+			"src": "colormaps/carbon_stars/image.jpg",
+			"multiframe": true,
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "carbon_stars_m0_preview",
+			"src": "colormaps/carbon_stars/preview.png"
+		},
+		{
+			"name": "cathode_ray_tube_m0",
+			"src": "colormaps/cathode_ray_tube/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "cathode_ray_tube_m0_preview",
+			"src": "colormaps/cathode_ray_tube/preview.png"
+		},
+		{
+			"name": "chemical_reaction_m0",
+			"src": "colormaps/chemical_reaction/image.jpg",
+			"multiframe": true,
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "chemical_reaction_m0_preview",
+			"src": "colormaps/chemical_reaction/preview.png"
+		},
+		{
+			"name": "constellation_m0",
+			"src": "colormaps/constellation/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "constellation_m0_preview",
+			"src": "colormaps/constellation/preview.png"
+		},
+		{
+			"name": "cosmic_blast_m0",
+			"src": "colormaps/cosmic_blast/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "cosmic_blast_m0_preview",
+			"src": "colormaps/cosmic_blast/preview.png"
+		},
+		{
+			"name": "craft_scissors_m0",
+			"src": "colormaps/craft_scissors/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "craft_scissors_m0_preview",
+			"src": "colormaps/craft_scissors/preview.png"
+		},
+		{
+			"name": "cucurbita_pepo_m0",
+			"src": "colormaps/cucurbita_pepo/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "cucurbita_pepo_m0_preview",
+			"src": "colormaps/cucurbita_pepo/preview.png"
+		},
+		{
+			"name": "cyber_shuriken_m0",
+			"src": "colormaps/cyber_shuriken/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "cyber_shuriken_m0_preview",
+			"src": "colormaps/cyber_shuriken/preview.png"
+		},
+		{
+			"name": "cyberpunk_m0",
+			"src": "colormaps/cyberpunk/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "cyberpunk_m0_preview",
+			"src": "colormaps/cyberpunk/preview.png"
+		},
+		{
+			"name": "cyborg_m0",
+			"src": "colormaps/cyborg/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "cyborg_m0_preview",
+			"src": "colormaps/cyborg/preview.png"
+		},
+		{
+			"name": "demolisher2_m0",
+			"src": "colormaps/demolisher2/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 64
+		},
+		{
+			"name": "demolisher2_m0_preview",
+			"src": "colormaps/demolisher2/preview.png"
+		},
+		{
+			"name": "digital_borealis_m0",
+			"src": "colormaps/digital_borealis/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "digital_borealis_m0_preview",
+			"src": "colormaps/digital_borealis/preview.png"
+		},
+		{
+			"name": "disco2_m0",
+			"src": "colormaps/disco2/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "disco2_m0_preview",
+			"src": "colormaps/disco2/preview.png"
+		},
+		{
+			"name": "drive_m0",
+			"src": "colormaps/drive/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "drive_m0_preview",
+			"src": "colormaps/drive/preview.png"
+		},
+		{
+			"name": "ducks_m0",
+			"src": "colormaps/ducks/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "ducks_m0_preview",
+			"src": "colormaps/ducks/preview.png"
+		},
+		{
+			"name": "earthling_m0",
+			"src": "colormaps/earthling/image.jpg",
+			"multiframe": true,
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "earthling_m0_preview",
+			"src": "colormaps/earthling/preview.png"
+		},
+		{
+			"name": "eruption_m0",
+			"src": "colormaps/eruption/image.jpg",
+			"multiframe": true,
+			"fps": 15,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 60
+		},
+		{
+			"name": "eruption_m0_preview",
+			"src": "colormaps/eruption/preview.png"
+		},
+		{
+			"name": "fan_m0",
+			"src": "colormaps/fan/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "fan_m0_preview",
+			"src": "colormaps/fan/preview.png"
+		},
+		{
+			"name": "far_north_m0",
+			"src": "colormaps/far_north/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "far_north_m0_preview",
+			"src": "colormaps/far_north/preview.png"
+		},
+		{
+			"name": "fidget_toy_m0",
+			"src": "colormaps/fidget_toy/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "fidget_toy_m0_preview",
+			"src": "colormaps/fidget_toy/preview.png"
+		},
+		{
+			"name": "fire_golem_m0",
+			"src": "colormaps/fire_golem/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "fire_golem_m0_preview",
+			"src": "colormaps/fire_golem/preview.png"
+		},
+		{
+			"name": "flowing_metal_m0",
+			"src": "colormaps/flowing_metal/image.jpg",
+			"multiframe": true,
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "flowing_metal_m0_preview",
+			"src": "colormaps/flowing_metal/preview.png"
+		},
+		{
+			"name": "flywheel_m0",
+			"src": "colormaps/flywheel/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "flywheel_m0_preview",
+			"src": "colormaps/flywheel/preview.png"
+		},
+		{
+			"name": "fried_egg_m0",
+			"src": "colormaps/fried_egg/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "fried_egg_m0_preview",
+			"src": "colormaps/fried_egg/preview.png"
+		},
+		{
+			"name": "frigid_coat_m0",
+			"src": "colormaps/frigid_coat/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "frigid_coat_m0_preview",
+			"src": "colormaps/frigid_coat/preview.png"
+		},
+		{
+			"name": "funky_medicine_m0",
+			"src": "colormaps/funky_medicine/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "funky_medicine_m0_preview",
+			"src": "colormaps/funky_medicine/preview.png"
+		},
+		{
+			"name": "gears_m0",
+			"src": "colormaps/gears/image.jpg",
+			"multiframe": true,
+			"fps": 24,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 20
+		},
+		{
+			"name": "gears_m0_preview",
+			"src": "colormaps/gears/preview.png"
+		},
+		{
+			"name": "gold_alloy_m0",
+			"src": "colormaps/gold_alloy/image.jpg",
+			"multiframe": true,
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "gold_alloy_m0_preview",
+			"src": "colormaps/gold_alloy/preview.png"
+		},
+		{
+			"name": "golden_gears_m0",
+			"src": "colormaps/golden_gears/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "golden_gears_m0_preview",
+			"src": "colormaps/golden_gears/preview.png"
+		},
+		{
+			"name": "head_ripper_m0",
+			"src": "colormaps/head_ripper/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "head_ripper_m0_preview",
+			"src": "colormaps/head_ripper/preview.png"
+		},
+		{
+			"name": "heart_of_steel_m0",
+			"src": "colormaps/heart_of_steel/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "heart_of_steel_m0_preview",
+			"src": "colormaps/heart_of_steel/preview.png"
+		},
+		{
+			"name": "holi_m0",
+			"src": "colormaps/holi/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "holi_m0_preview",
+			"src": "colormaps/holi/preview.png"
+		},
+		{
+			"name": "holo_m0",
+			"src": "colormaps/holo/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 256
+		},
+		{
+			"name": "holo_m0_preview",
+			"src": "colormaps/holo/preview.png"
+		},
+		{
+			"name": "jolly_season_m0",
+			"src": "colormaps/jolly_season/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "jolly_season_m0_preview",
+			"src": "colormaps/jolly_season/preview.png"
+		},
+		{
+			"name": "kapuljat_m0",
+			"src": "colormaps/kapuljat/image.jpg",
+			"multiframe": true,
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "kapuljat_m0_preview",
+			"src": "colormaps/kapuljat/preview.png"
+		},
+		{
+			"name": "katakana_m0",
+			"src": "colormaps/katakana/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "katakana_m0_preview",
+			"src": "colormaps/katakana/preview.png"
+		},
+		{
+			"name": "lava_lamp_m0",
+			"src": "colormaps/lava_lamp/image.jpg",
+			"multiframe": true,
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "lava_lamp_m0_preview",
+			"src": "colormaps/lava_lamp/preview.png"
+		},
+		{
+			"name": "leds_m0",
+			"src": "colormaps/leds/image.jpg",
+			"multiframe": true,
+			"fps": 16,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 32
+		},
+		{
+			"name": "leds_m0_preview",
+			"src": "colormaps/leds/preview.png"
+		},
+		{
+			"name": "liana_m0",
+			"src": "colormaps/liana/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "liana_m0_preview",
+			"src": "colormaps/liana/preview.png"
+		},
+		{
+			"name": "light_organ_m0",
+			"src": "colormaps/light_organ/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "light_organ_m0_preview",
+			"src": "colormaps/light_organ/preview.png"
+		},
+		{
+			"name": "living_armor_m0",
+			"src": "colormaps/living_armor/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "living_armor_m0_preview",
+			"src": "colormaps/living_armor/preview.png"
+		},
+		{
+			"name": "lol_m0",
+			"src": "colormaps/lol/image.jpg",
+			"multiframe": true,
+			"fps": 30,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "lol_m0_preview",
+			"src": "colormaps/lol/preview.png"
+		},
+		{
+			"name": "loving_camo_m0",
+			"src": "colormaps/loving_camo/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "loving_camo_m0_preview",
+			"src": "colormaps/loving_camo/preview.png"
+		},
+		{
+			"name": "magic_circles_m0",
+			"src": "colormaps/magic_circles/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "magic_circles_m0_preview",
+			"src": "colormaps/magic_circles/preview.png"
+		},
+		{
+			"name": "magnolia_m0",
+			"src": "colormaps/magnolia/image.jpg",
+			"multiframe": true,
+			"fps": 10,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 60
+		},
+		{
+			"name": "magnolia_m0_preview",
+			"src": "colormaps/magnolia/preview.png"
+		},
+		{
+			"name": "meteor_shower_m0",
+			"src": "colormaps/meteor_shower/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 64
+		},
+		{
+			"name": "meteor_shower_m0_preview",
+			"src": "colormaps/meteor_shower/preview.png"
+		},
+		{
+			"name": "microbiology_m0",
+			"src": "colormaps/microbiology/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "microbiology_m0_preview",
+			"src": "colormaps/microbiology/preview.png"
+		},
+		{
+			"name": "mosaic_m0",
+			"src": "colormaps/mosaic/image.jpg",
+			"multiframe": true,
+			"fps": 15,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 20
+		},
+		{
+			"name": "mosaic_m0_preview",
+			"src": "colormaps/mosaic/preview.png"
+		},
+		{
+			"name": "mount_fuji_m0",
+			"src": "colormaps/mount_fuji/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 64
+		},
+		{
+			"name": "mount_fuji_m0_preview",
+			"src": "colormaps/mount_fuji/preview.png"
+		},
+		{
+			"name": "nanohud_m0",
+			"src": "colormaps/nanohud/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "nanohud_m0_preview",
+			"src": "colormaps/nanohud/preview.png"
+		},
+		{
+			"name": "nanosuit_armor_m0",
+			"src": "colormaps/nanosuit_armor/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 256
+		},
+		{
+			"name": "nanosuit_armor_m0_preview",
+			"src": "colormaps/nanosuit_armor/preview.png"
+		},
+		{
+			"name": "neon_geometry_m0",
+			"src": "colormaps/neon_geometry/image.jpg",
+			"multiframe": true,
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "neon_geometry_m0_preview",
+			"src": "colormaps/neon_geometry/preview.png"
+		},
+		{
+			"name": "nickel_m0",
+			"src": "colormaps/nickel/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "nickel_m0_preview",
+			"src": "colormaps/nickel/preview.png"
+		},
+		{
+			"name": "northern_lights_m0",
+			"src": "colormaps/northern_lights/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 256
+		},
+		{
+			"name": "northern_lights_m0_preview",
+			"src": "colormaps/northern_lights/preview.png"
+		},
+		{
+			"name": "not_a_lantern_m0",
+			"src": "colormaps/not_a_lantern/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "not_a_lantern_m0_preview",
+			"src": "colormaps/not_a_lantern/preview.png"
+		},
+		{
+			"name": "pastila_m0",
+			"src": "colormaps/pastila/image.jpg",
+			"multiframe": true,
+			"fps": 24,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 48
+		},
+		{
+			"name": "pastila_m0_preview",
+			"src": "colormaps/pastila/preview.png"
+		},
+		{
+			"name": "pcb_m0",
+			"src": "colormaps/pcb/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "pcb_m0_preview",
+			"src": "colormaps/pcb/preview.png"
+		},
+		{
+			"name": "pixel_plasma_m0",
+			"src": "colormaps/pixel_plasma/image.jpg",
+			"multiframe": true,
+			"fps": 20,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "pixel_plasma_m0_preview",
+			"src": "colormaps/pixel_plasma/preview.png"
+		},
+		{
+			"name": "prestigio_m0",
+			"src": "colormaps/prestigio/image.jpg",
+			"multiframe": true,
+			"fps": 16,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 64
+		},
+		{
+			"name": "prestigio_m0_preview",
+			"src": "colormaps/prestigio/preview.png"
+		},
+		{
+			"name": "prodigy2_m0",
+			"src": "colormaps/prodigy2/image.jpg",
+			"multiframe": true,
+			"fps": 10,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 20
+		},
+		{
+			"name": "prodigy2_m0_preview",
+			"src": "colormaps/prodigy2/preview.png"
+		},
+		{
+			"name": "quantum_camo_m0",
+			"src": "colormaps/quantum_camo/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "quantum_camo_m0_preview",
+			"src": "colormaps/quantum_camo/preview.png"
+		},
+		{
+			"name": "radar_m0",
+			"src": "colormaps/radar/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "radar_m0_preview",
+			"src": "colormaps/radar/preview.png"
+		},
+		{
+			"name": "radioactive_jelly_m0",
+			"src": "colormaps/radioactive_jelly/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 64
+		},
+		{
+			"name": "radioactive_jelly_m0_preview",
+			"src": "colormaps/radioactive_jelly/preview.png"
+		},
+		{
+			"name": "red_smoke_m0",
+			"src": "colormaps/red_smoke/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "red_smoke_m0_preview",
+			"src": "colormaps/red_smoke/preview.png"
+		},
+		{
+			"name": "secret_sauce_m0",
+			"src": "colormaps/secret_sauce/image.jpg",
+			"multiframe": true,
+			"fps": 15,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 60
+		},
+		{
+			"name": "secret_sauce_m0_preview",
+			"src": "colormaps/secret_sauce/preview.png"
+		},
+		{
+			"name": "seventies_fun_m0",
+			"src": "colormaps/seventies_fun/image.jpg",
+			"multiframe": true,
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "seventies_fun_m0_preview",
+			"src": "colormaps/seventies_fun/preview.png"
+		},
+		{
+			"name": "siberian_tiger_m0",
+			"src": "colormaps/siberian_tiger/image.jpg",
+			"multiframe": true,
+			"fps": 12,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 60
+		},
+		{
+			"name": "siberian_tiger_m0_preview",
+			"src": "colormaps/siberian_tiger/preview.png"
+		},
+		{
+			"name": "silver_bricks_m0",
+			"src": "colormaps/silver_bricks/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 64
+		},
+		{
+			"name": "silver_bricks_m0_preview",
+			"src": "colormaps/silver_bricks/preview.png"
+		},
+		{
+			"name": "souls_m0",
+			"src": "colormaps/souls/image.jpg",
+			"multiframe": true,
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "souls_m0_preview",
+			"src": "colormaps/souls/preview.png"
+		},
+		{
+			"name": "sparks_m0",
+			"src": "colormaps/sparks/image.jpg",
+			"multiframe": true,
+			"fps": 24,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "sparks_m0_preview",
+			"src": "colormaps/sparks/preview.png"
+		},
+		{
+			"name": "spinner_m0",
+			"src": "colormaps/spinner/image.jpg",
+			"multiframe": true,
+			"fps": 24,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 64
+		},
+		{
+			"name": "spinner_m0_preview",
+			"src": "colormaps/spinner/preview.png"
+		},
+		{
+			"name": "spreading_fast_m0",
+			"src": "colormaps/spreading_fast/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "spreading_fast_m0_preview",
+			"src": "colormaps/spreading_fast/preview.png"
+		},
+		{
+			"name": "spring_m0",
+			"src": "colormaps/spring/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "spring_m0_preview",
+			"src": "colormaps/spring/preview.png"
+		},
+		{
+			"name": "symbiote_m0",
+			"src": "colormaps/symbiote/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "symbiote_m0_preview",
+			"src": "colormaps/symbiote/preview.png"
+		},
+		{
+			"name": "synth_pop_m0",
+			"src": "colormaps/synth_pop/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 64
+		},
+		{
+			"name": "synth_pop_m0_preview",
+			"src": "colormaps/synth_pop/preview.png"
+		},
+		{
+			"name": "tankoin_tank_m0",
+			"src": "colormaps/tankoin_tank/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "tankoin_tank_m0_preview",
+			"src": "colormaps/tankoin_tank/preview.png"
+		},
+		{
+			"name": "tanks2_m0",
+			"src": "colormaps/tanks2/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 64
+		},
+		{
+			"name": "tanks2_m0_preview",
+			"src": "colormaps/tanks2/preview.png"
+		},
+		{
+			"name": "tectonic_plates_m0",
+			"src": "colormaps/tectonic_plates/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "tectonic_plates_m0_preview",
+			"src": "colormaps/tectonic_plates/preview.png"
+		},
+		{
+			"name": "tentacles_m0",
+			"src": "colormaps/tentacles/image.jpg",
+			"multiframe": true,
+			"fps": 20,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 48
+		},
+		{
+			"name": "tentacles_m0_preview",
+			"src": "colormaps/tentacles/preview.png"
+		},
+		{
+			"name": "tessaract_camo_m0",
+			"src": "colormaps/tessaract_camo/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 256
+		},
+		{
+			"name": "tessaract_camo_m0_preview",
+			"src": "colormaps/tessaract_camo/preview.png"
+		},
+		{
+			"name": "thankos_m0",
+			"src": "colormaps/thankos/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "thankos_m0_preview",
+			"src": "colormaps/thankos/preview.png"
+		},
+		{
+			"name": "thankos_armor_m0",
+			"src": "colormaps/thankos_armor/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "thankos_armor_m0_preview",
+			"src": "colormaps/thankos_armor/preview.png"
+		},
+		{
+			"name": "touch_of_chill_m0",
+			"src": "colormaps/touch_of_chill/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 256
+		},
+		{
+			"name": "touch_of_chill_m0_preview",
+			"src": "colormaps/touch_of_chill/preview.png"
+		},
+		{
+			"name": "trapped_inside_m0",
+			"src": "colormaps/trapped_inside/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 256
+		},
+		{
+			"name": "trapped_inside_m0_preview",
+			"src": "colormaps/trapped_inside/preview.png"
+		},
+		{
+			"name": "under_the_tree_m0",
+			"src": "colormaps/under_the_tree/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "under_the_tree_m0_preview",
+			"src": "colormaps/under_the_tree/preview.png"
+		},
+		{
+			"name": "valour_m0",
+			"src": "colormaps/valour/image.jpg",
+			"multiframe": true,
+			"fps": 10,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 60
+		},
+		{
+			"name": "valour_m0_preview",
+			"src": "colormaps/valour/preview.png"
+		},
+		{
+			"name": "vertigo_m0",
+			"src": "colormaps/vertigo/image.jpg",
+			"multiframe": true,
+			"fps": 15,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 24
+		},
+		{
+			"name": "vertigo_m0_preview",
+			"src": "colormaps/vertigo/preview.png"
+		},
+		{
+			"name": "visual_disruptor_m0",
+			"src": "colormaps/visual_disruptor/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 64
+		},
+		{
+			"name": "visual_disruptor_m0_preview",
+			"src": "colormaps/visual_disruptor/preview.png"
+		},
+		{
+			"name": "war_domination_winner_m0",
+			"src": "colormaps/war_domination_winner/image.jpg",
+			"multiframe": true,
+			"fps": 20,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 64
+		},
+		{
+			"name": "war_domination_winner_m0_preview",
+			"src": "colormaps/war_domination_winner/preview.png"
+		},
+		{
+			"name": "war_en_winner_m0",
+			"src": "colormaps/war_en_winner/image.jpg",
+			"multiframe": true,
+			"fps": 10,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 15
+		},
+		{
+			"name": "war_en_winner_m0_preview",
+			"src": "colormaps/war_en_winner/preview.png"
+		},
+		{
+			"name": "x_noir_m0",
+			"src": "colormaps/x_noir/image.jpg",
+			"multiframe": true,
+			"fps": 32,
+			"frame_heigth": 128,
+			"frame_width": 128,
+			"num_frames": 256
+		},
+		{
+			"name": "x_noir_m0_preview",
+			"src": "colormaps/x_noir/preview.png"
+		},
+		{
+			"name": "yellow_bug_m0",
+			"src": "colormaps/yellow_bug/image.jpg",
+			"multiframe": true,
+			"fps": 20,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 64
+		},
+		{
+			"name": "yellow_bug_m0_preview",
+			"src": "colormaps/yellow_bug/preview.png"
 		}
 	]
 }
