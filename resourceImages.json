@@ -7098,6 +7098,18 @@
 			"src": "kits/images/kit_buffalo_preview/image.png"
 		},
 		{
+			"name": "kit_almighty_m0_preview",
+			"src": "kits/images/kit_almighty_preview/image.png"
+		},
+		{
+			"name": "kit_commando_m0_preview",
+			"src": "kits/images/kit_commando_preview/image.png"
+		},
+		{
+			"name": "kit_universal_soldier_m0_preview",
+			"src": "kits/images/kit_universal_soldier_preview/image.png"
+		},
+		{
 			"name": "kit_krakatoa_m0_preview",
 			"src": "kits/images/kit_krakatoa_preview/image.png"
 		},
