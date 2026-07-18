@@ -4269,6 +4269,10 @@
 			"src": "inventory/supplies.png"
 		},
 		{
+			"name": "supplies_m0_previewcontainer",
+			"src": "container/all.png"
+		},
+		{
 			"name": "supplies2_m0_preview",
 			"src": "inventory/supplies2.png"
 		},
@@ -5839,6 +5843,10 @@
 		{
 			"name": "double_cry",
 			"src": "effects/cry.png"
+		},
+		{
+			"name": "clanlicense_m0_preview",
+			"src": "effects/clan.png"
 		},
 		{
 			"name": "container",
