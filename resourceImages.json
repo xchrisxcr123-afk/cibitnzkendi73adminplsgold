@@ -8992,6 +8992,14 @@
 		{
 			"name": "yellow_bug_m0_preview",
 			"src": "colormaps/yellow_bug/preview.png"
+		},
+		{
+			"name": "premium_m0_preview",
+			"src": "colormaps/premium/preview.png"
+		},
+		{
+			"name": "premium_m0",
+			"src": "colormaps/premium/image.png"
 		}
 	]
 }
