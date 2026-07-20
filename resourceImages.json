@@ -5819,7 +5819,7 @@
 		},
 		{
 			"name": "mainExplosionTextureId_mine",
-			"src": "mines/main_explosion.png?v1"
+			"src": "mines/main_explosion.png?v2"
 		},
 		{
 			"name": "redMineTexture_mine",
