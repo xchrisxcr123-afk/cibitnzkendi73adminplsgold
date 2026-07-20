@@ -1063,7 +1063,7 @@
 			"fps": 20,
 			"frame_heigth": 64,
 			"frame_width": 64,
-			"num_frames": 64
+			"num_frames": 256
 		}
 	]
 }
