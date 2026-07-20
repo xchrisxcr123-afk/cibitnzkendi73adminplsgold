@@ -2950,7 +2950,7 @@
 		},
 		{
 			"name": "surf_m0",
-			"src": "colormaps/surf/image.jpg",
+			"src": "colormaps/surf/image.jpg?v1",
 			"multiframe": true,
 			"fps": 48,
 			"frame_heigth": 64,
@@ -2959,7 +2959,7 @@
 		},
 		{
 			"name": "surf_m0_preview",
-			"src": "colormaps/surf/preview.png"
+			"src": "colormaps/surf/preview.png?v1"
 		},
 		{
 			"name": "surfi_m0",
