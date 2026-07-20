@@ -919,7 +919,7 @@
 			"num_frames": 64
 		},
 		{
-			"name": "surf_m0",
+			"name": "surfi_m0",
 			"fps": 48,
 			"frame_heigth": 64,
 			"frame_width": 64,

@@ -2962,6 +2962,19 @@
 			"src": "colormaps/surf/preview.png"
 		},
 		{
+			"name": "surfi_m0",
+			"src": "colormaps/surfi/image.jpg",
+			"multiframe": true,
+			"fps": 48,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 256
+		},
+		{
+			"name": "surfi_m0_preview",
+			"src": "colormaps/surfi/preview.png"
+		},
+		{
 			"name": "storm_m0",
 			"src": "colormaps/storm/image.jpg"
 		},
