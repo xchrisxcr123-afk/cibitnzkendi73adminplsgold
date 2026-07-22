@@ -609,15 +609,15 @@
 		},
 		{
 			"name": "pedestalBC",
-			"src": "dom/pedestalBC.jpg?v1"
+			"src": "dom/pedestalBC.jpg?v2"
 		},
 		{
 			"name": "pedestalRC",
-			"src": "dom/pedestalRC.jpg?V1"
+			"src": "dom/pedestalRC.jpg?V2"
 		},
 		{
 			"name": "pedestalNC",
-			"src": "dom/pedestalNC.jpg?V1"
+			"src": "dom/pedestalNC.jpg?V2"
 		},
 		{
 			"name": "criticalHitTexture",
