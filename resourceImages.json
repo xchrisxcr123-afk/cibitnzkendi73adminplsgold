@@ -4282,6 +4282,26 @@
 			"src": "inventory/supplies.png"
 		},
 		{
+			"name": "supplies2_m0_preview",
+			"src": "inventory/supplies2.png"
+		},
+		{
+			"name": "supplies3_m0_preview",
+			"src": "inventory/supplies3.png"
+		},
+		{
+			"name": "supplies4_m0_preview",
+			"src": "inventory/supplies4.png"
+		},
+		{
+			"name": "supplies5_m0_preview",
+			"src": "inventory/supplies5.png"
+		},
+		{
+			"name": "supplies6_m0_preview",
+			"src": "inventory/supplies6.png"
+		},
+		{
 			"name": "supplies_m0_previewcontainer",
 			"src": "container/all.png"
 		},
@@ -6645,6 +6665,14 @@
 		{
 			"name": "microchip_m0_preview",
 			"src": "colormaps/microchip/preview.png"
+		},
+		{
+			"name": "cmpaint_m0",
+			"src": "colormaps/cmpaint/image.jpg"
+		},
+		{
+			"name": "cmpaint_m0_preview",
+			"src": "colormaps/cmpaint/preview.png"
 		},
 		{
 			"name": "dead_m0",
