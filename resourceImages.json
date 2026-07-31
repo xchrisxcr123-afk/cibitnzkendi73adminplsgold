@@ -4331,7 +4331,7 @@
 		},
 		{
 			"name": "bonus_box_crystall",
-			"src": "bonus/boxes/crystal/box.jpg?v=2"
+			"src": "bonus/boxes/crystal/box.jpg?v=4"
 		},
 		{
 			"name": "bonus_box_armor",
@@ -5871,7 +5871,11 @@
 		},
 		{
 			"name": "up_score_m0_preview",
-			"src": "effects/gold_score.png"
+			"src": "effects/gold_score.png?v1"
+		},
+		{
+			"name": "rename_m0_preview",
+			"src": "effects/rename.png"
 		},
 		{
 			"name": "double_cry",
