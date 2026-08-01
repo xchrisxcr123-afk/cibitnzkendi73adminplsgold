@@ -432,6 +432,18 @@
         {
             "name": "map_hw_fortress",
             "src": "maps/map_hw_fortress.xml"
+        },
+        {
+            "name": "map_bootcamp",
+            "src": "maps/map_bootcamp.xml"
+        },
+        {
+            "name": "map_blackhole",
+            "src": "maps/map_blackhole.xml"
+        },
+        {
+            "name": "map_trainstation",
+            "src": "maps/map_trainstation.xml"
         }
     ]
 }
