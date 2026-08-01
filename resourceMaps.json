@@ -443,7 +443,7 @@
         },
         {
             "name": "map_trainstation",
-            "src": "maps/map_trainstation.xml"
+            "src": "maps/map_trainstation.xml?v1"
         }
     ]
 }

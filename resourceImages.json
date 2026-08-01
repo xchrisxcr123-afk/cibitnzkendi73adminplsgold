@@ -322,6 +322,14 @@
 			"src": "maps/map_trains_preview.jpg"
 		},
 		{
+			"name": "map_trainstation_preview",
+			"src": "maps/map_trainstation_preview.jpg"
+		},
+		{
+			"name": "map_blackhole_preview",
+			"src": "maps/map_blackhole_preview.jpg"
+		},
+		{
 			"name": "map_valley_preview",
 			"src": "maps/map_valley_preview.jpg"
 		},
