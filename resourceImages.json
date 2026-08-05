@@ -9065,6 +9065,962 @@
 		{
 			"name": "premium_m0",
 			"src": "colormaps/premium/image.png"
+		},
+		{
+			"name": "abstract_lines_m0",
+			"src": "colormaps/abstract_lines/image.jpg"
+		},
+		{
+			"name": "abstract_lines_m0_preview",
+			"src": "colormaps/abstract_lines/preview.png"
+		},
+		{
+			"name": "barber_shop_m0",
+			"src": "colormaps/barber_shop/image.jpg"
+		},
+		{
+			"name": "barber_shop_m0_preview",
+			"src": "colormaps/barber_shop/preview.png"
+		},
+		{
+			"name": "condensed_milk_m0",
+			"src": "colormaps/condensed_milk/image.jpg"
+		},
+		{
+			"name": "condensed_milk_m0_preview",
+			"src": "colormaps/condensed_milk/preview.png"
+		},
+		{
+			"name": "e236_m0",
+			"src": "colormaps/e236/image.jpg"
+		},
+		{
+			"name": "e236_m0_preview",
+			"src": "colormaps/e236/preview.png"
+		},
+		{
+			"name": "feathers_m0",
+			"src": "colormaps/feathers/image.jpg"
+		},
+		{
+			"name": "feathers_m0_preview",
+			"src": "colormaps/feathers/preview.png"
+		},
+		{
+			"name": "frost_m0",
+			"src": "colormaps/frost/image.jpg"
+		},
+		{
+			"name": "frost_m0_preview",
+			"src": "colormaps/frost/preview.png"
+		},
+		{
+			"name": "glitch_m0",
+			"src": "colormaps/glitch/image.jpg"
+		},
+		{
+			"name": "glitch_m0_preview",
+			"src": "colormaps/glitch/preview.png"
+		},
+		{
+			"name": "golden_star_m0",
+			"src": "colormaps/golden_star/image.jpg"
+		},
+		{
+			"name": "golden_star_m0_preview",
+			"src": "colormaps/golden_star/preview.png"
+		},
+		{
+			"name": "gucciflage_m0",
+			"src": "colormaps/gucciflage/image.jpg"
+		},
+		{
+			"name": "gucciflage_m0_preview",
+			"src": "colormaps/gucciflage/preview.png"
+		},
+		{
+			"name": "hallucination_m0",
+			"src": "colormaps/hallucination/image.jpg"
+		},
+		{
+			"name": "hallucination_m0_preview",
+			"src": "colormaps/hallucination/preview.png"
+		},
+		{
+			"name": "hypercube_m0",
+			"src": "colormaps/hypercube/image.jpg"
+		},
+		{
+			"name": "hypercube_m0_preview",
+			"src": "colormaps/hypercube/preview.png"
+		},
+		{
+			"name": "kungur_ice_cave_m0",
+			"src": "colormaps/kungur_ice_cave/image.jpg"
+		},
+		{
+			"name": "kungur_ice_cave_m0_preview",
+			"src": "colormaps/kungur_ice_cave/preview.png"
+		},
+		{
+			"name": "lollipop_m0",
+			"src": "colormaps/lollipop/image.jpg"
+		},
+		{
+			"name": "lollipop_m0_preview",
+			"src": "colormaps/lollipop/preview.png"
+		},
+		{
+			"name": "lunar_soil_m0",
+			"src": "colormaps/lunar_soil/image.jpg"
+		},
+		{
+			"name": "lunar_soil_m0_preview",
+			"src": "colormaps/lunar_soil/preview.png"
+		},
+		{
+			"name": "megapolis_m0",
+			"src": "colormaps/megapolis/image.jpg"
+		},
+		{
+			"name": "megapolis_m0_preview",
+			"src": "colormaps/megapolis/preview.png"
+		},
+		{
+			"name": "monet_m0",
+			"src": "colormaps/monet/image.jpg"
+		},
+		{
+			"name": "monet_m0_preview",
+			"src": "colormaps/monet/preview.png"
+		},
+		{
+			"name": "paisley_flame_m0",
+			"src": "colormaps/paisley_flame/image.jpg"
+		},
+		{
+			"name": "paisley_flame_m0_preview",
+			"src": "colormaps/paisley_flame/preview.png"
+		},
+		{
+			"name": "paisley_ice_m0",
+			"src": "colormaps/paisley_ice/image.jpg"
+		},
+		{
+			"name": "paisley_ice_m0_preview",
+			"src": "colormaps/paisley_ice/preview.png"
+		},
+		{
+			"name": "pajamas_m0",
+			"src": "colormaps/pajamas/image.jpg"
+		},
+		{
+			"name": "pajamas_m0_preview",
+			"src": "colormaps/pajamas/preview.png"
+		},
+		{
+			"name": "peaks_m0",
+			"src": "colormaps/peaks/image.jpg"
+		},
+		{
+			"name": "peaks_m0_preview",
+			"src": "colormaps/peaks/preview.png"
+		},
+		{
+			"name": "phantom_m0",
+			"src": "colormaps/phantom/image.jpg"
+		},
+		{
+			"name": "phantom_m0_preview",
+			"src": "colormaps/phantom/preview.png"
+		},
+		{
+			"name": "play_doh_m0",
+			"src": "colormaps/play_doh/image.jpg"
+		},
+		{
+			"name": "play_doh_m0_preview",
+			"src": "colormaps/play_doh/preview.png"
+		},
+		{
+			"name": "pop_art_m0",
+			"src": "colormaps/pop_art/image.jpg"
+		},
+		{
+			"name": "pop_art_m0_preview",
+			"src": "colormaps/pop_art/preview.png"
+		},
+		{
+			"name": "potter_m0",
+			"src": "colormaps/potter/image.jpg"
+		},
+		{
+			"name": "potter_m0_preview",
+			"src": "colormaps/potter/preview.png"
+		},
+		{
+			"name": "pulsar_m0",
+			"src": "colormaps/pulsar/image.jpg"
+		},
+		{
+			"name": "pulsar_m0_preview",
+			"src": "colormaps/pulsar/preview.png"
+		},
+		{
+			"name": "red_suit_m0",
+			"src": "colormaps/red_suit/image.jpg"
+		},
+		{
+			"name": "red_suit_m0_preview",
+			"src": "colormaps/red_suit/preview.png"
+		},
+		{
+			"name": "ripple_m0",
+			"src": "colormaps/ripple/image.jpg"
+		},
+		{
+			"name": "ripple_m0_preview",
+			"src": "colormaps/ripple/preview.png"
+		},
+		{
+			"name": "scandinavia_m0",
+			"src": "colormaps/scandinavia/image.jpg"
+		},
+		{
+			"name": "scandinavia_m0_preview",
+			"src": "colormaps/scandinavia/preview.png"
+		},
+		{
+			"name": "sillicate_m0",
+			"src": "colormaps/sillicate/image.jpg"
+		},
+		{
+			"name": "sillicate_m0_preview",
+			"src": "colormaps/sillicate/preview.png"
+		},
+		{
+			"name": "stained_glass_m0",
+			"src": "colormaps/stained_glass/image.jpg"
+		},
+		{
+			"name": "stained_glass_m0_preview",
+			"src": "colormaps/stained_glass/preview.png"
+		},
+		{
+			"name": "steak_m0",
+			"src": "colormaps/steak/image.jpg"
+		},
+		{
+			"name": "steak_m0_preview",
+			"src": "colormaps/steak/preview.png"
+		},
+		{
+			"name": "strawberry_m0",
+			"src": "colormaps/strawberry/image.jpg"
+		},
+		{
+			"name": "strawberry_m0_preview",
+			"src": "colormaps/strawberry/preview.png"
+		},
+		{
+			"name": "sudoku_m0",
+			"src": "colormaps/sudoku/image.jpg"
+		},
+		{
+			"name": "sudoku_m0_preview",
+			"src": "colormaps/sudoku/preview.png"
+		},
+		{
+			"name": "thunderball_m0",
+			"src": "colormaps/thunderball/image.jpg"
+		},
+		{
+			"name": "thunderball_m0_preview",
+			"src": "colormaps/thunderball/preview.png"
+		},
+		{
+			"name": "vanadium_m0",
+			"src": "colormaps/vanadium/image.jpg"
+		},
+		{
+			"name": "vanadium_m0_preview",
+			"src": "colormaps/vanadium/preview.png"
+		},
+		{
+			"name": "zigzag_m0",
+			"src": "colormaps/zigzag/image.jpg"
+		},
+		{
+			"name": "zigzag_m0_preview",
+			"src": "colormaps/zigzag/preview.png"
+		},
+		{
+			"name": "450_nanometers_m0",
+			"src": "colormaps/450_nanometers/image.jpg"
+		},
+		{
+			"name": "450_nanometers_m0_preview",
+			"src": "colormaps/450_nanometers/preview.png"
+		},
+		{
+			"name": "adam_and_eve_m0",
+			"src": "colormaps/adam_and_eve/image.jpg"
+		},
+		{
+			"name": "adam_and_eve_m0_preview",
+			"src": "colormaps/adam_and_eve/preview.png"
+		},
+		{
+			"name": "alien_chainmail_m0",
+			"src": "colormaps/alien_chainmail/image.jpg"
+		},
+		{
+			"name": "alien_chainmail_m0_preview",
+			"src": "colormaps/alien_chainmail/preview.png"
+		},
+		{
+			"name": "all_the_goodies_m0",
+			"src": "colormaps/all_the_goodies/image.jpg"
+		},
+		{
+			"name": "all_the_goodies_m0_preview",
+			"src": "colormaps/all_the_goodies/preview.png"
+		},
+		{
+			"name": "ancient_dragon_m0",
+			"src": "colormaps/ancient_dragon/image.jpg"
+		},
+		{
+			"name": "ancient_dragon_m0_preview",
+			"src": "colormaps/ancient_dragon/preview.png"
+		},
+		{
+			"name": "and_roll_m0",
+			"src": "colormaps/and_roll/image.jpg"
+		},
+		{
+			"name": "and_roll_m0_preview",
+			"src": "colormaps/and_roll/preview.png"
+		},
+		{
+			"name": "avant-garde_m0",
+			"src": "colormaps/avant-garde/image.jpg"
+		},
+		{
+			"name": "avant-garde_m0_preview",
+			"src": "colormaps/avant-garde/preview.png"
+		},
+		{
+			"name": "babushka's_quilt_m0",
+			"src": "colormaps/babushka's_quilt/image.jpg"
+		},
+		{
+			"name": "babushka's_quilt_m0_preview",
+			"src": "colormaps/babushka's_quilt/preview.png"
+		},
+		{
+			"name": "babushka's_sofa_m0",
+			"src": "colormaps/babushka's_sofa/image.jpg"
+		},
+		{
+			"name": "babushka's_sofa_m0_preview",
+			"src": "colormaps/babushka's_sofa/preview.png"
+		},
+		{
+			"name": "barricade_tape_m0",
+			"src": "colormaps/barricade_tape/image.jpg"
+		},
+		{
+			"name": "barricade_tape_m0_preview",
+			"src": "colormaps/barricade_tape/preview.png"
+		},
+		{
+			"name": "battleship_m0",
+			"src": "colormaps/battleship/image.jpg"
+		},
+		{
+			"name": "battleship_m0_preview",
+			"src": "colormaps/battleship/preview.png"
+		},
+		{
+			"name": "baubles_galore_m0",
+			"src": "colormaps/baubles_galore/image.jpg"
+		},
+		{
+			"name": "baubles_galore_m0_preview",
+			"src": "colormaps/baubles_galore/preview.png"
+		},
+		{
+			"name": "bbq_m0",
+			"src": "colormaps/bbq/image.jpg"
+		},
+		{
+			"name": "bbq_m0_preview",
+			"src": "colormaps/bbq/preview.png"
+		},
+		{
+			"name": "beach_m0",
+			"src": "colormaps/beach/image.jpg"
+		},
+		{
+			"name": "beach_m0_preview",
+			"src": "colormaps/beach/preview.png"
+		},
+		{
+			"name": "blanket_m0",
+			"src": "colormaps/blanket/image.jpg"
+		},
+		{
+			"name": "blanket_m0_preview",
+			"src": "colormaps/blanket/preview.png"
+		},
+		{
+			"name": "blue_marmalade_m0",
+			"src": "colormaps/blue_marmalade/image.jpg"
+		},
+		{
+			"name": "blue_marmalade_m0_preview",
+			"src": "colormaps/blue_marmalade/preview.png"
+		},
+		{
+			"name": "blue_planet_m0",
+			"src": "colormaps/blue_planet/image.jpg"
+		},
+		{
+			"name": "blue_planet_m0_preview",
+			"src": "colormaps/blue_planet/preview.png"
+		},
+		{
+			"name": "buckwheat_m0",
+			"src": "colormaps/buckwheat/image.jpg"
+		},
+		{
+			"name": "buckwheat_m0_preview",
+			"src": "colormaps/buckwheat/preview.png"
+		},
+		{
+			"name": "cake_m0",
+			"src": "colormaps/cake/image.jpg"
+		},
+		{
+			"name": "cake_m0_preview",
+			"src": "colormaps/cake/preview.png"
+		},
+		{
+			"name": "cap_m0",
+			"src": "colormaps/cap/image.jpg"
+		},
+		{
+			"name": "cap_m0_preview",
+			"src": "colormaps/cap/preview.png"
+		},
+		{
+			"name": "charred_m0",
+			"src": "colormaps/charred/image.jpg"
+		},
+		{
+			"name": "charred_m0_preview",
+			"src": "colormaps/charred/preview.png"
+		},
+		{
+			"name": "christmas_eve_m0",
+			"src": "colormaps/christmas_eve/image.jpg"
+		},
+		{
+			"name": "christmas_eve_m0_preview",
+			"src": "colormaps/christmas_eve/preview.png"
+		},
+		{
+			"name": "creative_engineer_m0",
+			"src": "colormaps/creative_engineer/image.jpg"
+		},
+		{
+			"name": "creative_engineer_m0_preview",
+			"src": "colormaps/creative_engineer/preview.png"
+		},
+		{
+			"name": "crusher_m0",
+			"src": "colormaps/crusher/image.jpg"
+		},
+		{
+			"name": "crusher_m0_preview",
+			"src": "colormaps/crusher/preview.png"
+		},
+		{
+			"name": "darts_m0",
+			"src": "colormaps/darts/image.jpg"
+		},
+		{
+			"name": "darts_m0_preview",
+			"src": "colormaps/darts/preview.png"
+		},
+		{
+			"name": "deep_blue_pixel_m0",
+			"src": "colormaps/deep_blue_pixel/image.jpg"
+		},
+		{
+			"name": "deep_blue_pixel_m0_preview",
+			"src": "colormaps/deep_blue_pixel/preview.png"
+		},
+		{
+			"name": "designer_vibe_m0",
+			"src": "colormaps/designer_vibe/image.jpg"
+		},
+		{
+			"name": "designer_vibe_m0_preview",
+			"src": "colormaps/designer_vibe/preview.png"
+		},
+		{
+			"name": "eagle_eye_m0",
+			"src": "colormaps/eagle_eye/image.jpg"
+		},
+		{
+			"name": "eagle_eye_m0_preview",
+			"src": "colormaps/eagle_eye/preview.png"
+		},
+		{
+			"name": "easter_m0",
+			"src": "colormaps/easter/image.jpg"
+		},
+		{
+			"name": "easter_m0_preview",
+			"src": "colormaps/easter/preview.png"
+		},
+		{
+			"name": "ecofriendly_m0",
+			"src": "colormaps/ecofriendly/image.jpg"
+		},
+		{
+			"name": "ecofriendly_m0_preview",
+			"src": "colormaps/ecofriendly/preview.png"
+		},
+		{
+			"name": "falling_leaves_m0",
+			"src": "colormaps/falling_leaves/image.jpg"
+		},
+		{
+			"name": "falling_leaves_m0_preview",
+			"src": "colormaps/falling_leaves/preview.png"
+		},
+		{
+			"name": "gamepad_m0",
+			"src": "colormaps/gamepad/image.jpg"
+		},
+		{
+			"name": "gamepad_m0_preview",
+			"src": "colormaps/gamepad/preview.png"
+		},
+		{
+			"name": "geometric_blue_m0",
+			"src": "colormaps/geometric_blue/image.jpg"
+		},
+		{
+			"name": "geometric_blue_m0_preview",
+			"src": "colormaps/geometric_blue/preview.png"
+		},
+		{
+			"name": "gift_wrap_m0",
+			"src": "colormaps/gift_wrap/image.jpg"
+		},
+		{
+			"name": "gift_wrap_m0_preview",
+			"src": "colormaps/gift_wrap/preview.png"
+		},
+		{
+			"name": "gold_digger_m0",
+			"src": "colormaps/gold_digger/image.jpg"
+		},
+		{
+			"name": "gold_digger_m0_preview",
+			"src": "colormaps/gold_digger/preview.png"
+		},
+		{
+			"name": "griller_m0",
+			"src": "colormaps/griller/image.jpg"
+		},
+		{
+			"name": "griller_m0_preview",
+			"src": "colormaps/griller/preview.png"
+		},
+		{
+			"name": "halloween_2015_m0",
+			"src": "colormaps/halloween_2015/image.jpg"
+		},
+		{
+			"name": "halloween_2015_m0_preview",
+			"src": "colormaps/halloween_2015/preview.png"
+		},
+		{
+			"name": "jade_scales_m0",
+			"src": "colormaps/jade_scales/image.jpg"
+		},
+		{
+			"name": "jade_scales_m0_preview",
+			"src": "colormaps/jade_scales/preview.png"
+		},
+		{
+			"name": "lifesaver_m0",
+			"src": "colormaps/lifesaver/image.jpg"
+		},
+		{
+			"name": "lifesaver_m0_preview",
+			"src": "colormaps/lifesaver/preview.png"
+		},
+		{
+			"name": "lime_burst_m0",
+			"src": "colormaps/lime_burst/image.jpg"
+		},
+		{
+			"name": "lime_burst_m0_preview",
+			"src": "colormaps/lime_burst/preview.png"
+		},
+		{
+			"name": "log_cabin_m0",
+			"src": "colormaps/log_cabin/image.jpg"
+		},
+		{
+			"name": "log_cabin_m0_preview",
+			"src": "colormaps/log_cabin/preview.png"
+		},
+		{
+			"name": "masquerade_m0",
+			"src": "colormaps/masquerade/image.jpg"
+		},
+		{
+			"name": "masquerade_m0_preview",
+			"src": "colormaps/masquerade/preview.png"
+		},
+		{
+			"name": "miniature_masonry_m0",
+			"src": "colormaps/miniature_masonry/image.jpg"
+		},
+		{
+			"name": "miniature_masonry_m0_preview",
+			"src": "colormaps/miniature_masonry/preview.png"
+		},
+		{
+			"name": "mint_candy_m0",
+			"src": "colormaps/mint_candy/image.jpg"
+		},
+		{
+			"name": "mint_candy_m0_preview",
+			"src": "colormaps/mint_candy/preview.png"
+		},
+		{
+			"name": "neural_network_m0",
+			"src": "colormaps/neural_network/image.jpg"
+		},
+		{
+			"name": "neural_network_m0_preview",
+			"src": "colormaps/neural_network/preview.png"
+		},
+		{
+			"name": "nuclear_sun_m0",
+			"src": "colormaps/nuclear_sun/image.jpg"
+		},
+		{
+			"name": "nuclear_sun_m0_preview",
+			"src": "colormaps/nuclear_sun/preview.png"
+		},
+		{
+			"name": "oasis_m0",
+			"src": "colormaps/oasis/image.jpg"
+		},
+		{
+			"name": "oasis_m0_preview",
+			"src": "colormaps/oasis/preview.png"
+		},
+		{
+			"name": "oceania_m0",
+			"src": "colormaps/oceania/image.jpg"
+		},
+		{
+			"name": "oceania_m0_preview",
+			"src": "colormaps/oceania/preview.png"
+		},
+		{
+			"name": "offensive_m0",
+			"src": "colormaps/offensive/image.jpg"
+		},
+		{
+			"name": "offensive_m0_preview",
+			"src": "colormaps/offensive/preview.png"
+		},
+		{
+			"name": "off-road_vehicle_m0",
+			"src": "colormaps/off-road_vehicle/image.jpg"
+		},
+		{
+			"name": "off-road_vehicle_m0_preview",
+			"src": "colormaps/off-road_vehicle/preview.png"
+		},
+		{
+			"name": "orange_urchin_m0",
+			"src": "colormaps/orange_urchin/image.jpg"
+		},
+		{
+			"name": "orange_urchin_m0_preview",
+			"src": "colormaps/orange_urchin/preview.png"
+		},
+		{
+			"name": "packed_stocking_m0",
+			"src": "colormaps/packed_stocking/image.jpg"
+		},
+		{
+			"name": "packed_stocking_m0_preview",
+			"src": "colormaps/packed_stocking/preview.png"
+		},
+		{
+			"name": "pink_elephant_m0",
+			"src": "colormaps/pink_elephant/image.jpg"
+		},
+		{
+			"name": "pink_elephant_m0_preview",
+			"src": "colormaps/pink_elephant/preview.png"
+		},
+		{
+			"name": "pop_it_m0",
+			"src": "colormaps/pop_it/image.jpg"
+		},
+		{
+			"name": "pop_it_m0_preview",
+			"src": "colormaps/pop_it/preview.png"
+		},
+		{
+			"name": "precious_studs_m0",
+			"src": "colormaps/precious_studs/image.jpg"
+		},
+		{
+			"name": "precious_studs_m0_preview",
+			"src": "colormaps/precious_studs/preview.png"
+		},
+		{
+			"name": "question_m0",
+			"src": "colormaps/question/image.jpg"
+		},
+		{
+			"name": "question_m0_preview",
+			"src": "colormaps/question/preview.png"
+		},
+		{
+			"name": "red_marks_m0",
+			"src": "colormaps/red_marks/image.jpg"
+		},
+		{
+			"name": "red_marks_m0_preview",
+			"src": "colormaps/red_marks/preview.png"
+		},
+		{
+			"name": "red_marmalade_m0",
+			"src": "colormaps/red_marmalade/image.jpg"
+		},
+		{
+			"name": "red_marmalade_m0_preview",
+			"src": "colormaps/red_marmalade/preview.png"
+		},
+		{
+			"name": "red_planet_m0",
+			"src": "colormaps/red_planet/image.jpg"
+		},
+		{
+			"name": "red_planet_m0_preview",
+			"src": "colormaps/red_planet/preview.png"
+		},
+		{
+			"name": "retrowave_m0",
+			"src": "colormaps/retrowave/image.jpg"
+		},
+		{
+			"name": "retrowave_m0_preview",
+			"src": "colormaps/retrowave/preview.png"
+		},
+		{
+			"name": "sight_m0",
+			"src": "colormaps/sight/image.jpg"
+		},
+		{
+			"name": "sight_m0_preview",
+			"src": "colormaps/sight/preview.png"
+		},
+		{
+			"name": "singapore_m0",
+			"src": "colormaps/singapore/image.jpg"
+		},
+		{
+			"name": "singapore_m0_preview",
+			"src": "colormaps/singapore/preview.png"
+		},
+		{
+			"name": "skomorokh_m0",
+			"src": "colormaps/skomorokh/image.jpg"
+		},
+		{
+			"name": "skomorokh_m0_preview",
+			"src": "colormaps/skomorokh/preview.png"
+		},
+		{
+			"name": "soda_m0",
+			"src": "colormaps/soda/image.jpg"
+		},
+		{
+			"name": "soda_m0_preview",
+			"src": "colormaps/soda/preview.png"
+		},
+		{
+			"name": "sonar_m0",
+			"src": "colormaps/sonar/image.jpg"
+		},
+		{
+			"name": "sonar_m0_preview",
+			"src": "colormaps/sonar/preview.png"
+		},
+		{
+			"name": "speeding_star_m0",
+			"src": "colormaps/speeding_star/image.jpg"
+		},
+		{
+			"name": "speeding_star_m0_preview",
+			"src": "colormaps/speeding_star/preview.png"
+		},
+		{
+			"name": "spring_bouquet_m0",
+			"src": "colormaps/spring_bouquet/image.jpg"
+		},
+		{
+			"name": "spring_bouquet_m0_preview",
+			"src": "colormaps/spring_bouquet/preview.png"
+		},
+		{
+			"name": "stars_and_flames_m0",
+			"src": "colormaps/stars_and_flames/image.jpg"
+		},
+		{
+			"name": "stars_and_flames_m0_preview",
+			"src": "colormaps/stars_and_flames/preview.png"
+		},
+		{
+			"name": "steel_micro-fibers_m0",
+			"src": "colormaps/steel_micro-fibers/image.jpg"
+		},
+		{
+			"name": "steel_micro-fibers_m0_preview",
+			"src": "colormaps/steel_micro-fibers/preview.png"
+		},
+		{
+			"name": "stylish_tanker_m0",
+			"src": "colormaps/stylish_tanker/image.jpg"
+		},
+		{
+			"name": "stylish_tanker_m0_preview",
+			"src": "colormaps/stylish_tanker/preview.png"
+		},
+		{
+			"name": "tarantula_m0",
+			"src": "colormaps/tarantula/image.jpg"
+		},
+		{
+			"name": "tarantula_m0_preview",
+			"src": "colormaps/tarantula/preview.png"
+		},
+		{
+			"name": "target_m0",
+			"src": "colormaps/target/image.jpg"
+		},
+		{
+			"name": "target_m0_preview",
+			"src": "colormaps/target/preview.png"
+		},
+		{
+			"name": "tetris_m0",
+			"src": "colormaps/tetris/image.jpg"
+		},
+		{
+			"name": "tetris_m0_preview",
+			"src": "colormaps/tetris/preview.png"
+		},
+		{
+			"name": "timber_camo_m0",
+			"src": "colormaps/timber_camo/image.jpg"
+		},
+		{
+			"name": "timber_camo_m0_preview",
+			"src": "colormaps/timber_camo/preview.png"
+		},
+		{
+			"name": "tropical_foliage_m0",
+			"src": "colormaps/tropical_foliage/image.jpg"
+		},
+		{
+			"name": "tropical_foliage_m0_preview",
+			"src": "colormaps/tropical_foliage/preview.png"
+		},
+		{
+			"name": "tropics_m0",
+			"src": "colormaps/tropics/image.jpg"
+		},
+		{
+			"name": "tropics_m0_preview",
+			"src": "colormaps/tropics/preview.png"
+		},
+		{
+			"name": "ufo_m0",
+			"src": "colormaps/ufo/image.jpg"
+		},
+		{
+			"name": "vector_m0",
+			"src": "colormaps/vector/image.jpg"
+		},
+		{
+			"name": "vector_m0_preview",
+			"src": "colormaps/vector/preview.png"
+		},
+		{
+			"name": "walk_of_fame_m0",
+			"src": "colormaps/walk_of_fame/image.jpg"
+		},
+		{
+			"name": "walk_of_fame_m0_preview",
+			"src": "colormaps/walk_of_fame/preview.png"
+		},
+		{
+			"name": "watermelon_m0",
+			"src": "colormaps/watermelon/image.jpg"
+		},
+		{
+			"name": "watermelon_m0_preview",
+			"src": "colormaps/watermelon/preview.png"
+		},
+		{
+			"name": "white_planet_m0",
+			"src": "colormaps/white_planet/image.jpg"
+		},
+		{
+			"name": "white_planet_m0_preview",
+			"src": "colormaps/white_planet/preview.png"
+		},
+		{
+			"name": "wildstyle_m0",
+			"src": "colormaps/wildstyle/image.jpg"
+		},
+		{
+			"name": "wildstyle_m0_preview",
+			"src": "colormaps/wildstyle/preview.png"
+		},
+		{
+			"name": "wonder_fish_m0",
+			"src": "colormaps/wonder_fish/image.jpg"
+		},
+		{
+			"name": "wonder_fish_m0_preview",
+			"src": "colormaps/wonder_fish/preview.png"
+		},
+		{
+			"name": "wonderbird_m0",
+			"src": "colormaps/wonderbird/image.jpg"
+		},
+		{
+			"name": "wonderbird_m0_preview",
+			"src": "colormaps/wonderbird/preview.png"
 		}
 	]
 }
