@@ -4027,6 +4027,22 @@
 			"src": "colormaps/eternity/preview.png"
 		},
 		{
+			"name": "moonwalker_m0",
+			"src": "colormaps/moonwalker/image.png"
+		},
+		{
+			"name": "moonwalker_m0_preview",
+			"src": "colormaps/moonwalker/preview.png"
+		},
+		{
+			"name": "blaze_m0",
+			"src": "colormaps/blaze/image.png"
+		},
+		{
+			"name": "blaze_m0_preview",
+			"src": "colormaps/blaze/preview.png"
+		},
+		{
 			"name": "graffiti_m0",
 			"src": "colormaps/graffiti/image.jpg"
 		},
