@@ -5914,6 +5914,14 @@
 			"src": "effects/cont1.png"
 		},
 		{
+			"name": "container_2",
+			"src": "effects/cont2.png"
+		},
+		{
+			"name": "container_2_preview",
+			"src": "effects/cont2.png"
+		},
+		{
 			"name": "pro_pass",
 			"src": "effects/pro.png"
 		},
