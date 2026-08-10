@@ -95,7 +95,7 @@
         },
         {
             "name": "snowman_dc",
-            "src": "turret/snowman_dc/m0/turret.3ds"
+            "src": "turret/snowman_dc/m0/turret.3ds?v1"
         },
         {
             "name": "railgun_pr",
