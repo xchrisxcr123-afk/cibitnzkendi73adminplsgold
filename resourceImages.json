@@ -10027,6 +10027,262 @@
 			"src": "colormaps/wonderbird/image.jpg"
 		},
 		{
+			"name": "flamethrower_incendiary_mix",
+			"src": "augments/flamethrower_incendiary_mix/image.png"
+		},
+		{
+			"name": "flamethrower_compact_fuel_tanks",
+			"src": "augments/flamethrower_compact_fuel_tanks/image.png"
+		},
+		{
+			"name": "flamethrower_high_pressure_pump",
+			"src": "augments/flamethrower_high_pressure_pump/image.png"
+		},
+		{
+			"name": "freeze_shock_freeze",
+			"src": "augments/freeze_shock_freeze/image.png"
+		},
+		{
+			"name": "freeze_corrosive_mix",
+			"src": "augments/freeze_corrosive_mix/image.png"
+		},
+		{
+			"name": "freeze_high_pressure_pump",
+			"src": "augments/freeze_high_pressure_pump/image.png"
+		},
+		{
+			"name": "isida_nanomass_reactor",
+			"src": "augments/isida_nanomass_reactor/image.png"
+		},
+		{
+			"name": "isida_support_nanobots",
+			"src": "augments/isida_support_nanobots/image.png"
+		},
+		{
+			"name": "isida_broadband_radiators",
+			"src": "augments/isida_broadband_radiators/image.png"
+		},
+		{
+			"name": "hammer_dragons_breath",
+			"src": "augments/hammer_dragons_breath/image.png"
+		},
+		{
+			"name": "hammer_high_capacity_ammo_clip",
+			"src": "augments/hammer_high_capacity_ammo_clip/image.png"
+		},
+		{
+			"name": "hammer_duplet",
+			"src": "augments/hammer_duplet/image.png"
+		},
+		{
+			"name": "hammer_adaptive_reload",
+			"src": "augments/hammer_adaptive_reload/image.png"
+		},
+		{
+			"name": "hammer_slugger",
+			"src": "augments/hammer_slugger/image.png"
+		},
+		{
+			"name": "twins_plasma_accelerators",
+			"src": "augments/twins_plasma_accelerators/image.png"
+		},
+		{
+			"name": "twins_heavy_plasmagun",
+			"src": "augments/twins_heavy_plasmagun/image.png"
+		},
+		{
+			"name": "twins_stable_plasma",
+			"src": "augments/twins_stable_plasma/image.png"
+		},
+		{
+			"name": "ricochet_berserk",
+			"src": "augments/ricochet_berserk/image.png"
+		},
+		{
+			"name": "ricochet_plasma_torch",
+			"src": "augments/ricochet_plasma_torch/image.png"
+		},
+		{
+			"name": "ricochet_minus_field_stabilization",
+			"src": "augments/ricochet_minus_field_stabilization/image.png"
+		},
+		{
+			"name": "ricochet_destabilized_plasma",
+			"src": "augments/ricochet_destabilized_plasma/image.png"
+		},
+		{
+			"name": "smoky_autocannon",
+			"src": "augments/smoky_autocannon/image.png"
+		},
+		{
+			"name": "smoky_cryo_rounds",
+			"src": "augments/smoky_cryo_rounds/image.png"
+		},
+		{
+			"name": "smoky_incendiary_rounds",
+			"src": "augments/smoky_incendiary_rounds/image.png"
+		},
+		{
+			"name": "smoky_supercumulative_rounds",
+			"src": "augments/smoky_supercumulative_rounds/image.png"
+		},
+		{
+			"name": "smoky_high_precision_aiming_system",
+			"src": "augments/smoky_high_precision_aiming_system/image.png"
+		},
+		{
+			"name": "smoky_assault_rounds",
+			"src": "augments/smoky_assault_rounds/image.png"
+		},
+		{
+			"name": "striker_missile_launcher_uranium",
+			"src": "augments/striker_missile_launcher_uranium/image.png"
+		},
+		{
+			"name": "striker_missile_launcher_cyclone",
+			"src": "augments/striker_missile_launcher_cyclone/image.png"
+		},
+		{
+			"name": "striker_missile_launcher_hunter",
+			"src": "augments/striker_missile_launcher_hunter/image.png"
+		},
+		{
+			"name": "striker_remote_rocket_explosives",
+			"src": "augments/striker_remote_rocket_explosives/image.png"
+		},
+		{
+			"name": "vulcan_incendiary_band",
+			"src": "augments/vulcan_incendiary_band/image.png"
+		},
+		{
+			"name": "vulcan_reinforced_aiming_transmission",
+			"src": "augments/vulcan_reinforced_aiming_transmission/image.png"
+		},
+		{
+			"name": "vulcan_shooting_speed_regulator",
+			"src": "augments/vulcan_shooting_speed_regulator/image.png"
+		},
+		{
+			"name": "thunder_sledgehammer_rounds",
+			"src": "augments/thunder_sledgehammer_rounds/image.png"
+		},
+		{
+			"name": "thunder_subcaliber_rounds",
+			"src": "augments/thunder_subcaliber_rounds/image.png"
+		},
+		{
+			"name": "thunder_small_caliber_charging_machine",
+			"src": "augments/thunder_small_caliber_charging_machine/image.png"
+		},
+		{
+			"name": "railgun_round_destabilization",
+			"src": "augments/railgun_round_destabilization/image.png"
+		},
+		{
+			"name": "railgun_large_caliber_rounds",
+			"src": "augments/railgun_large_caliber_rounds/image.png"
+		},
+		{
+			"name": "railgun_death_herald_compulsator",
+			"src": "augments/railgun_death_herald_compulsator/image.png"
+		},
+		{
+			"name": "railgun_hyperspace_rounds",
+			"src": "augments/railgun_hyperspace_rounds/image.png"
+		},
+		{
+			"name": "railgun_electromagnetic_accelerator_scout",
+			"src": "augments/railgun_electromagnetic_accelerator_scout/image.png"
+		},
+		{
+			"name": "railgun_reinforced_aiming_transmission",
+			"src": "augments/railgun_reinforced_aiming_transmission/image.png"
+		},
+		{
+			"name": "railgun_round_stabilization",
+			"src": "augments/railgun_round_stabilization/image.png"
+		},
+		{
+			"name": "shaft_light_capacitors",
+			"src": "augments/shaft_light_capacitors/image.png"
+		},
+		{
+			"name": "shaft_rapid_fire_mode",
+			"src": "augments/shaft_rapid_fire_mode/image.png"
+		},
+		{
+			"name": "shaft_heavy_capacitors",
+			"src": "augments/shaft_heavy_capacitors/image.png"
+		},
+		{
+			"name": "shaft_short_band_emitter",
+			"src": "augments/shaft_short_band_emitter/image.png"
+		},
+		{
+			"name": "wasp_heat_resistance",
+			"src": "augments/wasp_heat_resistance/image.png"
+		},
+		{
+			"name": "wasp_cold_resistance",
+			"src": "augments/wasp_cold_resistance/image.png"
+		},
+		{
+			"name": "hunter_heat_resistance",
+			"src": "augments/hunter_heat_resistance/image.png"
+		},
+		{
+			"name": "hunter_cold_resistance",
+			"src": "augments/hunter_cold_resistance/image.png"
+		},
+		{
+			"name": "titan_heat_resistance",
+			"src": "augments/titan_heat_resistance/image.png"
+		},
+		{
+			"name": "titan_cold_resistance",
+			"src": "augments/titan_cold_resistance/image.png"
+		},
+		{
+			"name": "dictator_heat_resistance",
+			"src": "augments/dictator_heat_resistance/image.png"
+		},
+		{
+			"name": "dictator_cold_resistance",
+			"src": "augments/dictator_cold_resistance/image.png"
+		},
+		{
+			"name": "hornet_heat_resistance",
+			"src": "augments/hornet_heat_resistance/image.png"
+		},
+		{
+			"name": "hornet_cold_resistance",
+			"src": "augments/hornet_cold_resistance/image.png"
+		},
+		{
+			"name": "viking_heat_resistance",
+			"src": "augments/viking_heat_resistance/image.png"
+		},
+		{
+			"name": "viking_cold_resistance",
+			"src": "augments/viking_cold_resistance/image.png"
+		},
+		{
+			"name": "mamont_heat_resistance",
+			"src": "augments/mamont_heat_resistance/image.png"
+		},
+		{
+			"name": "mamont_cold_resistance",
+			"src": "augments/mamont_cold_resistance/image.png"
+		},
+		{
+			"name": "juggernaut_heat_resistance",
+			"src": "augments/juggernaut_heat_resistance/image.png"
+		},
+		{
+			"name": "juggernaut_cold_resistance",
+			"src": "augments/juggernaut_cold_resistance/image.png"
+		},
+		{
 			"name": "wonderbird_m0_preview",
 			"src": "colormaps/wonderbird/preview.png"
 		}
