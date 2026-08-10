@@ -67,7 +67,7 @@
         },
         {
             "name": "hunter_dc",
-            "src": "hull/hunterdc/m0/hull.3ds?v1"
+            "src": "hull/hunterdc/m0/hull.3ds?v2"
         },
         {
             "name": "hunter_ut",
@@ -147,7 +147,7 @@
         },
         {
             "name": "wasp_dc",
-            "src": "hull/waspdc/m0/hull.3ds?v2"
+            "src": "hull/waspdc/m0/hull.3ds?v3"
         },
         {
             "name": "hunter_xt",
