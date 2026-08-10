@@ -66,6 +66,62 @@
             "src": "hull/hornet_ut/m0/hull.3ds"
         },
         {
+            "name": "hunter_dc",
+            "src": "hull/hunterdc/m0/hull.3ds"
+        },
+        {
+            "name": "hunter_ut",
+            "src": "hull/hunter_ut/m0/hull.3ds"
+        },
+        {
+            "name": "mamont_ut",
+            "src": "hull/mamont_ut/m0/hull.3ds"
+        },
+        {
+            "name": "hornet_pr",
+            "src": "hull/hornet_pr/m0/hull.3ds"
+        },
+        {
+            "name": "hunter_pr",
+            "src": "hull/hunter_pr/m0/hull.3ds"
+        },
+        {
+            "name": "titan_pr",
+            "src": "hull/titan_pr/m0/hull.3ds"
+        },
+        {
+            "name": "viking_pr",
+            "src": "hull/viking_pr/m0/hull.3ds"
+        },
+        {
+            "name": "snowman_dc",
+            "src": "turret/snowman_dc/m0/turret.3ds"
+        },
+        {
+            "name": "railgun_pr",
+            "src": "turret/railgun_pr/m0/turret.3ds"
+        },
+        {
+            "name": "vulcan_pr",
+            "src": "turret/vulcan_pr/m0/turret.3ds"
+        },
+        {
+            "name": "railgun_ut",
+            "src": "turret/railgun_ut/m0/turret.3ds"
+        },
+        {
+            "name": "thunder_ut",
+            "src": "turret/thunder_ut/m0/turret.3ds"
+        },
+        {
+            "name": "vulcan_ut",
+            "src": "turret/vulcan_ut/m0/turret.3ds"
+        },
+        {
+            "name": "flamethrower_ut",
+            "src": "turret/flamethrower_ut/m0/turret.3ds"
+        },
+        {
             "name": "railgun_tx",
             "src": "turret/railgun_tx/turret.3ds"
         },
@@ -215,7 +271,7 @@
         },
         {
             "name": "flamethrower_dcnew",
-            "src": "turret/flamethrowerdc/m1/turret.3ds"
+            "src": "turret/flamethrower_dcnew/m0/turret.3ds"
         },
         {
             "name": "flamethrower_m0",

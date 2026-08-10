@@ -34,6 +34,170 @@
 			"src": "hull/hornet_ut/m0/preview.png"
 		},
 		{
+			"name": "hunter_ut_details",
+			"src": "hull/hunter_ut/m0/details.png"
+		},
+		{
+			"name": "hunter_ut_lightmap",
+			"src": "hull/hunter_ut/m0/lightmap.jpg"
+		},
+		{
+			"name": "hunter_ut_tracks",
+			"src": "hull/hunter_ut/m0/tracks.jpg"
+		},
+		{
+			"name": "hunter_ut_preview",
+			"src": "hull/hunter_ut/m0/preview.png"
+		},
+		{
+			"name": "mamont_ut_details",
+			"src": "hull/mamont_ut/m0/details.png"
+		},
+		{
+			"name": "mamont_ut_lightmap",
+			"src": "hull/mamont_ut/m0/lightmap.jpg"
+		},
+		{
+			"name": "mamont_ut_tracks",
+			"src": "hull/mamont_ut/m0/tracks.jpg"
+		},
+		{
+			"name": "mamont_ut_preview",
+			"src": "hull/mamont_ut/m0/preview.png"
+		},
+		{
+			"name": "hornet_pr_details",
+			"src": "hull/hornet_pr/m0/details.png"
+		},
+		{
+			"name": "hornet_pr_lightmap",
+			"src": "hull/hornet_pr/m0/lightmap.jpg"
+		},
+		{
+			"name": "hornet_pr_preview",
+			"src": "hull/hornet_pr/m0/preview.png"
+		},
+		{
+			"name": "hunter_pr_details",
+			"src": "hull/hunter_pr/m0/details.png"
+		},
+		{
+			"name": "hunter_pr_lightmap",
+			"src": "hull/hunter_pr/m0/lightmap.jpg"
+		},
+		{
+			"name": "hunter_pr_preview",
+			"src": "hull/hunter_pr/m0/preview.png"
+		},
+		{
+			"name": "titan_pr_details",
+			"src": "hull/titan_pr/m0/details.png"
+		},
+		{
+			"name": "titan_pr_lightmap",
+			"src": "hull/titan_pr/m0/lightmap.jpg"
+		},
+		{
+			"name": "titan_pr_preview",
+			"src": "hull/titan_pr/m0/preview.png"
+		},
+		{
+			"name": "viking_pr_details",
+			"src": "hull/viking_pr/m0/details.png"
+		},
+		{
+			"name": "viking_pr_lightmap",
+			"src": "hull/viking_pr/m0/lightmap.jpg"
+		},
+		{
+			"name": "viking_pr_preview",
+			"src": "hull/viking_pr/m0/preview.png"
+		},
+		{
+			"name": "snowman_dc_details",
+			"src": "turret/snowman_dc/m0/details.png"
+		},
+		{
+			"name": "snowman_dc_lightmap",
+			"src": "turret/snowman_dc/m0/lightmap.jpg"
+		},
+		{
+			"name": "snowman_dc_preview",
+			"src": "turret/snowman_dc/m0/preview.png"
+		},
+		{
+			"name": "railgun_pr_details",
+			"src": "turret/railgun_pr/m0/details.png"
+		},
+		{
+			"name": "railgun_pr_lightmap",
+			"src": "turret/railgun_pr/m0/lightmap.jpg"
+		},
+		{
+			"name": "railgun_pr_preview",
+			"src": "turret/railgun_pr/m0/preview.png"
+		},
+		{
+			"name": "vulcan_pr_details",
+			"src": "turret/vulcan_pr/m0/details.png"
+		},
+		{
+			"name": "vulcan_pr_lightmap",
+			"src": "turret/vulcan_pr/m0/lightmap.jpg"
+		},
+		{
+			"name": "vulcan_pr_preview",
+			"src": "turret/vulcan_pr/m0/preview.png"
+		},
+		{
+			"name": "railgun_ut_details",
+			"src": "turret/railgun_ut/m0/details.png"
+		},
+		{
+			"name": "railgun_ut_lightmap",
+			"src": "turret/railgun_ut/m0/lightmap.jpg"
+		},
+		{
+			"name": "railgun_ut_preview",
+			"src": "turret/railgun_ut/m0/preview.png"
+		},
+		{
+			"name": "thunder_ut_details",
+			"src": "turret/thunder_ut/m0/details.png"
+		},
+		{
+			"name": "thunder_ut_lightmap",
+			"src": "turret/thunder_ut/m0/lightmap.jpg"
+		},
+		{
+			"name": "thunder_ut_preview",
+			"src": "turret/thunder_ut/m0/preview.png"
+		},
+		{
+			"name": "vulcan_ut_details",
+			"src": "turret/vulcan_ut/m0/details.png"
+		},
+		{
+			"name": "vulcan_ut_lightmap",
+			"src": "turret/vulcan_ut/m0/lightmap.jpg"
+		},
+		{
+			"name": "vulcan_ut_preview",
+			"src": "turret/vulcan_ut/m0/preview.png"
+		},
+		{
+			"name": "flamethrower_ut_details",
+			"src": "turret/flamethrower_ut/m0/details.png"
+		},
+		{
+			"name": "flamethrower_ut_lightmap",
+			"src": "turret/flamethrower_ut/m0/lightmap.jpg"
+		},
+		{
+			"name": "flamethrower_ut_preview",
+			"src": "turret/flamethrower_ut/m0/preview.png"
+		},
+		{
 			"name": "viking_tx_details",
 			"src": "hull/viking_tx/m0/details.png"
 		},
@@ -1189,15 +1353,15 @@
 		},
 		{
 			"name": "flamethrower_dcnew_lightmap",
-			"src": "turret/flamethrowerdc/m1/lightmap.jpg?v1"
+			"src": "turret/flamethrower_dcnew/m0/lightmap.jpg"
 		},
 		{
 			"name": "flamethrower_dcnew_details",
-			"src": "turret/flamethrowerdc/m1/details.png?v1"
+			"src": "turret/flamethrower_dcnew/m0/details.png"
 		},
 		{
 			"name": "flamethrower_dcnew_preview",
-			"src": "turret/flamethrowerdc/m1/preview.png?v1"
+			"src": "turret/flamethrower_dcnew/m0/preview.png"
 		},
 		{
 			"name": "isida_xt_lightmap",
@@ -1970,6 +2134,10 @@
 		{
 			"name": "hunter_dc_preview",
 			"src": "hull/hunterdc/m0/preview.png"
+		},
+		{
+			"name": "hunter_dc_tracks",
+			"src": "hull/hunterdc/m0/tracks.jpg"
 		},
 		{
 			"name": "hornet_xt_lightmap",
@@ -10281,6 +10449,70 @@
 		{
 			"name": "juggernaut_cold_resistance",
 			"src": "augments/juggernaut_cold_resistance/image.png"
+		},
+		{
+			"name": "wasp_heavyweight_construction",
+			"src": "augments/wasp_heavyweight_construction/image.png"
+		},
+		{
+			"name": "wasp_lightweight_construction",
+			"src": "augments/wasp_lightweight_construction/image.png"
+		},
+		{
+			"name": "hunter_heavyweight_construction",
+			"src": "augments/hunter_heavyweight_construction/image.png"
+		},
+		{
+			"name": "hunter_lightweight_construction",
+			"src": "augments/hunter_lightweight_construction/image.png"
+		},
+		{
+			"name": "titan_heavyweight_construction",
+			"src": "augments/titan_heavyweight_construction/image.png"
+		},
+		{
+			"name": "titan_lightweight_construction",
+			"src": "augments/titan_lightweight_construction/image.png"
+		},
+		{
+			"name": "dictator_heavyweight_construction",
+			"src": "augments/dictator_heavyweight_construction/image.png"
+		},
+		{
+			"name": "dictator_lightweight_construction",
+			"src": "augments/dictator_lightweight_construction/image.png"
+		},
+		{
+			"name": "hornet_heavyweight_construction",
+			"src": "augments/hornet_heavyweight_construction/image.png"
+		},
+		{
+			"name": "hornet_lightweight_construction",
+			"src": "augments/hornet_lightweight_construction/image.png"
+		},
+		{
+			"name": "viking_heavyweight_construction",
+			"src": "augments/viking_heavyweight_construction/image.png"
+		},
+		{
+			"name": "viking_lightweight_construction",
+			"src": "augments/viking_lightweight_construction/image.png"
+		},
+		{
+			"name": "mamont_heavyweight_construction",
+			"src": "augments/mamont_heavyweight_construction/image.png"
+		},
+		{
+			"name": "mamont_lightweight_construction",
+			"src": "augments/mamont_lightweight_construction/image.png"
+		},
+		{
+			"name": "juggernaut_heavyweight_construction",
+			"src": "augments/juggernaut_heavyweight_construction/image.png"
+		},
+		{
+			"name": "juggernaut_lightweight_construction",
+			"src": "augments/juggernaut_lightweight_construction/image.png"
 		},
 		{
 			"name": "wonderbird_m0_preview",
