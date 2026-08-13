@@ -1,4 +1,4 @@
-{
+﻿{
 	"id": "IMAGES",
 	"items": [
 		{
@@ -3550,11 +3550,11 @@
 			"src": "colormaps/lime/preview.png"
 		},
 		{
-			"name": "liquidmetal_m0",
+			"name": "liquidMetal_m0",
 			"src": "colormaps/liquidmetal/image.jpg"
 		},
 		{
-			"name": "liquidmetal_m0_preview",
+			"name": "liquidMetal_m0_preview",
 			"src": "colormaps/liquidmetal/preview.png"
 		},
 		{
@@ -5776,6 +5776,26 @@
 		{
 			"name": "ricochet_crimson_tailTrailTextureId",
 			"src": "turret/ricochet/shoteffects/crimson/ricochet_shot_trail.png"
+		},
+		{
+			"name": "ricochet_blaster_bumpFlashTextureId",
+			"src": "turret/ricochet/shoteffects/blaster/ricochet_shot_flash.png"
+		},
+		{
+			"name": "ricochet_blaster_explosionTextureId",
+			"src": "turret/ricochet/shoteffects/blaster/ricochet_explosion.png"
+		},
+		{
+			"name": "ricochet_blaster_shotFlashTextureId",
+			"src": "turret/ricochet/shoteffects/blaster/ricochet_shot_flash.png"
+		},
+		{
+			"name": "ricochet_blaster_shotTextureId",
+			"src": "turret/ricochet/shoteffects/blaster/ricochet_shot.png"
+		},
+		{
+			"name": "ricochet_blaster_tailTrailTextureId",
+			"src": "turret/ricochet/shoteffects/blaster/ricochet_shot_trail.png"
 		},
 		{
 			"name": "ricochet_violet_bumpFlashTextureId",
@@ -10228,327 +10248,327 @@
 		},
 		{
 			"name": "flamethrower_incendiary_mix",
-			"src": "augments/flamethrower_incendiary_mix/image.png"
+			"src": "augments/flamethrower_incendiary_mix/image.png?v1"
 		},
 		{
 			"name": "flamethrower_compact_fuel_tanks",
-			"src": "augments/flamethrower_compact_fuel_tanks/image.png"
+			"src": "augments/flamethrower_compact_fuel_tanks/image.png?v1"
 		},
 		{
 			"name": "flamethrower_high_pressure_pump",
-			"src": "augments/flamethrower_high_pressure_pump/image.png"
+			"src": "augments/flamethrower_high_pressure_pump/image.png?v1"
 		},
 		{
 			"name": "freeze_shock_freeze",
-			"src": "augments/freeze_shock_freeze/image.png"
+			"src": "augments/freeze_shock_freeze/image.png?v1"
 		},
 		{
 			"name": "freeze_corrosive_mix",
-			"src": "augments/freeze_corrosive_mix/image.png"
+			"src": "augments/freeze_corrosive_mix/image.png?v1"
 		},
 		{
 			"name": "freeze_high_pressure_pump",
-			"src": "augments/freeze_high_pressure_pump/image.png"
+			"src": "augments/freeze_high_pressure_pump/image.png?v1"
 		},
 		{
 			"name": "isida_nanomass_reactor",
-			"src": "augments/isida_nanomass_reactor/image.png"
+			"src": "augments/isida_nanomass_reactor/image.png?v1"
 		},
 		{
 			"name": "isida_support_nanobots",
-			"src": "augments/isida_support_nanobots/image.png"
+			"src": "augments/isida_support_nanobots/image.png?v1"
 		},
 		{
 			"name": "isida_broadband_radiators",
-			"src": "augments/isida_broadband_radiators/image.png"
+			"src": "augments/isida_broadband_radiators/image.png?v1"
 		},
 		{
 			"name": "hammer_dragons_breath",
-			"src": "augments/hammer_dragons_breath/image.png"
+			"src": "augments/hammer_dragons_breath/image.png?v1"
 		},
 		{
 			"name": "hammer_high_capacity_ammo_clip",
-			"src": "augments/hammer_high_capacity_ammo_clip/image.png"
+			"src": "augments/hammer_high_capacity_ammo_clip/image.png?v1"
 		},
 		{
 			"name": "hammer_duplet",
-			"src": "augments/hammer_duplet/image.png"
+			"src": "augments/hammer_duplet/image.png?v1"
 		},
 		{
 			"name": "hammer_adaptive_reload",
-			"src": "augments/hammer_adaptive_reload/image.png"
+			"src": "augments/hammer_adaptive_reload/image.png?v1"
 		},
 		{
 			"name": "hammer_slugger",
-			"src": "augments/hammer_slugger/image.png"
+			"src": "augments/hammer_slugger/image.png?v1"
 		},
 		{
 			"name": "twins_plasma_accelerators",
-			"src": "augments/twins_plasma_accelerators/image.png"
+			"src": "augments/twins_plasma_accelerators/image.png?v1"
 		},
 		{
 			"name": "twins_heavy_plasmagun",
-			"src": "augments/twins_heavy_plasmagun/image.png"
+			"src": "augments/twins_heavy_plasmagun/image.png?v1"
 		},
 		{
 			"name": "twins_stable_plasma",
-			"src": "augments/twins_stable_plasma/image.png"
+			"src": "augments/twins_stable_plasma/image.png?v1"
 		},
 		{
 			"name": "ricochet_berserk",
-			"src": "augments/ricochet_berserk/image.png"
+			"src": "augments/ricochet_berserk/image.png?v1"
 		},
 		{
 			"name": "ricochet_plasma_torch",
-			"src": "augments/ricochet_plasma_torch/image.png"
+			"src": "augments/ricochet_plasma_torch/image.png?v1"
 		},
 		{
 			"name": "ricochet_minus_field_stabilization",
-			"src": "augments/ricochet_minus_field_stabilization/image.png"
+			"src": "augments/ricochet_minus_field_stabilization/image.png?v1"
 		},
 		{
 			"name": "ricochet_destabilized_plasma",
-			"src": "augments/ricochet_destabilized_plasma/image.png"
+			"src": "augments/ricochet_destabilized_plasma/image.png?v1"
 		},
 		{
 			"name": "smoky_autocannon",
-			"src": "augments/smoky_autocannon/image.png"
+			"src": "augments/smoky_autocannon/image.png?v1"
 		},
 		{
 			"name": "smoky_cryo_rounds",
-			"src": "augments/smoky_cryo_rounds/image.png"
+			"src": "augments/smoky_cryo_rounds/image.png?v1"
 		},
 		{
 			"name": "smoky_incendiary_rounds",
-			"src": "augments/smoky_incendiary_rounds/image.png"
+			"src": "augments/smoky_incendiary_rounds/image.png?v1"
 		},
 		{
 			"name": "smoky_supercumulative_rounds",
-			"src": "augments/smoky_supercumulative_rounds/image.png"
+			"src": "augments/smoky_supercumulative_rounds/image.png?v1"
 		},
 		{
 			"name": "smoky_high_precision_aiming_system",
-			"src": "augments/smoky_high_precision_aiming_system/image.png"
+			"src": "augments/smoky_high_precision_aiming_system/image.png?v1"
 		},
 		{
 			"name": "smoky_assault_rounds",
-			"src": "augments/smoky_assault_rounds/image.png"
+			"src": "augments/smoky_assault_rounds/image.png?v1"
 		},
 		{
 			"name": "striker_missile_launcher_uranium",
-			"src": "augments/striker_missile_launcher_uranium/image.png"
+			"src": "augments/striker_missile_launcher_uranium/image.png?v1"
 		},
 		{
 			"name": "striker_missile_launcher_cyclone",
-			"src": "augments/striker_missile_launcher_cyclone/image.png"
+			"src": "augments/striker_missile_launcher_cyclone/image.png?v1"
 		},
 		{
 			"name": "striker_missile_launcher_hunter",
-			"src": "augments/striker_missile_launcher_hunter/image.png"
+			"src": "augments/striker_missile_launcher_hunter/image.png?v1"
 		},
 		{
 			"name": "striker_remote_rocket_explosives",
-			"src": "augments/striker_remote_rocket_explosives/image.png"
+			"src": "augments/striker_remote_rocket_explosives/image.png?v1"
 		},
 		{
 			"name": "vulcan_incendiary_band",
-			"src": "augments/vulcan_incendiary_band/image.png"
+			"src": "augments/vulcan_incendiary_band/image.png?v1"
 		},
 		{
 			"name": "vulcan_reinforced_aiming_transmission",
-			"src": "augments/vulcan_reinforced_aiming_transmission/image.png"
+			"src": "augments/vulcan_reinforced_aiming_transmission/image.png?v1"
 		},
 		{
 			"name": "vulcan_shooting_speed_regulator",
-			"src": "augments/vulcan_shooting_speed_regulator/image.png"
+			"src": "augments/vulcan_shooting_speed_regulator/image.png?v1"
 		},
 		{
 			"name": "thunder_sledgehammer_rounds",
-			"src": "augments/thunder_sledgehammer_rounds/image.png"
+			"src": "augments/thunder_sledgehammer_rounds/image.png?v1"
 		},
 		{
 			"name": "thunder_subcaliber_rounds",
-			"src": "augments/thunder_subcaliber_rounds/image.png"
+			"src": "augments/thunder_subcaliber_rounds/image.png?v1"
 		},
 		{
 			"name": "thunder_small_caliber_charging_machine",
-			"src": "augments/thunder_small_caliber_charging_machine/image.png"
+			"src": "augments/thunder_small_caliber_charging_machine/image.png?v1"
 		},
 		{
 			"name": "railgun_round_destabilization",
-			"src": "augments/railgun_round_destabilization/image.png"
+			"src": "augments/railgun_round_destabilization/image.png?v1"
 		},
 		{
 			"name": "railgun_large_caliber_rounds",
-			"src": "augments/railgun_large_caliber_rounds/image.png"
+			"src": "augments/railgun_large_caliber_rounds/image.png?v1"
 		},
 		{
 			"name": "railgun_death_herald_compulsator",
-			"src": "augments/railgun_death_herald_compulsator/image.png"
+			"src": "augments/railgun_death_herald_compulsator/image.png?v1"
 		},
 		{
 			"name": "railgun_hyperspace_rounds",
-			"src": "augments/railgun_hyperspace_rounds/image.png"
+			"src": "augments/railgun_hyperspace_rounds/image.png?v1"
 		},
 		{
 			"name": "railgun_electromagnetic_accelerator_scout",
-			"src": "augments/railgun_electromagnetic_accelerator_scout/image.png"
+			"src": "augments/railgun_electromagnetic_accelerator_scout/image.png?v1"
 		},
 		{
 			"name": "railgun_reinforced_aiming_transmission",
-			"src": "augments/railgun_reinforced_aiming_transmission/image.png"
+			"src": "augments/railgun_reinforced_aiming_transmission/image.png?v1"
 		},
 		{
 			"name": "railgun_round_stabilization",
-			"src": "augments/railgun_round_stabilization/image.png"
+			"src": "augments/railgun_round_stabilization/image.png?v1"
 		},
 		{
 			"name": "shaft_light_capacitors",
-			"src": "augments/shaft_light_capacitors/image.png"
+			"src": "augments/shaft_light_capacitors/image.png?v1"
 		},
 		{
 			"name": "shaft_rapid_fire_mode",
-			"src": "augments/shaft_rapid_fire_mode/image.png"
+			"src": "augments/shaft_rapid_fire_mode/image.png?v1"
 		},
 		{
 			"name": "shaft_heavy_capacitors",
-			"src": "augments/shaft_heavy_capacitors/image.png"
+			"src": "augments/shaft_heavy_capacitors/image.png?v1"
 		},
 		{
 			"name": "shaft_short_band_emitter",
-			"src": "augments/shaft_short_band_emitter/image.png"
+			"src": "augments/shaft_short_band_emitter/image.png?v1"
 		},
 		{
 			"name": "wasp_heat_resistance",
-			"src": "augments/wasp_heat_resistance/image.png"
+			"src": "augments/wasp_heat_resistance/image.png?v1"
 		},
 		{
 			"name": "wasp_cold_resistance",
-			"src": "augments/wasp_cold_resistance/image.png"
+			"src": "augments/wasp_cold_resistance/image.png?v1"
 		},
 		{
 			"name": "hunter_heat_resistance",
-			"src": "augments/hunter_heat_resistance/image.png"
+			"src": "augments/hunter_heat_resistance/image.png?v1"
 		},
 		{
 			"name": "hunter_cold_resistance",
-			"src": "augments/hunter_cold_resistance/image.png"
+			"src": "augments/hunter_cold_resistance/image.png?v1"
 		},
 		{
 			"name": "titan_heat_resistance",
-			"src": "augments/titan_heat_resistance/image.png"
+			"src": "augments/titan_heat_resistance/image.png?v1"
 		},
 		{
 			"name": "titan_cold_resistance",
-			"src": "augments/titan_cold_resistance/image.png"
+			"src": "augments/titan_cold_resistance/image.png?v1"
 		},
 		{
 			"name": "dictator_heat_resistance",
-			"src": "augments/dictator_heat_resistance/image.png"
+			"src": "augments/dictator_heat_resistance/image.png?v1"
 		},
 		{
 			"name": "dictator_cold_resistance",
-			"src": "augments/dictator_cold_resistance/image.png"
+			"src": "augments/dictator_cold_resistance/image.png?v1"
 		},
 		{
 			"name": "hornet_heat_resistance",
-			"src": "augments/hornet_heat_resistance/image.png"
+			"src": "augments/hornet_heat_resistance/image.png?v1"
 		},
 		{
 			"name": "hornet_cold_resistance",
-			"src": "augments/hornet_cold_resistance/image.png"
+			"src": "augments/hornet_cold_resistance/image.png?v1"
 		},
 		{
 			"name": "viking_heat_resistance",
-			"src": "augments/viking_heat_resistance/image.png"
+			"src": "augments/viking_heat_resistance/image.png?v1"
 		},
 		{
 			"name": "viking_cold_resistance",
-			"src": "augments/viking_cold_resistance/image.png"
+			"src": "augments/viking_cold_resistance/image.png?v1"
 		},
 		{
 			"name": "mamont_heat_resistance",
-			"src": "augments/mamont_heat_resistance/image.png"
+			"src": "augments/mamont_heat_resistance/image.png?v1"
 		},
 		{
 			"name": "mamont_cold_resistance",
-			"src": "augments/mamont_cold_resistance/image.png"
+			"src": "augments/mamont_cold_resistance/image.png?v1"
 		},
 		{
 			"name": "juggernaut_heat_resistance",
-			"src": "augments/juggernaut_heat_resistance/image.png"
+			"src": "augments/juggernaut_heat_resistance/image.png?v1"
 		},
 		{
 			"name": "juggernaut_cold_resistance",
-			"src": "augments/juggernaut_cold_resistance/image.png"
+			"src": "augments/juggernaut_cold_resistance/image.png?v1"
 		},
 		{
 			"name": "wasp_heavyweight_construction",
-			"src": "augments/wasp_heavyweight_construction/image.png"
+			"src": "augments/wasp_heavyweight_construction/image.png?v1"
 		},
 		{
 			"name": "wasp_lightweight_construction",
-			"src": "augments/wasp_lightweight_construction/image.png"
+			"src": "augments/wasp_lightweight_construction/image.png?v1"
 		},
 		{
 			"name": "hunter_heavyweight_construction",
-			"src": "augments/hunter_heavyweight_construction/image.png"
+			"src": "augments/hunter_heavyweight_construction/image.png?v1"
 		},
 		{
 			"name": "hunter_lightweight_construction",
-			"src": "augments/hunter_lightweight_construction/image.png"
+			"src": "augments/hunter_lightweight_construction/image.png?v1"
 		},
 		{
 			"name": "titan_heavyweight_construction",
-			"src": "augments/titan_heavyweight_construction/image.png"
+			"src": "augments/titan_heavyweight_construction/image.png?v1"
 		},
 		{
 			"name": "titan_lightweight_construction",
-			"src": "augments/titan_lightweight_construction/image.png"
+			"src": "augments/titan_lightweight_construction/image.png?v1"
 		},
 		{
 			"name": "dictator_heavyweight_construction",
-			"src": "augments/dictator_heavyweight_construction/image.png"
+			"src": "augments/dictator_heavyweight_construction/image.png?v1"
 		},
 		{
 			"name": "dictator_lightweight_construction",
-			"src": "augments/dictator_lightweight_construction/image.png"
+			"src": "augments/dictator_lightweight_construction/image.png?v1"
 		},
 		{
 			"name": "hornet_heavyweight_construction",
-			"src": "augments/hornet_heavyweight_construction/image.png"
+			"src": "augments/hornet_heavyweight_construction/image.png?v1"
 		},
 		{
 			"name": "hornet_lightweight_construction",
-			"src": "augments/hornet_lightweight_construction/image.png"
+			"src": "augments/hornet_lightweight_construction/image.png?v1"
 		},
 		{
 			"name": "viking_heavyweight_construction",
-			"src": "augments/viking_heavyweight_construction/image.png"
+			"src": "augments/viking_heavyweight_construction/image.png?v1"
 		},
 		{
 			"name": "viking_lightweight_construction",
-			"src": "augments/viking_lightweight_construction/image.png"
+			"src": "augments/viking_lightweight_construction/image.png?v1"
 		},
 		{
 			"name": "mamont_heavyweight_construction",
-			"src": "augments/mamont_heavyweight_construction/image.png"
+			"src": "augments/mamont_heavyweight_construction/image.png?v1"
 		},
 		{
 			"name": "mamont_lightweight_construction",
-			"src": "augments/mamont_lightweight_construction/image.png"
+			"src": "augments/mamont_lightweight_construction/image.png?v1"
 		},
 		{
 			"name": "juggernaut_heavyweight_construction",
-			"src": "augments/juggernaut_heavyweight_construction/image.png"
+			"src": "augments/juggernaut_heavyweight_construction/image.png?v1"
 		},
 		{
 			"name": "juggernaut_lightweight_construction",
-			"src": "augments/juggernaut_lightweight_construction/image.png"
+			"src": "augments/juggernaut_lightweight_construction/image.png?v1"
 		},
 		{
 			"name": "hammer_stunning_pellets",
-			"src": "augments/hammer_stunning_pellets/image.png"
+			"src": "augments/hammer_stunning_pellets/image.png?v1"
 		},
 		{
 			"name": "wonderbird_m0_preview",

@@ -99,7 +99,7 @@
         },
         {
             "name": "railgun_pr",
-            "src": "turret/railgun_pr/m0/turret.3ds"
+            "src": "turret/railgun_pr/m0/turret.3ds?v2"
         },
         {
             "name": "vulcan_pr",
