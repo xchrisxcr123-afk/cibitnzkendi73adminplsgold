@@ -10547,6 +10547,10 @@
 			"src": "augments/juggernaut_lightweight_construction/image.png"
 		},
 		{
+			"name": "hammer_stunning_pellets",
+			"src": "augments/hammer_stunning_pellets/image.png"
+		},
+		{
 			"name": "wonderbird_m0_preview",
 			"src": "colormaps/wonderbird/preview.png"
 		}
