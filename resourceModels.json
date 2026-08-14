@@ -79,7 +79,7 @@
         },
         {
             "name": "hornet_pr",
-            "src": "hull/hornet_pr/m0/hull.3ds"
+            "src": "hull/hornet_pr/m0/hull.3ds?v1"
         },
         {
             "name": "hunter_pr",
