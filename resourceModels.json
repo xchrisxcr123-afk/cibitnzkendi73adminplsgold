@@ -1,4 +1,4 @@
-{
+﻿{
     "id": "MODELS",
     "items": [
         {
@@ -604,6 +604,18 @@
         {
           "name": "vulcan_m3",
           "src": "turret/vulcan/m3/turret.3ds"
+        },
+        {
+          "name": "hornet_dk",
+          "src": "hull/hornet_dk/m0/hull.a3d"
+        },
+        {
+          "name": "frezee_dk",
+          "src": "turret/frezee_dk/m0/turret.a3d"
+        },
+        {
+          "name": "ricochet_lc",
+          "src": "turret/ricochet_lc/m0/turret.3ds"
         }
     ]
 }

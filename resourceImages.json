@@ -6740,19 +6740,19 @@
 		},
 		{
 			"name": "wolf_m0_preview",
-			"src": "resistance/wolf/m0/preview.png"
+			"src": "resistance/wolf/m0/preview.png?v1"
 		},
 		{
 			"name": "wolf_m1_preview",
-			"src": "resistance/wolf/m1/preview.png"
+			"src": "resistance/wolf/m1/preview.png?v1"
 		},
 		{
 			"name": "wolf_m2_preview",
-			"src": "resistance/wolf/m2/preview.png"
+			"src": "resistance/wolf/m2/preview.png?v1"
 		},
 		{
 			"name": "wolf_m3_preview",
-			"src": "resistance/wolf/m3/preview.png"
+			"src": "resistance/wolf/m3/preview.png?v1"
 		},
 		{
 			"name": "zero_m0_preview",
@@ -10573,6 +10573,46 @@
 		{
 			"name": "wonderbird_m0_preview",
 			"src": "colormaps/wonderbird/preview.png"
+		},
+		{
+			"name": "hornet_dk_details",
+			"src": "hull/hornet_dk/m0/details.png"
+		},
+		{
+			"name": "hornet_dk_lightmap",
+			"src": "hull/hornet_dk/m0/lightmap.jpg"
+		},
+		{
+			"name": "hornet_dk_tracks",
+			"src": "hull/hornet_dk/m0/tracks.jpg"
+		},
+		{
+			"name": "hornet_dk_preview",
+			"src": "hull/hornet_dk/m0/preview.png"
+		},
+		{
+			"name": "frezee_dk_details",
+			"src": "turret/frezee_dk/m0/details.png"
+		},
+		{
+			"name": "frezee_dk_lightmap",
+			"src": "turret/frezee_dk/m0/lightmap.jpg"
+		},
+		{
+			"name": "frezee_dk_preview",
+			"src": "turret/frezee_dk/m0/preview.png"
+		},
+		{
+			"name": "ricochet_lc_details",
+			"src": "turret/ricochet_lc/m0/details.png"
+		},
+		{
+			"name": "ricochet_lc_lightmap",
+			"src": "turret/ricochet_lc/m0/lightmap.jpg"
+		},
+		{
+			"name": "ricochet_lc_preview",
+			"src": "turret/ricochet_lc/m0/preview.png"
 		}
 	]
 }
