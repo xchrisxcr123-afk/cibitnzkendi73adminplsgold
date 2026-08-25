@@ -1,4 +1,4 @@
-﻿{
+{
     "id": "MODELS",
     "items": [
         {
@@ -257,10 +257,10 @@
             "name": "twins_m3",
             "src": "turret/twins/m3/turret.3ds"
         },
-		  {
-			"name": "shaft_xt",
-			"src": "turret/shaft/XT/turret.3ds"
-		  },
+        {
+            "name": "shaft_xt",
+            "src": "turret/shaft/XT/turret.3ds"
+        },
         {
             "name": "flamethrower_xt",
             "src": "turret/flamethrowerxt/m0/turret.3ds"
@@ -590,32 +590,44 @@
             "src": "mines/model/mine.3ds"
         },
         {
-          "name": "vulcan_m0",
-          "src": "turret/vulcan/m0/turret.3ds"
+            "name": "vulcan_m0",
+            "src": "turret/vulcan/m0/turret.3ds"
         },
         {
-          "name": "vulcan_m1",
-          "src": "turret/vulcan/m1/turret.3ds"
+            "name": "vulcan_m1",
+            "src": "turret/vulcan/m1/turret.3ds"
         },
         {
-          "name": "vulcan_m2",
-          "src": "turret/vulcan/m2/turret.3ds"
+            "name": "vulcan_m2",
+            "src": "turret/vulcan/m2/turret.3ds"
         },
         {
-          "name": "vulcan_m3",
-          "src": "turret/vulcan/m3/turret.3ds"
+            "name": "vulcan_m3",
+            "src": "turret/vulcan/m3/turret.3ds"
         },
         {
-          "name": "hornet_dk",
-          "src": "hull/hornet_dk/m0/hull.a3d"
+            "name": "hornet_dk",
+            "src": "hull/hornet_dk/m0/hull.a3d"
         },
         {
-          "name": "frezee_dk",
-          "src": "turret/frezee_dk/m0/turret.a3d"
+            "name": "frezee_dk",
+            "src": "turret/frezee_dk/m0/turret.a3d"
         },
         {
-          "name": "ricochet_lc",
-          "src": "turret/ricochet_lc/m0/turret.3ds"
+            "name": "ricochet_lc",
+            "src": "turret/ricochet_lc/m0/turret.3ds"
+        },
+        {
+            "name": "ultimate_skin_wasp_standard_bomb",
+            "src": "overdrive/ultimate_skin_wasp_standard_bomb/object.3ds"
+        },
+        {
+            "name": "ultimate_skin_titan_standard_blue_generator",
+            "src": "overdrive/ultimate_skin_titan_standard_blue_generator/object.3ds"
+        },
+        {
+            "name": "ultimate_skin_titan_standard_geosphere",
+            "src": "overdrive/ultimate_skin_titan_standard_geosphere/object.3ds"
         }
     ]
 }

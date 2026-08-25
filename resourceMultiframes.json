@@ -1,1069 +1,1090 @@
 {
-	"id": "IMAGES",
-	"items": [
-		{
-			"name": "galaxian_m0",
-			"fps": 24,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "tictactoe_m0",
-			"fps": 20,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 64
-		},
-		{
-			"name": "iceflurry_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "lightningstorm_m0",
-			"fps": 24,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "matrix_m0",
-			"fps": 18,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 10
-		},
-		{
-			"name": "glow_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "galaxy_m0",
-			"fps": 10,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 18
-		},
-		{
-			"name": "cryo_m0",
-			"fps": 32,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 256
-		},
-		{
-			"name": "turbo_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 128
-		},
-		{
-			"name": "besthelper_m0",
-			"fps": 24,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "flame2_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "champion_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 256
-		},
-		{
-			"name": "tesseractcamo_m0",
-			"fps": 32,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 256
-		},
-		{
-			"name": "firstkiss_m0",
-			"fps": 24,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "fallleaves_m0",
-			"fps": 22,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 64
-		},
-		{
-			"name": "adversity_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "electricsheep_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "electrohive_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "glamcroc_m0",
-			"fps": 24,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "blacksea_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "synesthesia_m0",
-			"fps": 20,
-			"frame_heigth": 256,
-			"frame_width": 256,
-			"num_frames": 16
-		},
-		{
-			"name": "smokescreen_m0",
-			"fps": 24,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "active_viewer_m0",
-			"fps": 15,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "alien_abduction_m0",
-			"fps": 24,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "alien_nebula_m0",
-			"fps": 24,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "alienreg_m0",
-			"fps": 24,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "alien_skin_m0",
-			"fps": 24,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "alloy_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "atmospheric_conditions_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "badger_badger_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "barbed_wire_m0",
-			"fps": 24,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 16
-		},
-		{
-			"name": "beating_hearts_m0",
-			"fps": 8,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 6
-		},
-		{
-			"name": "beholder_m0",
-			"fps": 12,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 48
-		},
-		{
-			"name": "black_ruby_m0",
-			"fps": 18,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "blue_lilac_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "bronze_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 256
-		},
-		{
-			"name": "bronze_colors_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "bubble_gum_m0",
-			"fps": 24,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "bunny_m0",
-			"fps": 24,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "burst_of_light_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "busted_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "campfire_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "canyon_hero_m0",
-			"fps": 16,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 16
-		},
-		{
-			"name": "carbon_stars_m0",
-			"fps": 24,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "cathode_ray_tube_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "chemical_reaction_m0",
-			"fps": 24,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "constellation_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "cosmic_blast_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "craft_scissors_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "cucurbita_pepo_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "cyber_shuriken_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "cyberpunk_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "cyborg_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "demolisher2_m0",
-			"fps": 32,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 64
-		},
-		{
-			"name": "diamond_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "digital_borealis_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "disco2_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "drive_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "ducks_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "earthling_m0",
-			"fps": 24,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "eruption_m0",
-			"fps": 15,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 60
-		},
-		{
-			"name": "fan_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "far_north_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "fidget_toy_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "fire_golem_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "flow_m0",
-			"fps": 16,
-			"frame_heigth": 256,
-			"frame_width": 256,
-			"num_frames": 16
-		},
-		{
-			"name": "flowing_metal_m0",
-			"fps": 24,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "flywheel_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "fried_egg_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "frigid_coat_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "funky_medicine_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "gears_m0",
-			"fps": 24,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 20
-		},
-		{
-			"name": "ginga_m0",
-			"fps": 15,
-			"frame_heigth": 32,
-			"frame_width": 32,
-			"num_frames": 30
-		},
-		{
-			"name": "gold_alloy_m0",
-			"fps": 24,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "golden_gears_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "greenquads_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "greenzircon_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "groovyneon_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "head_ripper_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "heart_of_steel_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "holi_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "holiday_m0",
-			"fps": 3,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 6
-		},
-		{
-			"name": "holo_m0",
-			"fps": 32,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 256
-		},
-		{
-			"name": "honor_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "integratedcircuit_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "jolly_season_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "kapuljat_m0",
-			"fps": 24,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "katakana_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "lava_lamp_m0",
-			"fps": 24,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "leds_m0",
-			"fps": 16,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 32
-		},
-		{
-			"name": "liana_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "light_organ_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "living_armor_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "lol_m0",
-			"fps": 30,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "loving_camo_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "magic_circles_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "magnolia_m0",
-			"fps": 10,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 60
-		},
-		{
-			"name": "meteor_shower_m0",
-			"fps": 32,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 64
-		},
-		{
-			"name": "microbiology_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "monochrome_m0",
-			"fps": 30,
-			"frame_heigth": 1,
-			"frame_width": 1,
-			"num_frames": 1000
-		},
-		{
-			"name": "mosaic_m0",
-			"fps": 15,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 20
-		},
-		{
-			"name": "mount_fuji_m0",
-			"fps": 32,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 64
-		},
-		{
-			"name": "nanohud_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "nanosuit_armor_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 256
-		},
-		{
-			"name": "neon_geometry_m0",
-			"fps": 24,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "nickel_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "nightcity_m0",
-			"fps": 24,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "nightmare_m0",
-			"fps": 20,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 25
-		},
-		{
-			"name": "northern_lights_m0",
-			"fps": 32,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 256
-		},
-		{
-			"name": "not_a_lantern_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "pastila_m0",
-			"fps": 24,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 48
-		},
-		{
-			"name": "pcb_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "pixel_plasma_m0",
-			"fps": 20,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "prestigio_m0",
-			"fps": 16,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 64
-		},
-		{
-			"name": "prodigy2_m0",
-			"fps": 10,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 20
-		},
-		{
-			"name": "quantum_camo_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "radar_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "radioactive_jelly_m0",
-			"fps": 32,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 64
-		},
-		{
-			"name": "red_smoke_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "runes_m0",
-			"fps": 32,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 64
-		},
-		{
-			"name": "secret_sauce_m0",
-			"fps": 15,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 60
-		},
-		{
-			"name": "seventies_fun_m0",
-			"fps": 24,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "siberian_tiger_m0",
-			"fps": 12,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 60
-		},
-		{
-			"name": "silver_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 256
-		},
-		{
-			"name": "silver_bricks_m0",
-			"fps": 32,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 64
-		},
-		{
-			"name": "souls_m0",
-			"fps": 24,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "sparks_m0",
-			"fps": 24,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "spectr_m0",
-			"fps": 15,
-			"frame_heigth": 1,
-			"frame_width": 1,
-			"num_frames": 1000
-		},
-		{
-			"name": "spinner_m0",
-			"fps": 24,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 64
-		},
-		{
-			"name": "spreading_fast_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "spring_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "surfi_m0",
-			"fps": 48,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 256
-		},
-		{
-			"name": "symbiote_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "synth_pop_m0",
-			"fps": 32,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 64
-		},
-		{
-			"name": "tankoin_tank_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "tanks2_m0",
-			"fps": 32,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 64
-		},
-		{
-			"name": "tectonic_plates_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "tentacles_m0",
-			"fps": 20,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 48
-		},
-		{
-			"name": "tessaract_camo_m0",
-			"fps": 32,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 256
-		},
-		{
-			"name": "thankos_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "thankos_armor_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "touch_of_chill_m0",
-			"fps": 32,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 256
-		},
-		{
-			"name": "trapped_inside_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 256
-		},
-		{
-			"name": "under_the_tree_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "valour_m0",
-			"fps": 10,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 60
-		},
-		{
-			"name": "vertigo_m0",
-			"fps": 15,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 24
-		},
-		{
-			"name": "visual_disruptor_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 64
-		},
-		{
-			"name": "war_domination_winner_m0",
-			"fps": 20,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 64
-		},
-		{
-			"name": "war_en_winner_m0",
-			"fps": 10,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 15
-		},
-		{
-			"name": "witch_m0",
-			"fps": 30,
-			"frame_heigth": 125,
-			"frame_width": 125,
-			"num_frames": 89
-		},
-		{
-			"name": "x_noir_m0",
-			"fps": 32,
-			"frame_heigth": 128,
-			"frame_width": 128,
-			"num_frames": 256
-		},
-		{
-			"name": "yellow_bug_m0",
-			"fps": 20,
-			"frame_heigth": 64,
-			"frame_width": 64,
-			"num_frames": 256
-		}
-	]
+    "id": "IMAGES",
+    "items": [
+        {
+            "name": "galaxian_m0",
+            "fps": 24,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "tictactoe_m0",
+            "fps": 20,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 64
+        },
+        {
+            "name": "iceflurry_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "lightningstorm_m0",
+            "fps": 24,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "matrix_m0",
+            "fps": 18,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 10
+        },
+        {
+            "name": "glow_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "galaxy_m0",
+            "fps": 10,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 18
+        },
+        {
+            "name": "cryo_m0",
+            "fps": 32,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 256
+        },
+        {
+            "name": "turbo_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 128
+        },
+        {
+            "name": "besthelper_m0",
+            "fps": 24,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "flame2_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "champion_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 256
+        },
+        {
+            "name": "tesseractcamo_m0",
+            "fps": 32,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 256
+        },
+        {
+            "name": "firstkiss_m0",
+            "fps": 24,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "fallleaves_m0",
+            "fps": 22,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 64
+        },
+        {
+            "name": "adversity_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "electricsheep_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "electrohive_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "glamcroc_m0",
+            "fps": 24,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "blacksea_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "synesthesia_m0",
+            "fps": 20,
+            "frame_heigth": 256,
+            "frame_width": 256,
+            "num_frames": 16
+        },
+        {
+            "name": "smokescreen_m0",
+            "fps": 24,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "active_viewer_m0",
+            "fps": 15,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "alien_abduction_m0",
+            "fps": 24,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "alien_nebula_m0",
+            "fps": 24,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "alienreg_m0",
+            "fps": 24,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "alien_skin_m0",
+            "fps": 24,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "alloy_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "atmospheric_conditions_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "badger_badger_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "barbed_wire_m0",
+            "fps": 24,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 16
+        },
+        {
+            "name": "beating_hearts_m0",
+            "fps": 8,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 6
+        },
+        {
+            "name": "beholder_m0",
+            "fps": 12,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 48
+        },
+        {
+            "name": "black_ruby_m0",
+            "fps": 18,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "blue_lilac_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "bronze_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 256
+        },
+        {
+            "name": "bronze_colors_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "bubble_gum_m0",
+            "fps": 24,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "bunny_m0",
+            "fps": 24,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "burst_of_light_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "busted_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "campfire_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "canyon_hero_m0",
+            "fps": 16,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 16
+        },
+        {
+            "name": "carbon_stars_m0",
+            "fps": 24,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "cathode_ray_tube_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "chemical_reaction_m0",
+            "fps": 24,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "constellation_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "cosmic_blast_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "craft_scissors_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "cucurbita_pepo_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "cyber_shuriken_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "cyberpunk_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "cyborg_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "demolisher2_m0",
+            "fps": 32,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 64
+        },
+        {
+            "name": "diamond_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "digital_borealis_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "disco2_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "drive_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "ducks_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "earthling_m0",
+            "fps": 24,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "eruption_m0",
+            "fps": 15,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 60
+        },
+        {
+            "name": "fan_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "far_north_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "fidget_toy_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "fire_golem_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "flow_m0",
+            "fps": 16,
+            "frame_heigth": 256,
+            "frame_width": 256,
+            "num_frames": 16
+        },
+        {
+            "name": "flowing_metal_m0",
+            "fps": 24,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "flywheel_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "fried_egg_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "frigid_coat_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "funky_medicine_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "gears_m0",
+            "fps": 24,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 20
+        },
+        {
+            "name": "ginga_m0",
+            "fps": 15,
+            "frame_heigth": 32,
+            "frame_width": 32,
+            "num_frames": 30
+        },
+        {
+            "name": "gold_alloy_m0",
+            "fps": 24,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "golden_gears_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "greenquads_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "greenzircon_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "groovyneon_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "head_ripper_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "heart_of_steel_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "holi_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "holiday_m0",
+            "fps": 3,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 6
+        },
+        {
+            "name": "holo_m0",
+            "fps": 32,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 256
+        },
+        {
+            "name": "honor_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "integratedcircuit_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "jolly_season_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "kapuljat_m0",
+            "fps": 24,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "katakana_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "lava_lamp_m0",
+            "fps": 24,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "leds_m0",
+            "fps": 16,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 32
+        },
+        {
+            "name": "liana_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "light_organ_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "living_armor_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "lol_m0",
+            "fps": 30,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "loving_camo_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "magic_circles_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "magnolia_m0",
+            "fps": 10,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 60
+        },
+        {
+            "name": "meteor_shower_m0",
+            "fps": 32,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 64
+        },
+        {
+            "name": "microbiology_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "monochrome_m0",
+            "fps": 30,
+            "frame_heigth": 1,
+            "frame_width": 1,
+            "num_frames": 1000
+        },
+        {
+            "name": "mosaic_m0",
+            "fps": 15,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 20
+        },
+        {
+            "name": "mount_fuji_m0",
+            "fps": 32,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 64
+        },
+        {
+            "name": "nanohud_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "nanosuit_armor_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 256
+        },
+        {
+            "name": "neon_geometry_m0",
+            "fps": 24,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "nickel_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "nightcity_m0",
+            "fps": 24,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "nightmare_m0",
+            "fps": 20,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 25
+        },
+        {
+            "name": "northern_lights_m0",
+            "fps": 32,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 256
+        },
+        {
+            "name": "not_a_lantern_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "pastila_m0",
+            "fps": 24,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 48
+        },
+        {
+            "name": "pcb_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "pixel_plasma_m0",
+            "fps": 20,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "prestigio_m0",
+            "fps": 16,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 64
+        },
+        {
+            "name": "prodigy2_m0",
+            "fps": 10,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 20
+        },
+        {
+            "name": "quantum_camo_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "radar_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "radioactive_jelly_m0",
+            "fps": 32,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 64
+        },
+        {
+            "name": "red_smoke_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "runes_m0",
+            "fps": 32,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 64
+        },
+        {
+            "name": "secret_sauce_m0",
+            "fps": 15,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 60
+        },
+        {
+            "name": "seventies_fun_m0",
+            "fps": 24,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "siberian_tiger_m0",
+            "fps": 12,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 60
+        },
+        {
+            "name": "silver_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 256
+        },
+        {
+            "name": "silver_bricks_m0",
+            "fps": 32,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 64
+        },
+        {
+            "name": "souls_m0",
+            "fps": 24,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "sparks_m0",
+            "fps": 24,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "spectr_m0",
+            "fps": 15,
+            "frame_heigth": 1,
+            "frame_width": 1,
+            "num_frames": 1000
+        },
+        {
+            "name": "spinner_m0",
+            "fps": 24,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 64
+        },
+        {
+            "name": "spreading_fast_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "spring_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "surfi_m0",
+            "fps": 48,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 256
+        },
+        {
+            "name": "symbiote_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "synth_pop_m0",
+            "fps": 32,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 64
+        },
+        {
+            "name": "tankoin_tank_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "tanks2_m0",
+            "fps": 32,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 64
+        },
+        {
+            "name": "tectonic_plates_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "tentacles_m0",
+            "fps": 20,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 48
+        },
+        {
+            "name": "tessaract_camo_m0",
+            "fps": 32,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 256
+        },
+        {
+            "name": "thankos_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "thankos_armor_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "touch_of_chill_m0",
+            "fps": 32,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 256
+        },
+        {
+            "name": "trapped_inside_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 256
+        },
+        {
+            "name": "under_the_tree_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "valour_m0",
+            "fps": 10,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 60
+        },
+        {
+            "name": "vertigo_m0",
+            "fps": 15,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 24
+        },
+        {
+            "name": "visual_disruptor_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 64
+        },
+        {
+            "name": "war_domination_winner_m0",
+            "fps": 20,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 64
+        },
+        {
+            "name": "war_en_winner_m0",
+            "fps": 10,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 15
+        },
+        {
+            "name": "witch_m0",
+            "fps": 30,
+            "frame_heigth": 125,
+            "frame_width": 125,
+            "num_frames": 89
+        },
+        {
+            "name": "x_noir_m0",
+            "fps": 32,
+            "frame_heigth": 128,
+            "frame_width": 128,
+            "num_frames": 256
+        },
+        {
+            "name": "yellow_bug_m0",
+            "fps": 20,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 256
+        },
+        {
+            "name": "ultimate_skin_wasp_standard_countdown",
+            "fps": 30,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 11
+        },
+        {
+            "name": "ultimate_skin_wasp_standard_far_countdown",
+            "fps": 30,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 11
+        },
+        {
+            "name": "ultimate_skin_titan_standard_blue_sphere",
+            "fps": 30.0,
+            "frame_heigth": 150,
+            "frame_width": 150,
+            "num_frames": 10
+        }
+    ]
 }
