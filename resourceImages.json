@@ -10725,6 +10725,10 @@
         {
             "name": "ultimate_skin_titan_standard_blue_generator_details",
             "src": "overdrive/ultimate_skin_titan_standard_blue_generator/generator.png"
+        },
+        {
+            "name": "shot_skin_gauss_standard_electro",
+            "src": "overdrive/shot_skin_gauss_standard_electro/image.png"
         }
     ]
 }
