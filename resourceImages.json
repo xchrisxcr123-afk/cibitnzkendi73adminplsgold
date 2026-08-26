@@ -1,4 +1,4 @@
-{
+﻿{
     "id": "IMAGES",
     "items": [
         {
@@ -10729,6 +10729,178 @@
         {
             "name": "shot_skin_gauss_standard_electro",
             "src": "overdrive/shot_skin_gauss_standard_electro/image.png"
+        },
+        {
+            "name": "map_aleksandrovsk_mm_preview",
+            "src": "maps/mm/map_aleksandrovsk_mm.png"
+        },
+        {
+            "name": "map_archipelago_mm_preview",
+            "src": "maps/mm/map_archipelago_mm.png"
+        },
+        {
+            "name": "map_barda_mm_preview",
+            "src": "maps/mm/map_barda_mm.png"
+        },
+        {
+            "name": "map_berlin_mm_preview",
+            "src": "maps/mm/map_berlin_mm.png"
+        },
+        {
+            "name": "map_bobruisk_mm_preview",
+            "src": "maps/mm/map_bobruisk_mm.png"
+        },
+        {
+            "name": "map_brest_mm_preview",
+            "src": "maps/mm/map_brest_mm.png"
+        },
+        {
+            "name": "map_bridges_mm_preview",
+            "src": "maps/mm/map_bridges_mm.png"
+        },
+        {
+            "name": "map_chernobyl_mm_preview",
+            "src": "maps/mm/map_chernobyl_mm.png"
+        },
+        {
+            "name": "map_chernushka_mm_preview",
+            "src": "maps/mm/map_chernushka_mm.png"
+        },
+        {
+            "name": "map_cologne_mm_preview",
+            "src": "maps/mm/map_cologne_mm.png"
+        },
+        {
+            "name": "map_cross_mm_preview",
+            "src": "maps/mm/map_cross_mm.png"
+        },
+        {
+            "name": "map_desert_mm_preview",
+            "src": "maps/mm/map_desert_mm.png"
+        },
+        {
+            "name": "map_dusseldorf_mm_preview",
+            "src": "maps/mm/map_dusseldorf_mm.png"
+        },
+        {
+            "name": "map_forest_mm_preview",
+            "src": "maps/mm/map_forest_mm.png"
+        },
+        {
+            "name": "map_future_mm_preview",
+            "src": "maps/mm/map_future_mm.png"
+        },
+        {
+            "name": "map_highland_mm_preview",
+            "src": "maps/mm/map_highland_mm.png"
+        },
+        {
+            "name": "map_highways_mm_preview",
+            "src": "maps/mm/map_highways_mm.png"
+        },
+        {
+            "name": "map_industrial_zone_mm_preview",
+            "src": "maps/mm/map_industrial_zone_mm.png"
+        },
+        {
+            "name": "map_iran_mm_preview",
+            "src": "maps/mm/map_iran_mm.png"
+        },
+        {
+            "name": "map_kungur_mm_preview",
+            "src": "maps/mm/map_kungur_mm.png"
+        },
+        {
+            "name": "map_luxembourg_mm_preview",
+            "src": "maps/mm/map_luxembourg_mm.png"
+        },
+        {
+            "name": "map_magistral_mm_preview",
+            "src": "maps/mm/map_magistral_mm.png"
+        },
+        {
+            "name": "map_massacre_mm_preview",
+            "src": "maps/mm/map_massacre_mm.png"
+        },
+        {
+            "name": "map_molotov_mm_preview",
+            "src": "maps/mm/map_molotov_mm.png"
+        },
+        {
+            "name": "map_osa_mm_preview",
+            "src": "maps/mm/map_osa_mm.png"
+        },
+        {
+            "name": "map_parma_mm_preview",
+            "src": "maps/mm/map_parma_mm.png"
+        },
+        {
+            "name": "map_polygon_mm_preview",
+            "src": "maps/mm/map_polygon_mm.png"
+        },
+        {
+            "name": "map_red_alert_mm_preview",
+            "src": "maps/mm/map_red_alert_mm.png"
+        },
+        {
+            "name": "map_rio_mm_preview",
+            "src": "maps/mm/map_rio_mm.png"
+        },
+        {
+            "name": "map_sandal_mm_preview",
+            "src": "maps/mm/map_sandal_mm.png"
+        },
+        {
+            "name": "map_sandbox_mm_preview",
+            "src": "maps/mm/map_sandbox_mm.png"
+        },
+        {
+            "name": "map_scope_mm_preview",
+            "src": "maps/mm/map_scope_mm.png"
+        },
+        {
+            "name": "map_serpuhov_mm_preview",
+            "src": "maps/mm/map_serpuhov_mm.png"
+        },
+        {
+            "name": "map_short_bridge_mm_preview",
+            "src": "maps/mm/map_short_bridge_mm.png"
+        },
+        {
+            "name": "map_siege_mm_preview",
+            "src": "maps/mm/map_siege_mm.png"
+        },
+        {
+            "name": "map_silence_mm_preview",
+            "src": "maps/mm/map_silence_mm.png"
+        },
+        {
+            "name": "map_skylark_mm_preview",
+            "src": "maps/mm/map_skylark_mm.png"
+        },
+        {
+            "name": "map_solikamsk_mm_preview",
+            "src": "maps/mm/map_solikamsk_mm.png"
+        },
+        {
+            "name": "map_stadium_mm_preview",
+            "src": "maps/mm/map_stadium_mm.png"
+        },
+        {
+            "name": "map_tribute_mm_preview",
+            "src": "maps/mm/map_tribute_mm.png"
+        },
+        {
+            "name": "map_wolfenstein_mm_preview",
+            "src": "maps/mm/map_wolfenstein_mm.png"
+        },
+        {
+            "name": "map_year_2042_mm_preview",
+            "src": "maps/mm/map_year_2042_mm.png"
+        },
+        {
+            "name": "map_yorkshire_mm_preview",
+            "src": "maps/mm/map_yorkshire_mm.png"
         }
     ]
 }

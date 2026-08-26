@@ -444,6 +444,178 @@
         {
             "name": "map_trainstation",
             "src": "maps/map_trainstation.xml?v1"
+        },
+        {
+            "name": "map_aleksandrovsk_mm",
+            "src": "maps/mm/map_aleksandrovsk_mm.xml"
+        },
+        {
+            "name": "map_archipelago_mm",
+            "src": "maps/mm/map_archipelago_mm.xml"
+        },
+        {
+            "name": "map_barda_mm",
+            "src": "maps/mm/map_barda_mm.xml"
+        },
+        {
+            "name": "map_berlin_mm",
+            "src": "maps/mm/map_berlin_mm.xml"
+        },
+        {
+            "name": "map_bobruisk_mm",
+            "src": "maps/mm/map_bobruisk_mm.xml"
+        },
+        {
+            "name": "map_brest_mm",
+            "src": "maps/mm/map_brest_mm.xml"
+        },
+        {
+            "name": "map_bridges_mm",
+            "src": "maps/mm/map_bridges_mm.xml"
+        },
+        {
+            "name": "map_chernobyl_mm",
+            "src": "maps/mm/map_chernobyl_mm.xml"
+        },
+        {
+            "name": "map_chernushka_mm",
+            "src": "maps/mm/map_chernushka_mm.xml"
+        },
+        {
+            "name": "map_cologne_mm",
+            "src": "maps/mm/map_cologne_mm.xml"
+        },
+        {
+            "name": "map_cross_mm",
+            "src": "maps/mm/map_cross_mm.xml"
+        },
+        {
+            "name": "map_desert_mm",
+            "src": "maps/mm/map_desert_mm.xml"
+        },
+        {
+            "name": "map_dusseldorf_mm",
+            "src": "maps/mm/map_dusseldorf_mm.xml"
+        },
+        {
+            "name": "map_forest_mm",
+            "src": "maps/mm/map_forest_mm.xml"
+        },
+        {
+            "name": "map_future_mm",
+            "src": "maps/mm/map_future_mm.xml"
+        },
+        {
+            "name": "map_highland_mm",
+            "src": "maps/mm/map_highland_mm.xml"
+        },
+        {
+            "name": "map_highways_mm",
+            "src": "maps/mm/map_highways_mm.xml"
+        },
+        {
+            "name": "map_industrial_zone_mm",
+            "src": "maps/mm/map_industrial_zone_mm.xml"
+        },
+        {
+            "name": "map_iran_mm",
+            "src": "maps/mm/map_iran_mm.xml"
+        },
+        {
+            "name": "map_kungur_mm",
+            "src": "maps/mm/map_kungur_mm.xml"
+        },
+        {
+            "name": "map_luxembourg_mm",
+            "src": "maps/mm/map_luxembourg_mm.xml"
+        },
+        {
+            "name": "map_magistral_mm",
+            "src": "maps/mm/map_magistral_mm.xml"
+        },
+        {
+            "name": "map_massacre_mm",
+            "src": "maps/mm/map_massacre_mm.xml"
+        },
+        {
+            "name": "map_molotov_mm",
+            "src": "maps/mm/map_molotov_mm.xml"
+        },
+        {
+            "name": "map_osa_mm",
+            "src": "maps/mm/map_osa_mm.xml"
+        },
+        {
+            "name": "map_parma_mm",
+            "src": "maps/mm/map_parma_mm.xml"
+        },
+        {
+            "name": "map_polygon_mm",
+            "src": "maps/mm/map_polygon_mm.xml"
+        },
+        {
+            "name": "map_red_alert_mm",
+            "src": "maps/mm/map_red_alert_mm.xml"
+        },
+        {
+            "name": "map_rio_mm",
+            "src": "maps/mm/map_rio_mm.xml"
+        },
+        {
+            "name": "map_sandal_mm",
+            "src": "maps/mm/map_sandal_mm.xml"
+        },
+        {
+            "name": "map_sandbox_mm",
+            "src": "maps/mm/map_sandbox_mm.xml"
+        },
+        {
+            "name": "map_scope_mm",
+            "src": "maps/mm/map_scope_mm.xml"
+        },
+        {
+            "name": "map_serpuhov_mm",
+            "src": "maps/mm/map_serpuhov_mm.xml"
+        },
+        {
+            "name": "map_short_bridge_mm",
+            "src": "maps/mm/map_short_bridge_mm.xml"
+        },
+        {
+            "name": "map_siege_mm",
+            "src": "maps/mm/map_siege_mm.xml"
+        },
+        {
+            "name": "map_silence_mm",
+            "src": "maps/mm/map_silence_mm.xml"
+        },
+        {
+            "name": "map_skylark_mm",
+            "src": "maps/mm/map_skylark_mm.xml"
+        },
+        {
+            "name": "map_solikamsk_mm",
+            "src": "maps/mm/map_solikamsk_mm.xml"
+        },
+        {
+            "name": "map_stadium_mm",
+            "src": "maps/mm/map_stadium_mm.xml"
+        },
+        {
+            "name": "map_tribute_mm",
+            "src": "maps/mm/map_tribute_mm.xml"
+        },
+        {
+            "name": "map_wolfenstein_mm",
+            "src": "maps/mm/map_wolfenstein_mm.xml"
+        },
+        {
+            "name": "map_year_2042_mm",
+            "src": "maps/mm/map_year_2042_mm.xml"
+        },
+        {
+            "name": "map_yorkshire_mm",
+            "src": "maps/mm/map_yorkshire_mm.xml"
         }
     ]
 }
