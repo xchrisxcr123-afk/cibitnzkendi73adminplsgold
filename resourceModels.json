@@ -1,4 +1,4 @@
-{
+﻿{
     "id": "MODELS",
     "items": [
         {
@@ -647,11 +647,11 @@
         },
         {
             "name": "titan_lc",
-            "src": "hull/titan_lc/m0/hull.3ds"
+            "src": "hull/titan_lc/m0/hull.3ds?v1"
         },
         {
             "name": "dictator_lc",
-            "src": "hull/dictator_lc/m0/hull.3ds"
+            "src": "hull/dictator_lc/m0/hull.3ds?v1"
         },
         {
             "name": "flamethrower_lc",
