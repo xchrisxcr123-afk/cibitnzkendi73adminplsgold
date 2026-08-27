@@ -420,6 +420,14 @@
         {
             "name": "sound_mammoth_spark_4",
             "src": "overdrive/sound_mammoth_spark_4/sound.mp3"
+        },
+        {
+            "name": "sound_meteorite_arriving",
+            "src": "meteor/sound_meteorite_arriving/sound.mp3"
+        },
+        {
+            "name": "sound_meteorite_distant",
+            "src": "meteor/sound_meteorite_distant/sound.mp3"
         }
     ]
 }

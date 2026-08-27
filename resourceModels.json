@@ -628,6 +628,22 @@
         {
             "name": "ultimate_skin_titan_standard_geosphere",
             "src": "overdrive/ultimate_skin_titan_standard_geosphere/object.3ds"
+        },
+        {
+            "name": "bonus_meteorite",
+            "src": "meteor/bonus_meteorite/object.3ds"
+        },
+        {
+            "name": "bonus_box_gold300",
+            "src": "bonus/gold.3ds"
+        },
+        {
+            "name": "bonus_box_gold500",
+            "src": "bonus/gold.3ds"
+        },
+        {
+            "name": "bonus_box_gold1000",
+            "src": "bonus/gold.3ds"
         }
     ]
 }

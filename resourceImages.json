@@ -1,4 +1,4 @@
-﻿{
+{
     "id": "IMAGES",
     "items": [
         {
@@ -10901,6 +10901,26 @@
         {
             "name": "map_yorkshire_mm_preview",
             "src": "maps/mm/map_yorkshire_mm.png"
+        },
+        {
+            "name": "bonus_meteorite_lightmap",
+            "src": "meteor/bonus_meteorite/meteorite.jpg"
+        },
+        {
+            "name": "meteorite_tail_smoke",
+            "src": "meteor/meteorite_tail_smoke/image.png"
+        },
+        {
+            "name": "bonus_box_gold300",
+            "src": "bonus/boxes/crystal300/box.jpg"
+        },
+        {
+            "name": "bonus_box_gold500",
+            "src": "bonus/boxes/crystal500/box.jpg"
+        },
+        {
+            "name": "bonus_box_gold1000",
+            "src": "bonus/boxes/crystal1000/box.jpg"
         }
     ]
 }
