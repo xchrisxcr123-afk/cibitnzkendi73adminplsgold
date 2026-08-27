@@ -644,6 +644,26 @@
         {
             "name": "bonus_box_gold1000",
             "src": "bonus/gold.3ds"
+        },
+        {
+            "name": "titan_lc",
+            "src": "hull/titan_lc/m0/hull.3ds"
+        },
+        {
+            "name": "dictator_lc",
+            "src": "hull/dictator_lc/m0/hull.3ds"
+        },
+        {
+            "name": "flamethrower_lc",
+            "src": "turret/flamethrower_lc/m0/turret.3ds"
+        },
+        {
+            "name": "vulcan_lc",
+            "src": "turret/vulcan_lc/m0/turret.a3d"
+        },
+        {
+            "name": "juggernaut_ut",
+            "src": "hull/juggernaut_ut/m0/hull.3ds"
         }
     ]
 }

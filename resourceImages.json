@@ -10921,6 +10921,70 @@
         {
             "name": "bonus_box_gold1000",
             "src": "bonus/boxes/crystal1000/box.jpg"
+        },
+        {
+            "name": "titan_lc_details",
+            "src": "hull/titan_lc/m0/details.png"
+        },
+        {
+            "name": "titan_lc_lightmap",
+            "src": "hull/titan_lc/m0/lightmap.jpg"
+        },
+        {
+            "name": "titan_lc_preview",
+            "src": "hull/titan_lc/m0/preview.png"
+        },
+        {
+            "name": "dictator_lc_details",
+            "src": "hull/dictator_lc/m0/details.png"
+        },
+        {
+            "name": "dictator_lc_lightmap",
+            "src": "hull/dictator_lc/m0/lightmap.jpg"
+        },
+        {
+            "name": "dictator_lc_preview",
+            "src": "hull/dictator_lc/m0/preview.png"
+        },
+        {
+            "name": "flamethrower_lc_details",
+            "src": "turret/flamethrower_lc/m0/details.png"
+        },
+        {
+            "name": "flamethrower_lc_lightmap",
+            "src": "turret/flamethrower_lc/m0/lightmap.jpg"
+        },
+        {
+            "name": "flamethrower_lc_preview",
+            "src": "turret/flamethrower_lc/m0/preview.png"
+        },
+        {
+            "name": "vulcan_lc_details",
+            "src": "turret/vulcan_lc/m0/details.png"
+        },
+        {
+            "name": "vulcan_lc_lightmap",
+            "src": "turret/vulcan_lc/m0/lightmap.jpg"
+        },
+        {
+            "name": "vulcan_lc_preview",
+            "src": "turret/vulcan_lc/m0/preview.png"
+        },
+        {
+            "name": "juggernaut_ut_details",
+            "src": "hull/juggernaut_ut/m0/details.png"
+        },
+        {
+            "name": "juggernaut_ut_lightmap",
+            "src": "hull/juggernaut_ut/m0/lightmap.jpg"
+        },
+        {
+            "name": "juggernaut_ut_tracks",
+            "src": "hull/juggernaut_ut/m0/tracks.jpg"
+        },
+        {
+            "name": "juggernaut_ut_preview",
+            "src": "hull/juggernaut_ut/m0/preview.png"
         }
     ]
 }
