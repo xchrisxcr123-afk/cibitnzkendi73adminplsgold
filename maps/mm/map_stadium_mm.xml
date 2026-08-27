@@ -1617,7 +1617,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 1 left">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -9834,7 +9834,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 1 left">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -12595,7 +12595,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 1 left">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -13750,7 +13750,7 @@
         <z>300.000</z>
       </position>
     </prop>
-    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 1 left">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -14388,7 +14388,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 1 left">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -17512,7 +17512,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 1 left">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -18909,7 +18909,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 1 left">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -21219,7 +21219,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 1 left">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 1">
       <rotation>
         <z>1.570796</z>
       </rotation>

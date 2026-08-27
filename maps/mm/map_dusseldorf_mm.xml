@@ -2541,7 +2541,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Grass Tiles" group-name="default" name="grass&dirt 1x1">
+		<prop library-name="Grass Tiles" group-name="default" name="grass&amp;dirt 1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -9196,7 +9196,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Grass Tiles" group-name="default" name="grass&dirt 1x1">
+		<prop library-name="Grass Tiles" group-name="default" name="grass&amp;dirt 1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -20174,7 +20174,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Grass Tiles" group-name="default" name="grass&dirt 1x1">
+		<prop library-name="Grass Tiles" group-name="default" name="grass&amp;dirt 1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
