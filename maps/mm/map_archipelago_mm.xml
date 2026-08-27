@@ -55,7 +55,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-7.853981971740723</z>
 			</rotation>
@@ -297,7 +297,7 @@
 				<z>-1200</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-7.853981971740723</z>
 			</rotation>
@@ -660,7 +660,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>3.141592025756836</z>
 			</rotation>
@@ -1276,7 +1276,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-10.995573997497559</z>
 			</rotation>
@@ -1397,7 +1397,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -1507,7 +1507,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-1.5707969665527344</z>
 			</rotation>
@@ -1782,7 +1782,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-6.283185005187988</z>
 			</rotation>
@@ -1870,7 +1870,7 @@
 				<z>-600</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-4.71238899230957</z>
 			</rotation>
@@ -2904,7 +2904,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-10.995573997497559</z>
 			</rotation>
@@ -3234,7 +3234,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-7.853981971740723</z>
 			</rotation>
@@ -3465,7 +3465,7 @@
 				<z>-600</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-4.71238899230957</z>
 			</rotation>
@@ -3597,7 +3597,7 @@
 				<z>-600</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-6.283185005187988</z>
 			</rotation>
@@ -3663,7 +3663,7 @@
 				<z>-600</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-10.995573997497559</z>
 			</rotation>
@@ -3905,7 +3905,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-7.853981018066406</z>
 			</rotation>
@@ -4620,7 +4620,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-7.853981971740723</z>
 			</rotation>
@@ -4928,7 +4928,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-6.283185005187988</z>
 			</rotation>
@@ -5126,7 +5126,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -5280,7 +5280,7 @@
 				<z>-600</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-9.42477798461914</z>
 			</rotation>
@@ -5456,7 +5456,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-1.570796012878418</z>
 			</rotation>
@@ -7227,7 +7227,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-7.853981018066406</z>
 			</rotation>
@@ -7370,7 +7370,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-9.42477798461914</z>
 			</rotation>
@@ -7645,7 +7645,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-9.42477798461914</z>
 			</rotation>
@@ -7667,7 +7667,7 @@
 				<z>-600</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-12.566370964050293</z>
 			</rotation>
@@ -7854,7 +7854,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-10.995574951171875</z>
 			</rotation>
@@ -8052,7 +8052,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-12.566370010375977</z>
 			</rotation>
@@ -8173,7 +8173,7 @@
 				<z>-1200</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -8393,7 +8393,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-3.141592025756836</z>
 			</rotation>
@@ -8459,7 +8459,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-12.566370964050293</z>
 			</rotation>
@@ -8690,7 +8690,7 @@
 				<z>-1200</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-4.71238899230957</z>
 			</rotation>
@@ -9482,7 +9482,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-9.42477798461914</z>
 			</rotation>
@@ -9636,7 +9636,7 @@
 				<z>-1200</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-4.71238899230957</z>
 			</rotation>
@@ -10252,7 +10252,7 @@
 				<z>-1200</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-3.1415929794311523</z>
 			</rotation>
@@ -10659,7 +10659,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-3.1415929794311523</z>
 			</rotation>
@@ -10703,7 +10703,7 @@
 				<z>-600</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="elements" name="nakhl">
+		<prop library-name="zamin" group-name="elements" name="nakhl">
 			<rotation>
 				<z>-6.283185958862305</z>
 			</rotation>

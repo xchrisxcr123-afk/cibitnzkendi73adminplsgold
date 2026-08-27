@@ -561,7 +561,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 1 left">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -27071,7 +27071,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 1">
+    <prop library-name="Industrial Bridge" group-name="default" name="Bridge 1 left">
       <rotation>
         <z>-1.570796</z>
       </rotation>

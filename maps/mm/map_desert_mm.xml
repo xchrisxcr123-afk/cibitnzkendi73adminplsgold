@@ -33,7 +33,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -1221,7 +1221,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>-1.570796012878418</z>
 			</rotation>
@@ -1309,7 +1309,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>4.71238899230957</z>
 			</rotation>
@@ -1353,7 +1353,7 @@
 				<z>600</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -1375,7 +1375,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -1727,7 +1727,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -1848,7 +1848,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>-1.570796012878418</z>
 			</rotation>
@@ -1936,7 +1936,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>4.71238899230957</z>
 			</rotation>
@@ -2035,7 +2035,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -2079,7 +2079,7 @@
 				<z>900</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -2332,7 +2332,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -2508,7 +2508,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -2552,7 +2552,7 @@
 				<z>600</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -2640,7 +2640,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -2662,7 +2662,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -2750,7 +2750,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -3058,7 +3058,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -3113,7 +3113,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -3223,7 +3223,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -3410,7 +3410,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -3476,7 +3476,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>4.71238899230957</z>
 			</rotation>
@@ -3663,7 +3663,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -3674,7 +3674,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -3707,7 +3707,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -3806,7 +3806,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -3993,7 +3993,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>6.283185005187988</z>
 			</rotation>
@@ -4004,7 +4004,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -4015,7 +4015,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -4081,7 +4081,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>6.283185005187988</z>
 			</rotation>
@@ -4103,7 +4103,7 @@
 				<z>600</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>4.71238899230957</z>
 			</rotation>
@@ -4180,7 +4180,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>4.71238899230957</z>
 			</rotation>
@@ -4202,7 +4202,7 @@
 				<z>900</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -4301,7 +4301,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>-1.570796012878418</z>
 			</rotation>
@@ -4345,7 +4345,7 @@
 				<z>900</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -4455,7 +4455,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -4532,7 +4532,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>4.71238899230957</z>
 			</rotation>
@@ -4598,7 +4598,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -4642,7 +4642,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>6.283185005187988</z>
 			</rotation>
@@ -4708,7 +4708,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>6.283185005187988</z>
 			</rotation>
@@ -4741,7 +4741,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -4752,7 +4752,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -4906,7 +4906,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>6.283185005187988</z>
 			</rotation>
@@ -4917,7 +4917,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -5049,7 +5049,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>4.71238899230957</z>
 			</rotation>
@@ -5082,7 +5082,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>-1.570796012878418</z>
 			</rotation>
@@ -5368,7 +5368,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -5434,7 +5434,7 @@
 				<z>900</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -5489,7 +5489,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>-1.570796012878418</z>
 			</rotation>
@@ -5577,7 +5577,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -5599,7 +5599,7 @@
 				<z>600</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -5797,7 +5797,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -6083,7 +6083,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -6204,7 +6204,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -6303,7 +6303,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>4.71238899230957</z>
 			</rotation>
@@ -6886,7 +6886,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -6974,7 +6974,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>4.71238899230957</z>
 			</rotation>
@@ -7051,7 +7051,7 @@
 				<z>900</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -7084,7 +7084,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -7161,7 +7161,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -7205,7 +7205,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -7722,7 +7722,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>4.71238899230957</z>
 			</rotation>
@@ -7766,7 +7766,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -7909,7 +7909,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -8239,7 +8239,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -8250,7 +8250,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -8261,7 +8261,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>6.283185005187988</z>
 			</rotation>
@@ -8316,7 +8316,7 @@
 				<z>900</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>6.283185005187988</z>
 			</rotation>
@@ -8503,7 +8503,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -8525,7 +8525,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>-1.570796012878418</z>
 			</rotation>
@@ -8701,7 +8701,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -8800,7 +8800,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -9031,7 +9031,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -9196,7 +9196,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -9449,7 +9449,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -9504,7 +9504,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -9988,7 +9988,7 @@
 				<z>900</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -10021,7 +10021,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -10087,7 +10087,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -10351,7 +10351,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -10428,7 +10428,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -10934,7 +10934,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -10989,7 +10989,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -11022,7 +11022,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -11198,7 +11198,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -11352,7 +11352,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -11462,7 +11462,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -11561,7 +11561,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -11583,7 +11583,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -11902,7 +11902,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -11957,7 +11957,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -12177,7 +12177,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>-1.570796012878418</z>
 			</rotation>
@@ -12452,7 +12452,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -12683,7 +12683,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>-1.570796012878418</z>
 			</rotation>
@@ -13035,7 +13035,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -13079,7 +13079,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -13156,7 +13156,7 @@
 				<z>600</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -13277,7 +13277,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>6.283185005187988</z>
 			</rotation>
@@ -13343,7 +13343,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -13365,7 +13365,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -13387,7 +13387,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -13497,7 +13497,7 @@
 				<z>600</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -13761,7 +13761,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>4.71238899230957</z>
 			</rotation>
@@ -13915,7 +13915,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -13948,7 +13948,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -14014,7 +14014,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -14036,7 +14036,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>6.283185005187988</z>
 			</rotation>
@@ -14080,7 +14080,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -14113,7 +14113,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -14201,7 +14201,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>-1.570796012878418</z>
 			</rotation>
@@ -14476,7 +14476,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -14520,7 +14520,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>-1.570796012878418</z>
 			</rotation>
@@ -14542,7 +14542,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -14553,7 +14553,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -14630,7 +14630,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -14718,7 +14718,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>4.71238899230957</z>
 			</rotation>
@@ -14784,7 +14784,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -15136,7 +15136,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -15169,7 +15169,7 @@
 				<z>900</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>6.283185005187988</z>
 			</rotation>
@@ -15224,7 +15224,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>6.283185005187988</z>
 			</rotation>
@@ -15257,7 +15257,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -15422,7 +15422,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -15466,7 +15466,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -16137,7 +16137,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -16159,7 +16159,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -16170,7 +16170,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -16302,7 +16302,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>6.283185005187988</z>
 			</rotation>
@@ -16335,7 +16335,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -16423,7 +16423,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -16434,7 +16434,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -16709,7 +16709,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -16819,7 +16819,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>6.283185005187988</z>
 			</rotation>
@@ -16874,7 +16874,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>-1.570796012878418</z>
 			</rotation>
@@ -16885,7 +16885,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -16940,7 +16940,7 @@
 				<z>600</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>-1.570796012878418</z>
 			</rotation>
@@ -16984,7 +16984,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -17204,7 +17204,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -17325,7 +17325,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -17424,7 +17424,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -17655,7 +17655,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>4.71238899230957</z>
 			</rotation>
@@ -17666,7 +17666,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -17754,7 +17754,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -17809,7 +17809,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -17908,7 +17908,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -17941,7 +17941,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -18172,7 +18172,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -18260,7 +18260,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>4.71238899230957</z>
 			</rotation>
@@ -18293,7 +18293,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -18337,7 +18337,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -18546,7 +18546,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>6.283185005187988</z>
 			</rotation>
@@ -18766,7 +18766,7 @@
 				<z>600</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>4.71238899230957</z>
 			</rotation>
@@ -18821,7 +18821,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -18854,7 +18854,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -18887,7 +18887,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -19162,7 +19162,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -19283,7 +19283,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>4.71238899230957</z>
 			</rotation>
@@ -19404,7 +19404,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -19448,7 +19448,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -19470,7 +19470,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>-1.570796012878418</z>
 			</rotation>
@@ -19800,7 +19800,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -19877,7 +19877,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>-1.570796012878418</z>
 			</rotation>
@@ -19899,7 +19899,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -19921,7 +19921,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -20020,7 +20020,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -20416,7 +20416,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -20526,7 +20526,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -20581,7 +20581,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -20647,7 +20647,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -20658,7 +20658,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -20691,7 +20691,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -20713,7 +20713,7 @@
 				<z>600</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -20779,7 +20779,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -21010,7 +21010,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -21142,7 +21142,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>6.283185005187988</z>
 			</rotation>
@@ -21483,7 +21483,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -21516,7 +21516,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -21604,7 +21604,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>4.71238899230957</z>
 			</rotation>
@@ -21615,7 +21615,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>6.283185005187988</z>
 			</rotation>
@@ -21692,7 +21692,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -21835,7 +21835,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -22000,7 +22000,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -22198,7 +22198,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>6.283185005187988</z>
 			</rotation>
@@ -22275,7 +22275,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -22297,7 +22297,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>-1.570796012878418</z>
 			</rotation>
@@ -22308,7 +22308,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -22451,7 +22451,7 @@
 				<z>600</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>6.283185005187988</z>
 			</rotation>
@@ -22814,7 +22814,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -23375,7 +23375,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>6.283185005187988</z>
 			</rotation>
@@ -23540,7 +23540,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -23859,7 +23859,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -23903,7 +23903,7 @@
 				<z>600</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -24068,7 +24068,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>4.71238899230957</z>
 			</rotation>
@@ -24321,7 +24321,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
@@ -24519,7 +24519,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -24563,7 +24563,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>1.570796012878418</z>
 			</rotation>
@@ -24673,7 +24673,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -25223,7 +25223,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -25267,7 +25267,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="5x5">
+		<prop library-name="zamin" group-name="zamin" name="5x5">
 			<rotation>
 				<z>3.1415929794311523</z>
 			</rotation>
@@ -25278,7 +25278,7 @@
 				<z>0</z>
 			</position>
 		</prop>
-		<prop library-name="Iran zamin" group-name="zamin" name="1x1">
+		<prop library-name="zamin" group-name="zamin" name="1x1">
 			<rotation>
 				<z>0</z>
 			</rotation>
