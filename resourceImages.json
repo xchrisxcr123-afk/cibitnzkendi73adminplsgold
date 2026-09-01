@@ -1,4 +1,4 @@
-{
+﻿{
     "id": "IMAGES",
     "items": [
         {
@@ -10932,7 +10932,7 @@
         },
         {
             "name": "titan_lc_preview",
-            "src": "hull/titan_lc/m0/preview.png"
+            "src": "hull/titan_lc/m0/preview.png?V1"
         },
         {
             "name": "dictator_lc_details",
@@ -10944,7 +10944,7 @@
         },
         {
             "name": "dictator_lc_preview",
-            "src": "hull/dictator_lc/m0/preview.png"
+            "src": "hull/dictator_lc/m0/preview.png?v1"
         },
         {
             "name": "flamethrower_lc_details",
@@ -10956,7 +10956,7 @@
         },
         {
             "name": "flamethrower_lc_preview",
-            "src": "turret/flamethrower_lc/m0/preview.png"
+            "src": "turret/flamethrower_lc/m0/preview.png?v1"
         },
         {
             "name": "vulcan_lc_details",
@@ -10968,7 +10968,7 @@
         },
         {
             "name": "vulcan_lc_preview",
-            "src": "turret/vulcan_lc/m0/preview.png"
+            "src": "turret/vulcan_lc/m0/preview.png?v1"
         },
         {
             "name": "juggernaut_ut_details",
@@ -10985,6 +10985,30 @@
         {
             "name": "juggernaut_ut_preview",
             "src": "hull/juggernaut_ut/m0/preview.png"
+        },
+        {
+            "name": "hunter_lc_details",
+            "src": "hull/hunter_lc/m0/details.png"
+        },
+        {
+            "name": "hunter_lc_lightmap",
+            "src": "hull/hunter_lc/m0/lightmap.jpg"
+        },
+        {
+            "name": "hunter_lc_preview",
+            "src": "hull/hunter_lc/m0/preview.png"
+        },
+        {
+            "name": "snowman_lc_details",
+            "src": "turret/snowman_lc/m0/details.png"
+        },
+        {
+            "name": "snowman_lc_lightmap",
+            "src": "turret/snowman_lc/m0/lightmap.jpg"
+        },
+        {
+            "name": "snowman_lc_preview",
+            "src": "turret/snowman_lc/m0/preview.png"
         }
     ]
 }

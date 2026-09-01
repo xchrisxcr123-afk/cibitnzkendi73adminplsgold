@@ -664,6 +664,14 @@
         {
             "name": "juggernaut_ut",
             "src": "hull/juggernaut_ut/m0/hull.3ds"
+        },
+        {
+            "name": "hunter_lc",
+            "src": "hull/hunter_lc/m0/hull.3ds"
+        },
+        {
+            "name": "snowman_lc",
+            "src": "turret/snowman_lc/m0/turret.3ds"
         }
     ]
 }
