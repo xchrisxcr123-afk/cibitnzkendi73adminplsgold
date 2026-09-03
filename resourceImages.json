@@ -10612,7 +10612,7 @@
         },
         {
             "name": "ricochet_lc_preview",
-            "src": "turret/ricochet_lc/m0/preview.png"
+            "src": "turret/ricochet_lc/m0/preview.png?V1"
         },
         {
             "name": "ultimate_skin_wasp_standard_flame",
