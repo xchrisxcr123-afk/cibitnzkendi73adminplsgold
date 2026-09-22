@@ -103,7 +103,7 @@
         },
         {
             "name": "vulcan_pr",
-            "src": "turret/vulcan_pr/m0/turret.3ds?v2"
+            "src": "turret/vulcan_pr/m0/turret.3ds?v3"
         },
         {
             "name": "railgun_ut",
@@ -674,7 +674,7 @@
             "src": "turret/snowman_lc/m0/turret.3ds"
         },
         {
-            "name": "mammoth_sp",
+            "name": "mamont_sp",
             "src": "hull/mammoth_sp/m0/hull.3ds"
         },
         {
