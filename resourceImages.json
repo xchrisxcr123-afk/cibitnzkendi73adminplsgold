@@ -11009,6 +11009,70 @@
         {
             "name": "snowman_lc_preview",
             "src": "turret/snowman_lc/m0/preview.png"
+        },
+        {
+            "name": "mammoth_sp_details",
+            "src": "hull/mammoth_sp/m0/details.png"
+        },
+        {
+            "name": "mammoth_sp_lightmap",
+            "src": "hull/mammoth_sp/m0/lightmap.jpg"
+        },
+        {
+            "name": "mammoth_sp_tracks",
+            "src": "hull/mammoth_sp/m0/tracks.jpg"
+        },
+        {
+            "name": "mammoth_sp_preview",
+            "src": "hull/mammoth_sp/m0/preview.png"
+        },
+        {
+            "name": "twins_sp_details",
+            "src": "turret/twins_sp/m0/details.png"
+        },
+        {
+            "name": "twins_sp_lightmap",
+            "src": "turret/twins_sp/m0/lightmap.jpg"
+        },
+        {
+            "name": "twins_sp_preview",
+            "src": "turret/twins_sp/m0/preview.png"
+        },
+        {
+            "name": "viking_vt_details",
+            "src": "hull/viking_vt/m0/details.png"
+        },
+        {
+            "name": "viking_vt_lightmap",
+            "src": "hull/viking_vt/m0/lightmap.jpg"
+        },
+        {
+            "name": "viking_vt_tracks",
+            "src": "hull/viking_vt/m0/tracks.jpg"
+        },
+        {
+            "name": "viking_vt_preview",
+            "src": "hull/viking_vt/m0/preview.png"
+        },
+        {
+            "name": "thunder_vt_details",
+            "src": "turret/thunder_vt/m0/details.png"
+        },
+        {
+            "name": "thunder_vt_lightmap",
+            "src": "turret/thunder_vt/m0/lightmap.jpg"
+        },
+        {
+            "name": "thunder_vt_preview",
+            "src": "turret/thunder_vt/m0/preview.png"
+        },
+        {
+            "name": "ghost_m0",
+            "src": "colormaps/ghost/image.jpg"
+        },
+        {
+            "name": "ghost_m0_preview",
+            "src": "colormaps/ghost/preview.png"
         }
     ]
 }

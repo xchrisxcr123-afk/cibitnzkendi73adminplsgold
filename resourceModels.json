@@ -103,7 +103,7 @@
         },
         {
             "name": "vulcan_pr",
-            "src": "turret/vulcan_pr/m0/turret.3ds?v1"
+            "src": "turret/vulcan_pr/m0/turret.3ds?v2"
         },
         {
             "name": "railgun_ut",
@@ -672,6 +672,22 @@
         {
             "name": "snowman_lc",
             "src": "turret/snowman_lc/m0/turret.3ds"
+        },
+        {
+            "name": "mammoth_sp",
+            "src": "hull/mammoth_sp/m0/hull.3ds"
+        },
+        {
+            "name": "twins_sp",
+            "src": "turret/twins_sp/m0/turret.3ds"
+        },
+        {
+            "name": "viking_vt",
+            "src": "hull/viking_vt/m0/hull.a3d"
+        },
+        {
+            "name": "thunder_vt",
+            "src": "turret/thunder_vt/m0/turret.a3d"
         }
     ]
 }
