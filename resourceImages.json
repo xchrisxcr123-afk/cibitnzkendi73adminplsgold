@@ -11073,6 +11073,46 @@
         {
             "name": "ghost_m0_preview",
             "src": "colormaps/ghost/preview.png"
+        },
+        {
+            "name": "wasp_vt_lightmap",
+            "src": "hull/wasp_vt/m0/lightmap.jpg"
+        },
+        {
+            "name": "wasp_vt_details",
+            "src": "hull/wasp_vt/m0/details.png"
+        },
+        {
+            "name": "wasp_vt_tracks",
+            "src": "hull/wasp_vt/m0/tracks.jpg"
+        },
+        {
+            "name": "wasp_vt_preview",
+            "src": "hull/wasp_vt/m0/preview.png"
+        },
+        {
+            "name": "frezee_ic_lightmap",
+            "src": "turret/frezee_ic/m0/lightmap.jpg"
+        },
+        {
+            "name": "frezee_ic_details",
+            "src": "turret/frezee_ic/m0/details.png"
+        },
+        {
+            "name": "frezee_ic_preview",
+            "src": "turret/frezee_ic/m0/preview.png"
+        },
+        {
+            "name": "snowman_ic_lightmap",
+            "src": "turret/snowman_ic/m0/lightmap.jpg"
+        },
+        {
+            "name": "snowman_ic_details",
+            "src": "turret/snowman_ic/m0/details.png"
+        },
+        {
+            "name": "snowman_ic_preview",
+            "src": "turret/snowman_ic/m0/preview.png"
         }
     ]
 }

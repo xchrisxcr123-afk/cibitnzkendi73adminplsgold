@@ -688,6 +688,18 @@
         {
             "name": "thunder_vt",
             "src": "turret/thunder_vt/m0/turret.a3d"
+        },
+        {
+            "name": "wasp_vt",
+            "src": "hull/wasp_vt/m0/hull.a3d"
+        },
+        {
+            "name": "frezee_ic",
+            "src": "turret/frezee_ic/m0/turret.3ds"
+        },
+        {
+            "name": "snowman_ic",
+            "src": "turret/snowman_ic/m0/turret.a3d"
         }
     ]
 }
