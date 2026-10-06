@@ -700,6 +700,30 @@
         {
             "name": "snowman_ic",
             "src": "turret/snowman_ic/m0/turret.a3d"
+        },
+        {
+            "name": "striker_xt",
+            "src": "turret/striker_xt/m0/turret.3ds"
+        },
+        {
+            "name": "striker_xt_hd",
+            "src": "turret/striker_xt_hd/m0/turret.a3d"
+        },
+        {
+            "name": "striker_m0",
+            "src": "turret/striker/m0/turret.3ds"
+        },
+        {
+            "name": "striker_m1",
+            "src": "turret/striker/m1/turret.3ds"
+        },
+        {
+            "name": "striker_m2",
+            "src": "turret/striker/m2/turret.3ds"
+        },
+        {
+            "name": "striker_m3",
+            "src": "turret/striker/m3/turret.3ds"
         }
     ]
 }

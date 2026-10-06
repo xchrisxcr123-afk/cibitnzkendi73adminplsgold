@@ -11113,6 +11113,222 @@
         {
             "name": "snowman_ic_preview",
             "src": "turret/snowman_ic/m0/preview.png"
+        },
+        {
+            "name": "striker_xt_lightmap",
+            "src": "turret/striker_xt/m0/lightmap.jpg"
+        },
+        {
+            "name": "striker_xt_details",
+            "src": "turret/striker_xt/m0/details.png"
+        },
+        {
+            "name": "striker_xt_preview",
+            "src": "turret/striker_xt/m0/preview.png"
+        },
+        {
+            "name": "striker_xt_hd_lightmap",
+            "src": "turret/striker_xt_hd/m0/lightmap.jpg"
+        },
+        {
+            "name": "striker_xt_hd_details",
+            "src": "turret/striker_xt_hd/m0/details.png"
+        },
+        {
+            "name": "striker_xt_hd_preview",
+            "src": "turret/striker_xt_hd/m0/preview.png"
+        },
+        {
+            "name": "striker_m0_lightmap",
+            "src": "turret/striker/m0/lightmap.jpg"
+        },
+        {
+            "name": "striker_m0_details",
+            "src": "turret/striker/m0/details.png"
+        },
+        {
+            "name": "striker_m0_preview",
+            "src": "turret/striker/m0/preview.png"
+        },
+        {
+            "name": "striker_m1_lightmap",
+            "src": "turret/striker/m1/lightmap.jpg"
+        },
+        {
+            "name": "striker_m1_details",
+            "src": "turret/striker/m1/details.png"
+        },
+        {
+            "name": "striker_m1_preview",
+            "src": "turret/striker/m1/preview.png"
+        },
+        {
+            "name": "striker_m2_lightmap",
+            "src": "turret/striker/m2/lightmap.jpg"
+        },
+        {
+            "name": "striker_m2_details",
+            "src": "turret/striker/m2/details.png"
+        },
+        {
+            "name": "striker_m2_preview",
+            "src": "turret/striker/m2/preview.png"
+        },
+        {
+            "name": "striker_m3_lightmap",
+            "src": "turret/striker/m3/lightmap.jpg"
+        },
+        {
+            "name": "striker_m3_details",
+            "src": "turret/striker/m3/details.png"
+        },
+        {
+            "name": "striker_m3_preview",
+            "src": "turret/striker/m3/preview.png"
+        },
+        {
+            "name": "striker_m0_rocketExplosion",
+            "src": "turret/striker/shoteffects/standard/explosion.png"
+        },
+        {
+            "name": "striker_m0_rocketFlame",
+            "src": "turret/striker/shoteffects/standard/flame.png"
+        },
+        {
+            "name": "striker_m0_explosionMark",
+            "src": "turret/striker/shoteffects/standard/mark.png"
+        },
+        {
+            "name": "striker_m0_rocketSmoke",
+            "src": "turret/striker/shoteffects/standard/smoke.png"
+        },
+        {
+            "name": "striker_m1_rocketExplosion",
+            "src": "turret/striker/shoteffects/standard/explosion.png"
+        },
+        {
+            "name": "striker_m1_rocketFlame",
+            "src": "turret/striker/shoteffects/standard/flame.png"
+        },
+        {
+            "name": "striker_m1_explosionMark",
+            "src": "turret/striker/shoteffects/standard/mark.png"
+        },
+        {
+            "name": "striker_m1_rocketSmoke",
+            "src": "turret/striker/shoteffects/standard/smoke.png"
+        },
+        {
+            "name": "striker_m2_rocketExplosion",
+            "src": "turret/striker/shoteffects/standard/explosion.png"
+        },
+        {
+            "name": "striker_m2_rocketFlame",
+            "src": "turret/striker/shoteffects/standard/flame.png"
+        },
+        {
+            "name": "striker_m2_explosionMark",
+            "src": "turret/striker/shoteffects/standard/mark.png"
+        },
+        {
+            "name": "striker_m2_rocketSmoke",
+            "src": "turret/striker/shoteffects/standard/smoke.png"
+        },
+        {
+            "name": "striker_m3_rocketExplosion",
+            "src": "turret/striker/shoteffects/standard/explosion.png"
+        },
+        {
+            "name": "striker_m3_rocketFlame",
+            "src": "turret/striker/shoteffects/standard/flame.png"
+        },
+        {
+            "name": "striker_m3_explosionMark",
+            "src": "turret/striker/shoteffects/standard/mark.png"
+        },
+        {
+            "name": "striker_m3_rocketSmoke",
+            "src": "turret/striker/shoteffects/standard/smoke.png"
+        },
+        {
+            "name": "striker_blue_rocketExplosion",
+            "src": "turret/striker/shoteffects/blue/explosion.png"
+        },
+        {
+            "name": "striker_blue_rocketSmoke",
+            "src": "turret/striker/shoteffects/blue/smoke.png"
+        },
+        {
+            "name": "striker_blue_rocketFlame",
+            "src": "turret/striker/shoteffects/standard/flame.png"
+        },
+        {
+            "name": "striker_blue_explosionMark",
+            "src": "turret/striker/shoteffects/standard/mark.png"
+        },
+        {
+            "name": "striker_crimson_rocketExplosion",
+            "src": "turret/striker/shoteffects/crimson/explosion.png"
+        },
+        {
+            "name": "striker_crimson_rocketSmoke",
+            "src": "turret/striker/shoteffects/crimson/smoke.png"
+        },
+        {
+            "name": "striker_crimson_rocketFlame",
+            "src": "turret/striker/shoteffects/standard/flame.png"
+        },
+        {
+            "name": "striker_crimson_explosionMark",
+            "src": "turret/striker/shoteffects/standard/mark.png"
+        },
+        {
+            "name": "striker_toxic_rocketExplosion",
+            "src": "turret/striker/shoteffects/toxic/explosion.png"
+        },
+        {
+            "name": "striker_toxic_rocketSmoke",
+            "src": "turret/striker/shoteffects/toxic/smoke.png"
+        },
+        {
+            "name": "striker_toxic_rocketFlame",
+            "src": "turret/striker/shoteffects/standard/flame.png"
+        },
+        {
+            "name": "striker_toxic_explosionMark",
+            "src": "turret/striker/shoteffects/standard/mark.png"
+        },
+        {
+            "name": "striker_violet_rocketExplosion",
+            "src": "turret/striker/shoteffects/violet/explosion.png"
+        },
+        {
+            "name": "striker_violet_rocketSmoke",
+            "src": "turret/striker/shoteffects/violet/smoke.png"
+        },
+        {
+            "name": "striker_violet_rocketFlame",
+            "src": "turret/striker/shoteffects/standard/flame.png"
+        },
+        {
+            "name": "striker_violet_explosionMark",
+            "src": "turret/striker/shoteffects/standard/mark.png"
+        },
+        {
+            "name": "orka_m0_preview",
+            "src": "resistance/orka/m0/preview.png"
+        },
+        {
+            "name": "orka_m1_preview",
+            "src": "resistance/orka/m1/preview.png"
+        },
+        {
+            "name": "orka_m2_preview",
+            "src": "resistance/orka/m2/preview.png"
+        },
+        {
+            "name": "orka_m3_preview",
+            "src": "resistance/orka/m3/preview.png"
         }
     ]
 }
