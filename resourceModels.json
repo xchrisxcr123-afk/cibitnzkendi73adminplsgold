@@ -724,6 +724,10 @@
         {
             "name": "striker_m3",
             "src": "turret/striker/m3/turret.3ds"
+        },
+        {
+            "name": "dictator_sp",
+            "src": "hull/dictator_sp/m0/hull.a3d"
         }
     ]
 }

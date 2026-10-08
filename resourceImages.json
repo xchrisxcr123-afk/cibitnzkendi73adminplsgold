@@ -11148,7 +11148,7 @@
         },
         {
             "name": "striker_m0_preview",
-            "src": "turret/striker/m0/preview.png"
+            "src": "turret/striker/m0/preview.png?v1"
         },
         {
             "name": "striker_m1_lightmap",
@@ -11160,7 +11160,7 @@
         },
         {
             "name": "striker_m1_preview",
-            "src": "turret/striker/m1/preview.png"
+            "src": "turret/striker/m1/preview.png?v1"
         },
         {
             "name": "striker_m2_lightmap",
@@ -11172,7 +11172,7 @@
         },
         {
             "name": "striker_m2_preview",
-            "src": "turret/striker/m2/preview.png"
+            "src": "turret/striker/m2/preview.png?v1"
         },
         {
             "name": "striker_m3_lightmap",
@@ -11184,7 +11184,7 @@
         },
         {
             "name": "striker_m3_preview",
-            "src": "turret/striker/m3/preview.png"
+            "src": "turret/striker/m3/preview.png?v1"
         },
         {
             "name": "striker_m0_rocketExplosion",
@@ -11329,6 +11329,22 @@
         {
             "name": "orka_m3_preview",
             "src": "resistance/orka/m3/preview.png"
+        },
+        {
+            "name": "dictator_sp_lightmap",
+            "src": "hull/dictator_sp/m0/lightmap.jpg"
+        },
+        {
+            "name": "dictator_sp_details",
+            "src": "hull/dictator_sp/m0/details.png"
+        },
+        {
+            "name": "dictator_sp_tracks",
+            "src": "hull/dictator_sp/m0/tracks.jpg"
+        },
+        {
+            "name": "dictator_sp_preview",
+            "src": "hull/dictator_sp/m0/preview.png"
         }
     ]
 }
