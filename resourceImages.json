@@ -3955,6 +3955,14 @@
             "src": "colormaps/infernalhex/preview.png"
         },
         {
+            "name": "angelsanddemons_m0",
+            "src": "colormaps/angelsanddemons/image.jpg"
+        },
+        {
+            "name": "angelsanddemons_m0_preview",
+            "src": "colormaps/angelsanddemons/preview.png"
+        },
+        {
             "name": "bloodmoon_m0",
             "src": "colormaps/bloodmoon/image.jpg"
         },
