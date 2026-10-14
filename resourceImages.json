@@ -11353,6 +11353,46 @@
         {
             "name": "dictator_sp_preview",
             "src": "hull/dictator_sp/m0/preview.png"
+        },
+        {
+            "name": "grasslands_m0",
+            "src": "colormaps/grasslands/image.jpg"
+        },
+        {
+            "name": "grasslands_m0_preview",
+            "src": "colormaps/grasslands/preview.png"
+        },
+        {
+            "name": "space_m0",
+            "src": "colormaps/space/image.jpg"
+        },
+        {
+            "name": "space_m0_preview",
+            "src": "colormaps/space/preview.png"
+        },
+        {
+            "name": "kit_rocketeer_m0_preview",
+            "src": "kits/images/kit_rocketeer_preview/image.png"
+        },
+        {
+            "name": "kit_raider_m0_preview",
+            "src": "kits/images/kit_raider_preview/image.png"
+        },
+        {
+            "name": "kit_stalker_m0_preview",
+            "src": "kits/images/kit_stalker_preview/image.png"
+        },
+        {
+            "name": "kit_cosmonaut_m0_preview",
+            "src": "kits/images/kit_cosmonaut_preview/image.png"
+        },
+        {
+            "name": "kit_justice_m0_preview",
+            "src": "kits/images/kit_justice_preview/image.png"
+        },
+        {
+            "name": "kit_challenger_m0_preview",
+            "src": "kits/images/kit_challenger_preview/image.png"
         }
     ]
 }
