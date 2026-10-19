@@ -428,6 +428,42 @@
         {
             "name": "sound_meteorite_distant",
             "src": "meteor/sound_meteorite_distant/sound.mp3"
+        },
+        {
+            "name": "sound_magnum_charge",
+            "src": "turret/magnum/sounds/charge.mp3"
+        },
+        {
+            "name": "sound_magnum_explosion",
+            "src": "turret/magnum/sounds/explosion.mp3"
+        },
+        {
+            "name": "sound_magnum_far_shot",
+            "src": "turret/magnum/sounds/far_shot.mp3"
+        },
+        {
+            "name": "sound_magnum_reload",
+            "src": "turret/magnum/sounds/reload.mp3"
+        },
+        {
+            "name": "sound_magnum_shell_flight",
+            "src": "turret/magnum/sounds/shell_flight.mp3"
+        },
+        {
+            "name": "sound_magnum_shot_1",
+            "src": "turret/magnum/sounds/shot_1.mp3"
+        },
+        {
+            "name": "sound_magnum_shot_2",
+            "src": "turret/magnum/sounds/shot_2.mp3"
+        },
+        {
+            "name": "sound_magnum_shot_3",
+            "src": "turret/magnum/sounds/shot_3.mp3"
+        },
+        {
+            "name": "sound_magnum_shot_4",
+            "src": "turret/magnum/sounds/shot_4.mp3"
         }
     ]
 }

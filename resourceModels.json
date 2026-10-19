@@ -728,6 +728,30 @@
         {
             "name": "dictator_sp",
             "src": "hull/dictator_sp/m0/hull.a3d"
+        },
+        {
+            "name": "magnum_m0",
+            "src": "turret/magnum/m0/turret.3ds"
+        },
+        {
+            "name": "magnum_m1",
+            "src": "turret/magnum/m1/turret.3ds"
+        },
+        {
+            "name": "magnum_m2",
+            "src": "turret/magnum/m2/turret.3ds"
+        },
+        {
+            "name": "magnum_m3",
+            "src": "turret/magnum/m3/turret.3ds"
+        },
+        {
+            "name": "magnum_xt",
+            "src": "turret/magnum_xt/m0/turret.3ds"
+        },
+        {
+            "name": "magnum_sp",
+            "src": "turret/magnum_sp/m0/turret.3ds"
         }
     ]
 }

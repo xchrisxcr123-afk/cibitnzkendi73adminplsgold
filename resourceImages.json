@@ -11393,6 +11393,322 @@
         {
             "name": "kit_challenger_m0_preview",
             "src": "kits/images/kit_challenger_preview/image.png"
+        },
+        {
+            "name": "magnum_m0_lightmap",
+            "src": "turret/magnum/m0/lightmap.jpg"
+        },
+        {
+            "name": "magnum_m0_details",
+            "src": "turret/magnum/m0/details.png"
+        },
+        {
+            "name": "magnum_m0_preview",
+            "src": "turret/magnum/m0/preview.png"
+        },
+        {
+            "name": "magnum_m1_lightmap",
+            "src": "turret/magnum/m1/lightmap.jpg"
+        },
+        {
+            "name": "magnum_m1_details",
+            "src": "turret/magnum/m1/details.png"
+        },
+        {
+            "name": "magnum_m1_preview",
+            "src": "turret/magnum/m1/preview.png"
+        },
+        {
+            "name": "magnum_m2_lightmap",
+            "src": "turret/magnum/m2/lightmap.jpg"
+        },
+        {
+            "name": "magnum_m2_details",
+            "src": "turret/magnum/m2/details.png"
+        },
+        {
+            "name": "magnum_m2_preview",
+            "src": "turret/magnum/m2/preview.png"
+        },
+        {
+            "name": "magnum_m3_lightmap",
+            "src": "turret/magnum/m3/lightmap.jpg"
+        },
+        {
+            "name": "magnum_m3_details",
+            "src": "turret/magnum/m3/details.png"
+        },
+        {
+            "name": "magnum_m3_preview",
+            "src": "turret/magnum/m3/preview.png"
+        },
+        {
+            "name": "magnum_m0_explosionMark",
+            "src": "turret/magnum/shoteffects/standard/mark.png"
+        },
+        {
+            "name": "magnum_m0_muzzleFlame",
+            "src": "turret/magnum/shoteffects/standard/flame.png"
+        },
+        {
+            "name": "magnum_m0_muzzleSmoke",
+            "src": "turret/magnum/shoteffects/standard/smoke.png"
+        },
+        {
+            "name": "magnum_m0_muzzleStream",
+            "src": "turret/magnum/shoteffects/standard/stream.png"
+        },
+        {
+            "name": "magnum_m0_shellExplosion",
+            "src": "turret/magnum/shoteffects/standard/explosion.png"
+        },
+        {
+            "name": "magnum_m0_shellTrail",
+            "src": "turret/magnum/shoteffects/standard/trail.png"
+        },
+        {
+            "name": "magnum_m1_explosionMark",
+            "src": "turret/magnum/shoteffects/standard/mark.png"
+        },
+        {
+            "name": "magnum_m1_muzzleFlame",
+            "src": "turret/magnum/shoteffects/standard/flame.png"
+        },
+        {
+            "name": "magnum_m1_muzzleSmoke",
+            "src": "turret/magnum/shoteffects/standard/smoke.png"
+        },
+        {
+            "name": "magnum_m1_muzzleStream",
+            "src": "turret/magnum/shoteffects/standard/stream.png"
+        },
+        {
+            "name": "magnum_m1_shellExplosion",
+            "src": "turret/magnum/shoteffects/standard/explosion.png"
+        },
+        {
+            "name": "magnum_m1_shellTrail",
+            "src": "turret/magnum/shoteffects/standard/trail.png"
+        },
+        {
+            "name": "magnum_m2_explosionMark",
+            "src": "turret/magnum/shoteffects/standard/mark.png"
+        },
+        {
+            "name": "magnum_m2_muzzleFlame",
+            "src": "turret/magnum/shoteffects/standard/flame.png"
+        },
+        {
+            "name": "magnum_m2_muzzleSmoke",
+            "src": "turret/magnum/shoteffects/standard/smoke.png"
+        },
+        {
+            "name": "magnum_m2_muzzleStream",
+            "src": "turret/magnum/shoteffects/standard/stream.png"
+        },
+        {
+            "name": "magnum_m2_shellExplosion",
+            "src": "turret/magnum/shoteffects/standard/explosion.png"
+        },
+        {
+            "name": "magnum_m2_shellTrail",
+            "src": "turret/magnum/shoteffects/standard/trail.png"
+        },
+        {
+            "name": "magnum_m3_explosionMark",
+            "src": "turret/magnum/shoteffects/standard/mark.png"
+        },
+        {
+            "name": "magnum_m3_muzzleFlame",
+            "src": "turret/magnum/shoteffects/standard/flame.png"
+        },
+        {
+            "name": "magnum_m3_muzzleSmoke",
+            "src": "turret/magnum/shoteffects/standard/smoke.png"
+        },
+        {
+            "name": "magnum_m3_muzzleStream",
+            "src": "turret/magnum/shoteffects/standard/stream.png"
+        },
+        {
+            "name": "magnum_m3_shellExplosion",
+            "src": "turret/magnum/shoteffects/standard/explosion.png"
+        },
+        {
+            "name": "magnum_m3_shellTrail",
+            "src": "turret/magnum/shoteffects/standard/trail.png"
+        },
+        {
+            "name": "magnum_mortar",
+            "src": "augments/magnum_mortar/image.png"
+        },
+        {
+            "name": "magnum_automated_gunpowder_loading_mechanism",
+            "src": "augments/magnum_automated_gunpowder_loading_mechanism/image.png"
+        },
+        {
+            "name": "magnum_reinforced_gun_carriage",
+            "src": "augments/magnum_reinforced_gun_carriage/image.png"
+        },
+        {
+            "name": "griffin_m0_preview",
+            "src": "resistance/griffin/m0/preview.png"
+        },
+        {
+            "name": "griffin_m1_preview",
+            "src": "resistance/griffin/m1/preview.png"
+        },
+        {
+            "name": "griffin_m2_preview",
+            "src": "resistance/griffin/m2/preview.png"
+        },
+        {
+            "name": "griffin_m3_preview",
+            "src": "resistance/griffin/m3/preview.png"
+        },
+        {
+            "name": "magnum_xt_lightmap",
+            "src": "turret/magnum_xt/m0/lightmap.jpg"
+        },
+        {
+            "name": "magnum_xt_details",
+            "src": "turret/magnum_xt/m0/details.png"
+        },
+        {
+            "name": "magnum_xt_preview",
+            "src": "turret/magnum_xt/m0/preview.png"
+        },
+        {
+            "name": "magnum_sp_lightmap",
+            "src": "turret/magnum_sp/m0/lightmap.jpg"
+        },
+        {
+            "name": "magnum_sp_details",
+            "src": "turret/magnum_sp/m0/details.png"
+        },
+        {
+            "name": "magnum_sp_preview",
+            "src": "turret/magnum_sp/m0/preview.png"
+        },
+        {
+            "name": "magnum_blue_explosionMark",
+            "src": "turret/magnum/shoteffects/standard/mark.png"
+        },
+        {
+            "name": "magnum_blue_muzzleFlame",
+            "src": "turret/magnum/shoteffects/standard/flame.png"
+        },
+        {
+            "name": "magnum_blue_muzzleSmoke",
+            "src": "turret/magnum/shoteffects/blue/smoke.png"
+        },
+        {
+            "name": "magnum_blue_muzzleStream",
+            "src": "turret/magnum/shoteffects/standard/stream.png"
+        },
+        {
+            "name": "magnum_blue_shellExplosion",
+            "src": "turret/magnum/shoteffects/blue/explosion.png"
+        },
+        {
+            "name": "magnum_blue_shellTrail",
+            "src": "turret/magnum/shoteffects/blue/trail.png"
+        },
+        {
+            "name": "magnum_crimson_explosionMark",
+            "src": "turret/magnum/shoteffects/standard/mark.png"
+        },
+        {
+            "name": "magnum_crimson_muzzleFlame",
+            "src": "turret/magnum/shoteffects/standard/flame.png"
+        },
+        {
+            "name": "magnum_crimson_muzzleSmoke",
+            "src": "turret/magnum/shoteffects/crimson/smoke.png"
+        },
+        {
+            "name": "magnum_crimson_muzzleStream",
+            "src": "turret/magnum/shoteffects/standard/stream.png"
+        },
+        {
+            "name": "magnum_crimson_shellExplosion",
+            "src": "turret/magnum/shoteffects/crimson/explosion.png"
+        },
+        {
+            "name": "magnum_crimson_shellTrail",
+            "src": "turret/magnum/shoteffects/crimson/trail.png"
+        },
+        {
+            "name": "magnum_eclipse_explosionMark",
+            "src": "turret/magnum/shoteffects/standard/mark.png"
+        },
+        {
+            "name": "magnum_eclipse_muzzleFlame",
+            "src": "turret/magnum/shoteffects/standard/flame.png"
+        },
+        {
+            "name": "magnum_eclipse_muzzleSmoke",
+            "src": "turret/magnum/shoteffects/eclipse/smoke.png"
+        },
+        {
+            "name": "magnum_eclipse_muzzleStream",
+            "src": "turret/magnum/shoteffects/standard/stream.png"
+        },
+        {
+            "name": "magnum_eclipse_shellExplosion",
+            "src": "turret/magnum/shoteffects/eclipse/explosion.png"
+        },
+        {
+            "name": "magnum_eclipse_shellTrail",
+            "src": "turret/magnum/shoteffects/eclipse/trail.png"
+        },
+        {
+            "name": "magnum_toxic_explosionMark",
+            "src": "turret/magnum/shoteffects/standard/mark.png"
+        },
+        {
+            "name": "magnum_toxic_muzzleFlame",
+            "src": "turret/magnum/shoteffects/standard/flame.png"
+        },
+        {
+            "name": "magnum_toxic_muzzleSmoke",
+            "src": "turret/magnum/shoteffects/toxic/smoke.png"
+        },
+        {
+            "name": "magnum_toxic_muzzleStream",
+            "src": "turret/magnum/shoteffects/standard/stream.png"
+        },
+        {
+            "name": "magnum_toxic_shellExplosion",
+            "src": "turret/magnum/shoteffects/toxic/explosion.png"
+        },
+        {
+            "name": "magnum_toxic_shellTrail",
+            "src": "turret/magnum/shoteffects/toxic/trail.png"
+        },
+        {
+            "name": "magnum_violet_explosionMark",
+            "src": "turret/magnum/shoteffects/standard/mark.png"
+        },
+        {
+            "name": "magnum_violet_muzzleFlame",
+            "src": "turret/magnum/shoteffects/standard/flame.png"
+        },
+        {
+            "name": "magnum_violet_muzzleSmoke",
+            "src": "turret/magnum/shoteffects/violet/smoke.png"
+        },
+        {
+            "name": "magnum_violet_muzzleStream",
+            "src": "turret/magnum/shoteffects/standard/stream.png"
+        },
+        {
+            "name": "magnum_violet_shellExplosion",
+            "src": "turret/magnum/shoteffects/violet/explosion.png"
+        },
+        {
+            "name": "magnum_violet_shellTrail",
+            "src": "turret/magnum/shoteffects/violet/trail.png"
         }
     ]
 }
