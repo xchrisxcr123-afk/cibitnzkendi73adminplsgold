@@ -464,6 +464,10 @@
         {
             "name": "sound_magnum_shot_4",
             "src": "turret/magnum/sounds/shot_4.mp3"
+        },
+        {
+            "name": "halloween_sound_id",
+            "src": "sounds/halloween.mp3"
         }
     ]
 }

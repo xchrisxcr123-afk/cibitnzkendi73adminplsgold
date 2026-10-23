@@ -752,6 +752,30 @@
         {
             "name": "magnum_sp",
             "src": "turret/magnum_sp/m0/turret.3ds"
+        },
+        {
+            "name": "titan_sp",
+            "src": "hull/titan_sp/m0/hull.3ds"
+        },
+        {
+            "name": "ricochet_dc",
+            "src": "turret/ricochet_dc/m0/turret.a3d"
+        },
+        {
+            "name": "shaft_dc",
+            "src": "turret/shaft_dc/m0/turret.a3d"
+        },
+        {
+            "name": "bonus_meteorite_rocket",
+            "src": "meteor/meteorite_rocket/object.3ds"
+        },
+        {
+            "name": "bonus_box_goldhw",
+            "src": "bonus/boxes/halloween/1000/object.3ds"
+        },
+        {
+            "name": "bonus_box_gold300hw",
+            "src": "bonus/boxes/halloween/3000/object.3ds"
         }
     ]
 }

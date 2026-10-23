@@ -616,6 +616,30 @@
         {
             "name": "map_yorkshire_mm",
             "src": "maps/mm/map_yorkshire_mm.xml"
+        },
+        {
+            "name": "map_halloween_2023_dxxth",
+            "src": "maps/map_halloween_2023_dxxth.xml"
+        },
+        {
+            "name": "map_halloween_2023_errorcg",
+            "src": "maps/map_halloween_2023_errorcg.xml"
+        },
+        {
+            "name": "map_highland_demonic",
+            "src": "maps/map_highland_demonic.xml"
+        },
+        {
+            "name": "map_industrial_zone_demonic",
+            "src": "maps/map_industrial_zone_demonic.xml"
+        },
+        {
+            "name": "map_polygon_demonic",
+            "src": "maps/map_polygon_demonic.xml"
+        },
+        {
+            "name": "map_silence_demonic",
+            "src": "maps/map_silence_demonic.xml"
         }
     ]
 }

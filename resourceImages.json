@@ -7348,11 +7348,11 @@
         },
         {
             "name": "map_hw_highland_preview",
-            "src": "maps/map_hw_highland_preview.png"
+            "src": "maps/map_hw_highland.jpg"
         },
         {
             "name": "map_hw_hills_preview",
-            "src": "maps/map_hw_hills_preview.png"
+            "src": "maps/map_hw_hills.jpg"
         },
         {
             "name": "map_hw_monastery_preview",
@@ -11709,6 +11709,90 @@
         {
             "name": "magnum_violet_shellTrail",
             "src": "turret/magnum/shoteffects/violet/trail.png"
+        },
+        {
+            "name": "titan_sp_lightmap",
+            "src": "hull/titan_sp/m0/lightmap.jpg"
+        },
+        {
+            "name": "titan_sp_details",
+            "src": "hull/titan_sp/m0/details.png"
+        },
+        {
+            "name": "titan_sp_tracks",
+            "src": "hull/titan_sp/m0/tracks.jpg"
+        },
+        {
+            "name": "titan_sp_preview",
+            "src": "hull/titan_sp/m0/preview.png"
+        },
+        {
+            "name": "ricochet_dc_lightmap",
+            "src": "turret/ricochet_dc/m0/lightmap.jpg"
+        },
+        {
+            "name": "ricochet_dc_details",
+            "src": "turret/ricochet_dc/m0/details.png"
+        },
+        {
+            "name": "ricochet_dc_preview",
+            "src": "turret/ricochet_dc/m0/preview.png"
+        },
+        {
+            "name": "shaft_dc_lightmap",
+            "src": "turret/shaft_dc/m0/lightmap.jpg"
+        },
+        {
+            "name": "shaft_dc_details",
+            "src": "turret/shaft_dc/m0/details.png"
+        },
+        {
+            "name": "shaft_dc_preview",
+            "src": "turret/shaft_dc/m0/preview.png"
+        },
+        {
+            "name": "coffin_lid_m0",
+            "src": "colormaps/coffin_lid/image.jpg"
+        },
+        {
+            "name": "coffin_lid_m0_preview",
+            "src": "colormaps/coffin_lid/preview.png"
+        },
+        {
+            "name": "bonus_meteorite_rocket_lightmap",
+            "src": "meteor/meteorite_rocket/meteorite.jpg"
+        },
+        {
+            "name": "bonus_box_goldhw",
+            "src": "bonus/boxes/halloween/1000/bonus.jpg"
+        },
+        {
+            "name": "bonus_box_gold300hw",
+            "src": "bonus/boxes/halloween/3000/bonus.jpg"
+        },
+        {
+            "name": "map_halloween_2023_dxxth_preview",
+            "src": "maps/map_halloween_2023_dxxth.jpg"
+        },
+        {
+            "name": "map_halloween_2023_errorcg_preview",
+            "src": "maps/map_halloween_2023_errorcg.jpg"
+        },
+        {
+            "name": "map_highland_demonic_preview",
+            "src": "maps/map_highland_demonic.jpg"
+        },
+        {
+            "name": "map_industrial_zone_demonic_preview",
+            "src": "maps/map_industrial_zone_demonic.jpg"
+        },
+        {
+            "name": "map_polygon_demonic_preview",
+            "src": "maps/map_polygon_demonic.jpg"
+        },
+        {
+            "name": "map_silence_demonic_preview",
+            "src": "maps/map_silence_demonic.jpg"
         }
     ]
 }
