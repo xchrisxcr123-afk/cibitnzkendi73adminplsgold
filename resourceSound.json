@@ -468,6 +468,10 @@
         {
             "name": "halloween_sound_id",
             "src": "sounds/halloween.mp3"
+        },
+        {
+            "name": "gold_halloween",
+            "src": "sounds/siren_halloween.mp3"
         }
     ]
 }
