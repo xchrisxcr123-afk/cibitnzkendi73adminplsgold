@@ -2793,7 +2793,7 @@
         },
         {
             "name": "holiday_m0",
-            "src": "colormaps/holiday/image_hw.jpg",
+            "src": "colormaps/holiday/image_hw.png?v2",
             "multiframe": true,
             "fps": 3,
             "frame_heigth": 128,
@@ -2802,7 +2802,7 @@
         },
         {
             "name": "holiday_m0_preview",
-            "src": "colormaps/holiday/preview_hw.png"
+            "src": "colormaps/holiday/preview_hw.png?v3"
         },
         {
             "name": "red_m0",
